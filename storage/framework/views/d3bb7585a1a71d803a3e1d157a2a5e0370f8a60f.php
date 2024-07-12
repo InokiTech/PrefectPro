@@ -1,0 +1,1 @@
+<?php /**PATH /home/foxtjfzg/public_html/academits.com/resources/views/external_plugin.blade.php ENDPATH**/ ?>

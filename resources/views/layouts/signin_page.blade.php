@@ -13,14 +13,14 @@
     <link rel="shortcut icon" href="{{ asset('assets/uploads/logo/'.get_settings('favicon')) }}" />
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/vendors/bootstrap-5.1.3/css/bootstrap.min.css') }}">
-    
+
     <!--Custom css-->
     <!-- <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/main.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/style.css') }}"> -->
-    
+
     <link rel="stylesheet" type="text/css" href="{{ asset('frontend/assets/css/login.css') }}">
-    
-    
+
+
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/vendors/bootstrap-icons-1.8.1/bootstrap-icons.css') }}">
 
     <!--Toaster css-->
@@ -48,41 +48,49 @@
     <!--Toaster Script-->
     <script src="{{ asset('assets/js/toastr.min.js') }}"></script>
 
-    <script>
-        "use strict";
 
-        @if(Session::has('message'))
+    <!-- "use strict"; -->
+
+    @if(Session::has('message'))
+    <script>
         toastr.options = {
             "closeButton": true,
             "progressBar": true
         }
         toastr.success("{{ session('message') }}");
-        @endif
+    </script>
+    @endif
 
-        @if(Session::has('error'))
+    @if(Session::has('error'))
+    <script>
         toastr.options = {
             "closeButton": true,
             "progressBar": true
         }
         toastr.error("{{ session('error') }}");
-        @endif
+    </script>
+    @endif
 
-        @if(Session::has('info'))
+    @if(Session::has('info'))
+    <script>
         toastr.options = {
             "closeButton": true,
             "progressBar": true
         }
         toastr.info("{{ session('info') }}");
-        @endif
+    </script>
+    @endif
 
-        @if(Session::has('warning'))
+    @if(Session::has('warning'))
+    <script>
         toastr.options = {
             "closeButton": true,
             "progressBar": true
         }
         toastr.warning("{{ session('warning') }}");
-        @endif
     </script>
+    @endif
+
 </body>
 
 </html>

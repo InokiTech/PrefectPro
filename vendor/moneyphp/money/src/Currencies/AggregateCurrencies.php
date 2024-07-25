@@ -15,15 +15,11 @@ use Traversable;
  */
 final class AggregateCurrencies implements Currencies
 {
-    /** @var Currencies[] */
-    private array $currencies;
-
     /**
      * @param Currencies[] $currencies
      */
-    public function __construct(array $currencies)
+    public function __construct(private readonly array $currencies)
     {
-        $this->currencies = $currencies;
     }
 
     public function contains(Currency $currency): bool
@@ -55,7 +51,9 @@ final class AggregateCurrencies implements Currencies
         $iterator = new AppendIterator();
 
         foreach ($this->currencies as $currencies) {
-            $iterator->append($currencies->getIterator());
+            $currencyIterator = $currencies->getIterator();
+            /** @psalm-var AppendIterator&Traversable<int|string, Currency> $currencyIterator */
+            $iterator->append($currencyIterator);
         }
 
         return $iterator;

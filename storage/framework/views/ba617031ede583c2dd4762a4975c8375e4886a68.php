@@ -1,0 +1,1 @@
+<?php /**PATH C:\laragon\www\PrefectPro\resources\views/external_plugin.blade.php ENDPATH**/ ?>

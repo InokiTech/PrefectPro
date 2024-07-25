@@ -14,6 +14,7 @@ use App\Http\Controllers\PaystackController;
 use App\Http\Controllers\LibrarianController;
 use App\Http\Controllers\AccountantController;
 use App\Http\Controllers\Updater;
+use Illuminate\Support\Facades\Auth;
 
 /*
 |--------------------------------------------------------------------------
@@ -27,20 +28,20 @@ use App\Http\Controllers\Updater;
 */
 
 
-// Clear application cache:
-Route::get('/clear-cache', function() {
-    Artisan::call('cache:clear');
+// // Clear application cache:
+// Route::get('/clear-cache', function() {
+//     Artisan::call('cache:clear');
 
-    Artisan::call('route:cache');
+//     Artisan::call('route:cache');
 
-    Artisan::call('config:cache');
+//     Artisan::call('config:cache');
 
-    Artisan::call('view:clear');
+//     Artisan::call('view:clear');
 
-    Artisan::call('optimize:clear');
+//     Artisan::call('optimize:clear');
 
-    return 'Cache cleard';
-})->name('clear.cache');
+//     return 'Cache cleard';
+// })->name('clear.cache');
 
 Route::view('/', 'auth.login')->name('landingPage');
 
@@ -675,7 +676,7 @@ Route::controller(StudentController::class)->middleware('student','auth')->group
     Route::get('student/fee_manager/export/{date_from}/{date_to}/{selected_status}', 'feeManagerExport')->name('student.fee_manager.export');
     Route::get('student/payment/success/{user_data}/{response}', 'student_fee_success_payment_student')->name('student.student_fee_success_payment_student');
     Route::get('student/payment/fail/{user_data}/{response}', 'student_fee_fail_payment_student')->name('student.student_fee_fail_payment_student');
-    
+
     Route::get('student/fee_manager/payment/{id}', 'FeePayment')->name('student.FeePayment');
     Route::post('student/student_fee/offline_payment/{id}', 'offlinePaymentStudent')->name('student.offline_payment');
     Route::get('student/student_fee/invoice/{id}', 'studentFeeinvoice')->name('student.studentFeeinvoice');

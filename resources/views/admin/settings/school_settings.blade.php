@@ -1,5 +1,5 @@
 @extends('admin.navigation')
-   
+
 @section('content')
 <div class="mainSection-title">
     <div class="row">
@@ -19,7 +19,7 @@
                     <div class="col-md-6 pb-3">
                         <div class="eForm-layouts">
                             <form method="POST" enctype="multipart/form-data" class="d-block ajaxForm" action="{{ route('admin.school.update') }}">
-                                @csrf 
+                                @csrf
 
                                 <div class="fpb-7">
                                     <label for="school_name" class="eForm-label">{{ get_phrase('School Name') }}</label>
@@ -28,7 +28,7 @@
 
                                 <div class="fpb-7">
                                     <label for="phone" class="eForm-label">{{ get_phrase('School Phone') }}</label>
-                                    <input type="number" class="form-control eForm-control" value="{{ $school_details->phone }}" id="phone" name = "phone" required>
+                                    <input type="text" class="form-control eForm-control" value="{{ $school_details->phone }}" id="phone" name = "phone" required>
                                 </div>
 
                                 <div class="fpb-7">

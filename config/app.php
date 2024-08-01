@@ -73,8 +73,10 @@ return [
     // 'url' => $app_url,
 
     // 'asset_url' => $asset_url,
-    
+
     'url' => env('APP_URL', 'http://localhost'),
+    
+    'asset_url' =>env('ASSET_URL', 'http://localhost'),
 
     /*
     |--------------------------------------------------------------------------
@@ -195,7 +197,7 @@ return [
         // App\Providers\BroadcastServiceProvider::class,
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
-
+        App\Providers\TenancyServiceProvider::class,
     ],
 
     /*

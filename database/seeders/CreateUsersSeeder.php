@@ -20,19 +20,10 @@ class CreateUsersSeeder extends Seeder
                'email'=>'superadmin@example.com',
                'role_id'=>'1',
                'password'=> bcrypt('1234'),
-            ],
-            [
-               'name'=>'Admin',
-               'email'=>'admin@example.com',
-               'role_id'=>'2',
-               'password'=> bcrypt('1234'),
-            ],
-            [
-               'name'=>'User',
-               'email'=>'student@example.com',
-               'role_id'=>'3',
-               'password'=> bcrypt('1234'),
-            ],
+               'domain'=> 'prefectpro.test',
+               'code' => null,
+               'user_information' => '{"birthday":1691690400,"gender":"Male","phone":"123456","address":"Address","photo":"user.png"}',
+            ]
         ];
   
         foreach ($user as $key => $value) {

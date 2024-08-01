@@ -1,6 +1,6 @@
 @extends('layouts.signin_page')
 
-@section('title') {{ get_phrase('Login').' | '.get_settings('system_title') }} @endsection
+@section('title') {{ get_phrase('Login').' | '.tenant('id') ? tenant('id') : 'Prefect Pro' }} @endsection
 
 @section('content')
     <div class="d-lg-flex half">
@@ -15,9 +15,9 @@
                         </a>
                     </div>
                     <div class="col-md-7 login-form">
-                        <h3>Login to <strong>Prefect Pro</strong></h3>
+                        <h3>Login to <strong>{{tenant('id') ? tenant('id') : 'Prefect Pro'}}</strong></h3>
                         <p class="mt-4 mb-4">Welcome</p>
-                        <form method="post" action="{{ route('login') }}">
+                        <form method="post" action="{{ tenant('id') ? route('tenant.login') : route('login') }}">
                             @csrf
                             <div class="form-group first">
                                 <label for="email">{{ get_phrase('Email') }}</label>
@@ -35,7 +35,7 @@
                                     <input type="checkbox" checked="checked" />
                                     <div class="control__indicator"></div>
                                 </label>
-                                <span class="ml-auto"><a href="{{ route('password.request') }}" target="_blank"
+                                <span class="ml-auto"><a href="{{ tenant('id') ? route('tenant.password.request') : route('password.request') }}" target="_blank"
                                         class="forgot-pass text-dark">{{ get_phrase('Forgot password') }}</a></span>
                             </div>
 

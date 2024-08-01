@@ -3,7 +3,7 @@
 
 <head>
     <!-- New -->
-    <title>{{ get_phrase('Admin').' | '.get_settings('system_title') }}</title>
+    <title>{{ get_phrase('Admin').' | '.tenant('id') ? tenant('id') : 'Prefect Pro'  }}</title>
     <!-- all the meta tags -->
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -25,8 +25,8 @@
       type="text/css"
       href="{{ asset('assets/css/swiper-bundle.min.css') }}"
     />
-    
-    
+
+
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/style.css') }}" />
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/main.css') }}" />
     <!-- Datepicker css -->
@@ -67,9 +67,9 @@
     <div class="sidebar">
         <div class="logo-details mt-4 mb-3">
             <div class="img_wrapper">
-                <img height="40px" class="" src="{{ asset('assets/uploads/logo/'.get_settings('white_logo')) }}" alt="" />
+                <img height="40px" class="" src="{{ asset('assets/uploads/logo/'.get_settings('light_logo')) }}" alt="" />
             </div>
-            <span class="logo_name">{{ get_settings('navbar_title') }}</span>
+            <!-- <span class="logo_name">{{ get_settings('navbar_title') }}</span> -->
         </div>
         <div class="closeIcon">
           <span>
@@ -481,7 +481,7 @@
                           <path d="M4.176 9.032a.5.5 0 0 0-.656.327l-.5 1.7a.5.5 0 0 0 .294.605l4.5 1.8a.5.5 0 0 0 .372 0l4.5-1.8a.5.5 0 0 0 .294-.605l-.5-1.7a.5.5 0 0 0-.656-.327L8 10.466 4.176 9.032Zm-.068 1.873.22-.748 3.496 1.311a.5.5 0 0 0 .352 0l3.496-1.311.22.748L8 12.46l-3.892-1.556Z"/>
                         </svg>
                         {{-- <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"  viewBox="0 0 16 16">
-                          
+
                         </svg> --}}
                     </div>
                     <span class="link_name">
@@ -497,7 +497,7 @@
                             fill="#fff" opacity="1" />
                     </svg>
                 </span>
-                
+
             </div>
             <ul class="sub-menu">
 
@@ -693,7 +693,7 @@
                 </p>
               </div>
             </div>
-            
+
             <div class="col-auto">
               <div class="header-menu">
                 <ul>
@@ -798,14 +798,14 @@
                             {{ get_phrase('Change Password') }}
                           </a>
                         </li>
-                        
+
                         <li>
                           <hr class="my-0">
                         </li>
-                
+
                         <!-- Logout Button -->
                         <li>
-                            <a class="btn eLogut_btn" href="{{ route('logout') }}" onclick="event.preventDefault();document.getElementById('logout-form').submit();">
+                            <a class="btn eLogut_btn" href="{{ tenant('id') ? route('tenant.logout') : route('logout') }}" onclick="event.preventDefault();document.getElementById('logout-form').submit();">
                                 <span>
                                   <svg
                                     xmlns="http://www.w3.org/2000/svg"
@@ -823,7 +823,7 @@
                                 </span>
                                 {{ get_phrase('Log out') }}
                             </a>
-                            <form id="logout-form" action="{{ route('logout') }}" method="POST" class="d-none">
+                            <form id="logout-form" action="{{ tenant('id') ? route('tenant.logout') : route('logout') }}" method="POST" class="d-none">
                                 @csrf
                             </form>
                         </li>
@@ -933,7 +933,7 @@
     <script>
 
         "use strict";
-        
+
         jQuery(document).ready(function(){
         $('input[name="datetimes"]').daterangepicker({
             timePicker: true,

@@ -1,9 +1,9 @@
 <?php
-   
+
 use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
-   
+
 class CreateUsersTable extends Migration
 {
     /**
@@ -18,17 +18,19 @@ class CreateUsersTable extends Migration
             $table->string('name');
             $table->string('email');
             $table->timestamp('email_verified_at')->nullable();
+            $table->string('domain', 255)->unique();
             $table->string('role_id')->nullable();
-            $table->int('parent_id')->nullable();
-            $table->int('school_id')->nullable();
+            $table->unsignedBigInteger('parent_id')->nullable();
+            $table->unsignedBigInteger('school_id')->nullable();
             $table->string('password');
-            $table->string('code');
+            $table->string('code')->nullable();
             $table->longText('user_information')->nullable();
+            $table->integer('status')->nullable();
             $table->rememberToken();
             $table->timestamps();
         });
     }
-  
+
     /**
      * Reverse the migrations.
      *

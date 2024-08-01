@@ -13,7 +13,7 @@ class CreateEnrollmentTable extends Migration
      */
     public function up()
     {
-        Schema::create('enrollment', function (Blueprint $table) {
+        Schema::create('enrollments', function (Blueprint $table) {
             $table->id();
             $table->integer('user_id');
             $table->integer('class_id');

@@ -15,7 +15,7 @@ app('router')->setCompiledRoutes(
     array (
   'compiled' => 
   array (
-    0 => false,
+    0 => true,
     1 => 
     array (
       '/sanctum/csrf-cookie' => 
@@ -24,7 +24,7 @@ app('router')->setCompiledRoutes(
         array (
           0 => 
           array (
-            '_route' => 'generated::QEKg7We1HpKuBPHr',
+            '_route' => 'generated::fdwm6hoe8wNwDhrz',
           ),
           1 => NULL,
           2 => 
@@ -102,7 +102,7 @@ app('router')->setCompiledRoutes(
         array (
           0 => 
           array (
-            '_route' => 'generated::tBUVRbJzLsxTEp5O',
+            '_route' => 'generated::PhLb14TsglI6rAXL',
           ),
           1 => NULL,
           2 => 
@@ -122,7 +122,7 @@ app('router')->setCompiledRoutes(
         array (
           0 => 
           array (
-            '_route' => 'generated::URxhrBB1MYVnSQlg',
+            '_route' => 'generated::MFyS6TmN7p03L2oB',
           ),
           1 => NULL,
           2 => 
@@ -141,7 +141,7 @@ app('router')->setCompiledRoutes(
         array (
           0 => 
           array (
-            '_route' => 'generated::9SDvpnXLNocowMw3',
+            '_route' => 'generated::XihXk3IsZZr9VS3Z',
           ),
           1 => NULL,
           2 => 
@@ -160,7 +160,7 @@ app('router')->setCompiledRoutes(
         array (
           0 => 
           array (
-            '_route' => 'generated::FkyKioKoikg3E0BJ',
+            '_route' => 'generated::jTLmiMIn3xwCIkM6',
           ),
           1 => NULL,
           2 => 
@@ -179,7 +179,7 @@ app('router')->setCompiledRoutes(
         array (
           0 => 
           array (
-            '_route' => 'generated::r5EEqb5gHC1cGjP0',
+            '_route' => 'generated::vEOnktHEaYQyAH5m',
           ),
           1 => NULL,
           2 => 
@@ -198,7 +198,7 @@ app('router')->setCompiledRoutes(
         array (
           0 => 
           array (
-            '_route' => 'generated::LTL6L0BF8lyAAsCa',
+            '_route' => 'generated::oJf9cpCB3hl8SkiV',
           ),
           1 => NULL,
           2 => 
@@ -217,7 +217,7 @@ app('router')->setCompiledRoutes(
         array (
           0 => 
           array (
-            '_route' => 'generated::T4zmcpoCIgysKI04',
+            '_route' => 'generated::tpNVQaFQrortW0T1',
           ),
           1 => NULL,
           2 => 
@@ -236,7 +236,7 @@ app('router')->setCompiledRoutes(
         array (
           0 => 
           array (
-            '_route' => 'generated::r0fxrnMZ2KFz77Ho',
+            '_route' => 'generated::fi5xw22x5JGsd1ZF',
           ),
           1 => NULL,
           2 => 
@@ -255,7 +255,7 @@ app('router')->setCompiledRoutes(
         array (
           0 => 
           array (
-            '_route' => 'generated::f03kIwa5VA7encqO',
+            '_route' => 'generated::xd0CtKhLlwosu7Iq',
           ),
           1 => NULL,
           2 => 
@@ -274,7 +274,7 @@ app('router')->setCompiledRoutes(
         array (
           0 => 
           array (
-            '_route' => 'generated::6zD0zT5GZEuj3ZPM',
+            '_route' => 'generated::qp6VnibbuQW1jIu8',
           ),
           1 => NULL,
           2 => 
@@ -293,7 +293,7 @@ app('router')->setCompiledRoutes(
         array (
           0 => 
           array (
-            '_route' => 'generated::l32EKXANa9kbvYyC',
+            '_route' => 'generated::oT31AwHBzrvJbEzq',
           ),
           1 => NULL,
           2 => 
@@ -312,7 +312,7 @@ app('router')->setCompiledRoutes(
         array (
           0 => 
           array (
-            '_route' => 'generated::cIfgXBfAsdz7Km9W',
+            '_route' => 'generated::DExzxuVTEf8PkyQH',
           ),
           1 => NULL,
           2 => 
@@ -331,7 +331,7 @@ app('router')->setCompiledRoutes(
         array (
           0 => 
           array (
-            '_route' => 'generated::ZwPMFVXIiH1iVVtg',
+            '_route' => 'generated::gpaakpiuPV8JB1ax',
           ),
           1 => NULL,
           2 => 
@@ -350,7 +350,7 @@ app('router')->setCompiledRoutes(
         array (
           0 => 
           array (
-            '_route' => 'generated::YI6MPBL8JkrIipTP',
+            '_route' => 'generated::Mhx46CFQ3gE3vxx2',
           ),
           1 => NULL,
           2 => 
@@ -369,7 +369,7 @@ app('router')->setCompiledRoutes(
         array (
           0 => 
           array (
-            '_route' => 'generated::6L8aZvQsB951dXb0',
+            '_route' => 'generated::YJzgok9LduaMfoli',
           ),
           1 => NULL,
           2 => 
@@ -388,7 +388,7 @@ app('router')->setCompiledRoutes(
         array (
           0 => 
           array (
-            '_route' => 'generated::8pqwfBTv65qpQcGK',
+            '_route' => 'generated::iLkhqjzDAU6DQL5i',
           ),
           1 => NULL,
           2 => 
@@ -407,32 +407,12 @@ app('router')->setCompiledRoutes(
         array (
           0 => 
           array (
-            '_route' => 'generated::ygPCBViMOBme6uaX',
+            '_route' => 'generated::Tdoah3KlXNP2ygPz',
           ),
           1 => NULL,
           2 => 
           array (
             'POST' => 0,
-          ),
-          3 => NULL,
-          4 => false,
-          5 => false,
-          6 => NULL,
-        ),
-      ),
-      '/clear-cache' => 
-      array (
-        0 => 
-        array (
-          0 => 
-          array (
-            '_route' => 'clear.cache',
-          ),
-          1 => NULL,
-          2 => 
-          array (
-            'GET' => 0,
-            'HEAD' => 1,
           ),
           3 => NULL,
           4 => false,
@@ -447,6 +427,23 @@ app('router')->setCompiledRoutes(
           0 => 
           array (
             '_route' => 'landingPage',
+          ),
+          1 => 'prefectpro.test',
+          2 => 
+          array (
+            'GET' => 0,
+            'HEAD' => 1,
+          ),
+          3 => NULL,
+          4 => false,
+          5 => false,
+          6 => NULL,
+        ),
+        1 => 
+        array (
+          0 => 
+          array (
+            '_route' => 'generated::XyuAm9sAyrieONUt',
           ),
           1 => NULL,
           2 => 
@@ -468,7 +465,7 @@ app('router')->setCompiledRoutes(
           array (
             '_route' => 'login',
           ),
-          1 => NULL,
+          1 => 'prefectpro.test',
           2 => 
           array (
             'GET' => 0,
@@ -483,12 +480,45 @@ app('router')->setCompiledRoutes(
         array (
           0 => 
           array (
-            '_route' => 'generated::cEjWgAmORKzaEpVL',
+            '_route' => 'generated::ZZdLaXq3PliWPQrg',
+          ),
+          1 => 'prefectpro.test',
+          2 => 
+          array (
+            'POST' => 0,
+          ),
+          3 => NULL,
+          4 => false,
+          5 => false,
+          6 => NULL,
+        ),
+        2 => 
+        array (
+          0 => 
+          array (
+            '_route' => 'tenant.',
           ),
           1 => NULL,
           2 => 
           array (
             'POST' => 0,
+          ),
+          3 => NULL,
+          4 => false,
+          5 => false,
+          6 => NULL,
+        ),
+        3 => 
+        array (
+          0 => 
+          array (
+            '_route' => 'tenant.login',
+          ),
+          1 => NULL,
+          2 => 
+          array (
+            'GET' => 0,
+            'HEAD' => 1,
           ),
           3 => NULL,
           4 => false,
@@ -503,6 +533,22 @@ app('router')->setCompiledRoutes(
           0 => 
           array (
             '_route' => 'logout',
+          ),
+          1 => 'prefectpro.test',
+          2 => 
+          array (
+            'POST' => 0,
+          ),
+          3 => NULL,
+          4 => false,
+          5 => false,
+          6 => NULL,
+        ),
+        1 => 
+        array (
+          0 => 
+          array (
+            '_route' => 'tenant.logout',
           ),
           1 => NULL,
           2 => 
@@ -523,7 +569,7 @@ app('router')->setCompiledRoutes(
           array (
             '_route' => 'register',
           ),
-          1 => NULL,
+          1 => 'prefectpro.test',
           2 => 
           array (
             'GET' => 0,
@@ -538,7 +584,40 @@ app('router')->setCompiledRoutes(
         array (
           0 => 
           array (
-            '_route' => 'generated::L9694LJPKX8TsySc',
+            '_route' => 'generated::kpzvfUYtMTv2TKQA',
+          ),
+          1 => 'prefectpro.test',
+          2 => 
+          array (
+            'POST' => 0,
+          ),
+          3 => NULL,
+          4 => false,
+          5 => false,
+          6 => NULL,
+        ),
+        2 => 
+        array (
+          0 => 
+          array (
+            '_route' => 'tenant.register',
+          ),
+          1 => NULL,
+          2 => 
+          array (
+            'GET' => 0,
+            'HEAD' => 1,
+          ),
+          3 => NULL,
+          4 => false,
+          5 => false,
+          6 => NULL,
+        ),
+        3 => 
+        array (
+          0 => 
+          array (
+            '_route' => 'tenant.generated::imjH6vnJvrYAJDXE',
           ),
           1 => NULL,
           2 => 
@@ -559,7 +638,7 @@ app('router')->setCompiledRoutes(
           array (
             '_route' => 'password.request',
           ),
-          1 => NULL,
+          1 => 'prefectpro.test',
           2 => 
           array (
             'GET' => 0,
@@ -575,6 +654,39 @@ app('router')->setCompiledRoutes(
           0 => 
           array (
             '_route' => 'password.update',
+          ),
+          1 => 'prefectpro.test',
+          2 => 
+          array (
+            'POST' => 0,
+          ),
+          3 => NULL,
+          4 => false,
+          5 => false,
+          6 => NULL,
+        ),
+        2 => 
+        array (
+          0 => 
+          array (
+            '_route' => 'tenant.password.request',
+          ),
+          1 => NULL,
+          2 => 
+          array (
+            'GET' => 0,
+            'HEAD' => 1,
+          ),
+          3 => NULL,
+          4 => false,
+          5 => false,
+          6 => NULL,
+        ),
+        3 => 
+        array (
+          0 => 
+          array (
+            '_route' => 'tenant.password.update',
           ),
           1 => NULL,
           2 => 
@@ -595,6 +707,22 @@ app('router')->setCompiledRoutes(
           array (
             '_route' => 'password.email',
           ),
+          1 => 'prefectpro.test',
+          2 => 
+          array (
+            'POST' => 0,
+          ),
+          3 => NULL,
+          4 => false,
+          5 => false,
+          6 => NULL,
+        ),
+        1 => 
+        array (
+          0 => 
+          array (
+            '_route' => 'tenant.password.email',
+          ),
           1 => NULL,
           2 => 
           array (
@@ -614,7 +742,7 @@ app('router')->setCompiledRoutes(
           array (
             '_route' => 'password.confirm',
           ),
-          1 => NULL,
+          1 => 'prefectpro.test',
           2 => 
           array (
             'GET' => 0,
@@ -629,7 +757,40 @@ app('router')->setCompiledRoutes(
         array (
           0 => 
           array (
-            '_route' => 'generated::YsBfFlyWrKNCS4al',
+            '_route' => 'generated::C7brFrvIr18vKYzi',
+          ),
+          1 => 'prefectpro.test',
+          2 => 
+          array (
+            'POST' => 0,
+          ),
+          3 => NULL,
+          4 => false,
+          5 => false,
+          6 => NULL,
+        ),
+        2 => 
+        array (
+          0 => 
+          array (
+            '_route' => 'tenant.password.confirm',
+          ),
+          1 => NULL,
+          2 => 
+          array (
+            'GET' => 0,
+            'HEAD' => 1,
+          ),
+          3 => NULL,
+          4 => false,
+          5 => false,
+          6 => NULL,
+        ),
+        3 => 
+        array (
+          0 => 
+          array (
+            '_route' => 'tenant.generated::FfbSzHymloaEhG6D',
           ),
           1 => NULL,
           2 => 
@@ -650,7 +811,7 @@ app('router')->setCompiledRoutes(
           array (
             '_route' => 'school.create',
           ),
-          1 => NULL,
+          1 => 'prefectpro.test',
           2 => 
           array (
             'POST' => 0,
@@ -669,7 +830,7 @@ app('router')->setCompiledRoutes(
           array (
             '_route' => 'superadmin.dashboard',
           ),
-          1 => NULL,
+          1 => 'prefectpro.test',
           2 => 
           array (
             'GET' => 0,
@@ -689,7 +850,7 @@ app('router')->setCompiledRoutes(
           array (
             '_route' => 'superadmin.school.list',
           ),
-          1 => NULL,
+          1 => 'prefectpro.test',
           2 => 
           array (
             'GET' => 0,
@@ -709,7 +870,7 @@ app('router')->setCompiledRoutes(
           array (
             '_route' => 'superadmin.school.add',
           ),
-          1 => NULL,
+          1 => 'prefectpro.test',
           2 => 
           array (
             'GET' => 0,
@@ -729,7 +890,7 @@ app('router')->setCompiledRoutes(
           array (
             '_route' => 'superadmin.school.create',
           ),
-          1 => NULL,
+          1 => 'prefectpro.test',
           2 => 
           array (
             'POST' => 0,
@@ -748,7 +909,7 @@ app('router')->setCompiledRoutes(
           array (
             '_route' => 'superadmin.package',
           ),
-          1 => NULL,
+          1 => 'prefectpro.test',
           2 => 
           array (
             'GET' => 0,
@@ -768,7 +929,7 @@ app('router')->setCompiledRoutes(
           array (
             '_route' => 'superadmin.create.package',
           ),
-          1 => NULL,
+          1 => 'prefectpro.test',
           2 => 
           array (
             'GET' => 0,
@@ -788,7 +949,7 @@ app('router')->setCompiledRoutes(
           array (
             '_route' => 'superadmin.package.create',
           ),
-          1 => NULL,
+          1 => 'prefectpro.test',
           2 => 
           array (
             'POST' => 0,
@@ -807,7 +968,7 @@ app('router')->setCompiledRoutes(
           array (
             '_route' => 'superadmin.subscription.report',
           ),
-          1 => NULL,
+          1 => 'prefectpro.test',
           2 => 
           array (
             'GET' => 0,
@@ -827,7 +988,7 @@ app('router')->setCompiledRoutes(
           array (
             '_route' => 'superadmin.subscription.filter_report',
           ),
-          1 => NULL,
+          1 => 'prefectpro.test',
           2 => 
           array (
             'POST' => 0,
@@ -846,7 +1007,7 @@ app('router')->setCompiledRoutes(
           array (
             '_route' => 'superadmin.subscription.pending',
           ),
-          1 => NULL,
+          1 => 'prefectpro.test',
           2 => 
           array (
             'GET' => 0,
@@ -866,7 +1027,7 @@ app('router')->setCompiledRoutes(
           array (
             '_route' => 'superadmin.subscription.filter_pending',
           ),
-          1 => NULL,
+          1 => 'prefectpro.test',
           2 => 
           array (
             'POST' => 0,
@@ -885,7 +1046,7 @@ app('router')->setCompiledRoutes(
           array (
             '_route' => 'superadmin.subscription.expired_subcription',
           ),
-          1 => NULL,
+          1 => 'prefectpro.test',
           2 => 
           array (
             'GET' => 0,
@@ -905,7 +1066,7 @@ app('router')->setCompiledRoutes(
           array (
             '_route' => 'superadmin.addon.list',
           ),
-          1 => NULL,
+          1 => 'prefectpro.test',
           2 => 
           array (
             'GET' => 0,
@@ -925,7 +1086,7 @@ app('router')->setCompiledRoutes(
           array (
             '_route' => 'superadmin.addon.install',
           ),
-          1 => NULL,
+          1 => 'prefectpro.test',
           2 => 
           array (
             'GET' => 0,
@@ -945,7 +1106,7 @@ app('router')->setCompiledRoutes(
           array (
             '_route' => 'superadmin.system_settings',
           ),
-          1 => NULL,
+          1 => 'prefectpro.test',
           2 => 
           array (
             'GET' => 0,
@@ -965,7 +1126,7 @@ app('router')->setCompiledRoutes(
           array (
             '_route' => 'superadmin.system.update',
           ),
-          1 => NULL,
+          1 => 'prefectpro.test',
           2 => 
           array (
             'POST' => 0,
@@ -984,7 +1145,7 @@ app('router')->setCompiledRoutes(
           array (
             '_route' => 'superadmin.website_settings',
           ),
-          1 => NULL,
+          1 => 'prefectpro.test',
           2 => 
           array (
             'GET' => 0,
@@ -1004,7 +1165,7 @@ app('router')->setCompiledRoutes(
           array (
             '_route' => 'superadmin.faq_views',
           ),
-          1 => NULL,
+          1 => 'prefectpro.test',
           2 => 
           array (
             'GET' => 0,
@@ -1024,7 +1185,7 @@ app('router')->setCompiledRoutes(
           array (
             '_route' => 'superadmin.faq_add',
           ),
-          1 => NULL,
+          1 => 'prefectpro.test',
           2 => 
           array (
             'GET' => 0,
@@ -1044,7 +1205,7 @@ app('router')->setCompiledRoutes(
           array (
             '_route' => 'superadmin.faq_create',
           ),
-          1 => NULL,
+          1 => 'prefectpro.test',
           2 => 
           array (
             'POST' => 0,
@@ -1063,7 +1224,7 @@ app('router')->setCompiledRoutes(
           array (
             '_route' => 'superadmin.smtp_settings',
           ),
-          1 => NULL,
+          1 => 'prefectpro.test',
           2 => 
           array (
             'GET' => 0,
@@ -1083,7 +1244,7 @@ app('router')->setCompiledRoutes(
           array (
             '_route' => 'superadmin.smtp.update',
           ),
-          1 => NULL,
+          1 => 'prefectpro.test',
           2 => 
           array (
             'POST' => 0,
@@ -1102,7 +1263,7 @@ app('router')->setCompiledRoutes(
           array (
             '_route' => 'superadmin.about',
           ),
-          1 => NULL,
+          1 => 'prefectpro.test',
           2 => 
           array (
             'GET' => 0,
@@ -1122,7 +1283,7 @@ app('router')->setCompiledRoutes(
           array (
             '_route' => 'superadmin.payment_settings',
           ),
-          1 => NULL,
+          1 => 'prefectpro.test',
           2 => 
           array (
             'GET' => 0,
@@ -1142,7 +1303,7 @@ app('router')->setCompiledRoutes(
           array (
             '_route' => 'superadmin.update_payment_settings',
           ),
-          1 => NULL,
+          1 => 'prefectpro.test',
           2 => 
           array (
             'POST' => 0,
@@ -1161,7 +1322,7 @@ app('router')->setCompiledRoutes(
           array (
             '_route' => 'superadmin.paypal.subscription',
           ),
-          1 => NULL,
+          1 => 'prefectpro.test',
           2 => 
           array (
             'POST' => 0,
@@ -1180,7 +1341,7 @@ app('router')->setCompiledRoutes(
           array (
             '_route' => 'superadmin.stripe.subscription',
           ),
-          1 => NULL,
+          1 => 'prefectpro.test',
           2 => 
           array (
             'POST' => 0,
@@ -1199,7 +1360,7 @@ app('router')->setCompiledRoutes(
           array (
             '_route' => 'superadmin.razorpay.subscription',
           ),
-          1 => NULL,
+          1 => 'prefectpro.test',
           2 => 
           array (
             'POST' => 0,
@@ -1218,7 +1379,7 @@ app('router')->setCompiledRoutes(
           array (
             '_route' => 'superadmin.paytm.subscription',
           ),
-          1 => NULL,
+          1 => 'prefectpro.test',
           2 => 
           array (
             'POST' => 0,
@@ -1237,7 +1398,7 @@ app('router')->setCompiledRoutes(
           array (
             '_route' => 'superadmin.profile',
           ),
-          1 => NULL,
+          1 => 'prefectpro.test',
           2 => 
           array (
             'GET' => 0,
@@ -1257,7 +1418,7 @@ app('router')->setCompiledRoutes(
           array (
             '_route' => 'superadmin.profile.update',
           ),
-          1 => NULL,
+          1 => 'prefectpro.test',
           2 => 
           array (
             'POST' => 0,
@@ -1276,10 +1437,49 @@ app('router')->setCompiledRoutes(
           array (
             '_route' => 'superadmin.logo.update',
           ),
-          1 => NULL,
+          1 => 'prefectpro.test',
           2 => 
           array (
             'POST' => 0,
+          ),
+          3 => NULL,
+          4 => false,
+          5 => false,
+          6 => NULL,
+        ),
+      ),
+      '/superadmin/product/update' => 
+      array (
+        0 => 
+        array (
+          0 => 
+          array (
+            '_route' => 'superadmin.product.update',
+          ),
+          1 => 'prefectpro.test',
+          2 => 
+          array (
+            'POST' => 0,
+          ),
+          3 => NULL,
+          4 => false,
+          5 => false,
+          6 => NULL,
+        ),
+      ),
+      '/test' => 
+      array (
+        0 => 
+        array (
+          0 => 
+          array (
+            '_route' => 'generated::KUoxMKjjTNVppDm8',
+          ),
+          1 => NULL,
+          2 => 
+          array (
+            'GET' => 0,
+            'HEAD' => 1,
           ),
           3 => NULL,
           4 => false,
@@ -4889,280 +5089,38 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      '/superadmin/addon/create' => 
-      array (
-        0 => 
-        array (
-          0 => 
-          array (
-            '_route' => 'superadmin.addon.create',
-          ),
-          1 => NULL,
-          2 => 
-          array (
-            'POST' => 0,
-          ),
-          3 => NULL,
-          4 => false,
-          5 => false,
-          6 => NULL,
-        ),
-      ),
-      '/superadmin/addon/update' => 
-      array (
-        0 => 
-        array (
-          0 => 
-          array (
-            '_route' => 'superadmin.addon.update',
-          ),
-          1 => NULL,
-          2 => 
-          array (
-            'POST' => 0,
-          ),
-          3 => NULL,
-          4 => false,
-          5 => false,
-          6 => NULL,
-        ),
-      ),
-      '/superadmin/product/update' => 
-      array (
-        0 => 
-        array (
-          0 => 
-          array (
-            '_route' => 'superadmin.product.update',
-          ),
-          1 => NULL,
-          2 => 
-          array (
-            'POST' => 0,
-          ),
-          3 => NULL,
-          4 => false,
-          5 => false,
-          6 => NULL,
-        ),
-      ),
-      '/install_ended' => 
-      array (
-        0 => 
-        array (
-          0 => 
-          array (
-            '_route' => 'generated::CojnuFL1q116yW3G',
-          ),
-          1 => NULL,
-          2 => 
-          array (
-            'GET' => 0,
-            'HEAD' => 1,
-          ),
-          3 => NULL,
-          4 => false,
-          5 => false,
-          6 => NULL,
-        ),
-      ),
-      '/install/step0' => 
-      array (
-        0 => 
-        array (
-          0 => 
-          array (
-            '_route' => 'step0',
-          ),
-          1 => NULL,
-          2 => 
-          array (
-            'GET' => 0,
-            'HEAD' => 1,
-          ),
-          3 => NULL,
-          4 => false,
-          5 => false,
-          6 => NULL,
-        ),
-      ),
-      '/install/step1' => 
-      array (
-        0 => 
-        array (
-          0 => 
-          array (
-            '_route' => 'step1',
-          ),
-          1 => NULL,
-          2 => 
-          array (
-            'GET' => 0,
-            'HEAD' => 1,
-          ),
-          3 => NULL,
-          4 => false,
-          5 => false,
-          6 => NULL,
-        ),
-      ),
-      '/install/step2' => 
-      array (
-        0 => 
-        array (
-          0 => 
-          array (
-            '_route' => 'step2',
-          ),
-          1 => NULL,
-          2 => 
-          array (
-            'GET' => 0,
-            'HEAD' => 1,
-          ),
-          3 => NULL,
-          4 => false,
-          5 => false,
-          6 => NULL,
-        ),
-      ),
-      '/install/step3' => 
-      array (
-        0 => 
-        array (
-          0 => 
-          array (
-            '_route' => 'step3',
-          ),
-          1 => NULL,
-          2 => 
-          array (
-            'GET' => 0,
-            'HEAD' => 1,
-            'POST' => 2,
-            'PUT' => 3,
-            'PATCH' => 4,
-            'DELETE' => 5,
-            'OPTIONS' => 6,
-          ),
-          3 => NULL,
-          4 => false,
-          5 => false,
-          6 => NULL,
-        ),
-      ),
-      '/install/step4' => 
-      array (
-        0 => 
-        array (
-          0 => 
-          array (
-            '_route' => 'step4',
-          ),
-          1 => NULL,
-          2 => 
-          array (
-            'GET' => 0,
-            'HEAD' => 1,
-          ),
-          3 => NULL,
-          4 => false,
-          5 => false,
-          6 => NULL,
-        ),
-      ),
-      '/install/install' => 
-      array (
-        0 => 
-        array (
-          0 => 
-          array (
-            '_route' => 'confirm_install',
-          ),
-          1 => NULL,
-          2 => 
-          array (
-            'GET' => 0,
-            'HEAD' => 1,
-          ),
-          3 => NULL,
-          4 => false,
-          5 => false,
-          6 => NULL,
-        ),
-      ),
-      '/install/validate' => 
-      array (
-        0 => 
-        array (
-          0 => 
-          array (
-            '_route' => 'install.validate',
-          ),
-          1 => NULL,
-          2 => 
-          array (
-            'POST' => 0,
-          ),
-          3 => NULL,
-          4 => false,
-          5 => false,
-          6 => NULL,
-        ),
-      ),
-      '/install/finalizing_setup' => 
-      array (
-        0 => 
-        array (
-          0 => 
-          array (
-            '_route' => 'finalizing_setup',
-          ),
-          1 => NULL,
-          2 => 
-          array (
-            'GET' => 0,
-            'HEAD' => 1,
-            'POST' => 2,
-            'PUT' => 3,
-            'PATCH' => 4,
-            'DELETE' => 5,
-            'OPTIONS' => 6,
-          ),
-          3 => NULL,
-          4 => false,
-          5 => false,
-          6 => NULL,
-        ),
-      ),
-      '/install/success' => 
-      array (
-        0 => 
-        array (
-          0 => 
-          array (
-            '_route' => 'success',
-          ),
-          1 => NULL,
-          2 => 
-          array (
-            'GET' => 0,
-            'HEAD' => 1,
-          ),
-          3 => NULL,
-          4 => false,
-          5 => false,
-          6 => NULL,
-        ),
-      ),
     ),
     2 => 
     array (
-      0 => '{^(?|/pa(?|ssword/reset/([^/]++)(*:34)|rent/(?|student(?|/id_card/([^/]++)(*:76)|_fee/(?|invoice/([^/]++)(*:107)|offline_payment/([^/]++)(*:139)))|fee_manager/(?|payment/([^/]++)(*:180)|export/([^/]++)/([^/]++)/([^/]++)(*:221))|pa(?|yment/(?|success/([^/]++)/([^/]++)(*:269)|fail/([^/]++)/([^/]++)(*:299))|ssword/([^/]++)(*:323))|noticeboard/([^/]++)(*:352)))|/s(?|u(?|peradmin/(?|s(?|chool/(?|edit/([^/]++)(*:409)|/update/([^/]++)(*:433)|status_update/([^/]++)/([^/]++)(*:472)|admin_list/([^/]++)(*:499))|ubscription/(?|([^/]++)/([^/]++)(*:540)|delete/([^/]++)(*:563))|ettings/(?|faq(?|_(?|edit/([^/]++)(*:606)|update/([^/]++)(*:629))|/delete/([^/]++)(*:654))|language(?|(?:/([^/]++))?(*:688)|/add(*:700)|(?:/([^/]++))?(*:722)|/delete/([^/]++)(*:746)))|ave_valid_purchase_code(?:/([^/]++))?(*:793))|pa(?|ckage/(?|([^/]++)(?|(*:827))|delete/([^/]++)(*:851))|ssword/([^/]++)(*:875))|addon/(?|status/([^/]++)(*:908)|delete/([^/]++)(*:931)))|b(?|scription/paytm\\-callback/([^/]++)/([^/]++)/([^/]++)(*:997)|jects/([^/]++)(*:1019)))|tudent(?|/(?|noticeboard/([^/]++)(*:1063)|fee_manager/(?|export/([^/]++)/([^/]++)/([^/]++)(*:1120)|payment/([^/]++)(*:1145))|pa(?|yment/(?|success/([^/]++)/([^/]++)(*:1194)|fail/([^/]++)/([^/]++)(*:1225))|ssword/([^/]++)(*:1250))|s(?|tudent_fee/(?|offline_payment/([^/]++)(*:1302)|invoice/([^/]++)(*:1327))|chool_fee/paystack/([^/]++)(*:1364)))|s/([^/]++)(*:1385))|ection/([^/]++)(*:1410))|/a(?|dmin/(?|s(?|ub(?|scription/(?|pay(?|stack/(?|([^/]++)(*:1478)|callback(*:1495))|ment/(?|success/([^/]++)/([^/]++)(*:1538)|fail/([^/]++)/([^/]++)(*:1569)|([^/]++)(*:1586)))|offline(?|/payment/([^/]++)(*:1624)|_payment/([^/]++)(*:1650)))|ject(?|s/([^/]++)(*:1678)|/(?|([^/]++)(?|(*:1702))|delete/([^/]++)(*:1727))))|e(?|ction/([^/]++)(*:1757)|ssion_manager/(?|active_session/([^/]++)(*:1806)|([^/]++)(?|(*:1826))|delete/([^/]++)(*:1851)))|tudent(?|s/([^/]++)(*:1881)|/(?|id_card/([^/]++)(*:1910)|edit/([^/]++)(*:1932)|([^/]++)(*:1949)|delete/([^/]++)(*:1973)|student_profile/([^/]++)(*:2006))|_fee(?|/(?|delete/([^/]++)(?|/([^/]++)(*:2054)|(*:2063))|invoice/([^/]++)(*:2089))|_manager/(?|export/([^/]++)/([^/]++)/([^/]++)/([^/]++)(*:2153)|pdf_print/([^/]++)/([^/]++)/([^/]++)/([^/]++)(*:2207))))|yllabus/(?|edit/([^/]++)(*:2243)|([^/]++)(*:2260)|delete/([^/]++)(*:2284)))|a(?|dmin/(?|edit_modal/([^/]++)(*:2326)|([^/]++)(*:2343)|delete/([^/]++)(*:2367)|admin_profile/([^/]++)(*:2398))|ccountant/(?|edit/([^/]++)(*:2434)|([^/]++)(*:2451)|delete/([^/]++)(*:2475)|accountant_profile/([^/]++)(*:2511)))|teacher/(?|edit/([^/]++)(*:2546)|([^/]++)(*:2563)|delete/([^/]++)(*:2587)|teacher_profile/([^/]++)(*:2620)|permission_update(*:2646))|librarian/(?|edit/([^/]++)(*:2682)|([^/]++)(*:2699)|delete/([^/]++)(*:2723)|librarian_profile/([^/]++)(*:2758))|p(?|a(?|rent/(?|edit/([^/]++)(*:2797)|([^/]++)(*:2814)|delete/([^/]++)(*:2838)|parent_profile/([^/]++)(*:2870))|ssword/([^/]++)(*:2895))|ermission/list/([^/]++)(*:2928)|romote/([^/]++)(*:2952))|offline_(?|admission/(?|([^/]++)(*:2994)|bulk(*:3007)|excel(*:3021))|exam/(?|export/([^/]++)(*:3054)|([^/]++)(?|(*:3074))|delete/([^/]++)(*:3099)))|e(?|x(?|am_(?|category/(?|([^/]++)(?|(*:3147))|delete/([^/]++)(*:3172))|list_by_class/([^/]++)(*:3204))|pense(?|s/(?|([^/]++)(?|(*:3238))|delete/([^/]++)(*:3263))|_category/(?|([^/]++)(?|(*:3297))|delete/([^/]++)(*:3322))))|vents/(?|([^/]++)(?|(*:3354))|delete/([^/]++)(*:3379)))|routine/(?|edit/([^/]++)(*:3414)|([^/]++)(*:3431)|delete/([^/]++)(*:3455))|grade(?|book/subjec_marks/([^/]++)(*:3499)|/(?|([^/]++)(?|(*:3523))|delete/([^/]++)(*:3548)))|department/(?|([^/]++)(?|(*:3584))|delete/([^/]++)(*:3609))|class(?|_room/(?|([^/]++)(?|(*:3647))|delete/([^/]++)(*:3672))|/(?|([^/]++)(?|(*:3697))|section(?|/([^/]++)(*:3726)|s/([^/]++)(*:3745))|delete/([^/]++)(*:3770)))|fee_manager(?|_(?|create/([^/]++)(*:3814)|list/([^/]++)(*:3836))|/([^/]++)(?|(*:3858)|(*:3867)))|book(?|/(?|([^/]++)(?|(*:3900))|delete/([^/]++)(*:3925))|_issue/(?|([^/]++)(?|(*:3956))|return/([^/]++)(*:3981)|delete/([^/]++)(*:4005)))|noticeboard/(?|([^/]++)(?|(*:4042))|delete/([^/]++)(*:4067)))|ccountant/(?|student_fee(?|_manager/(?|export/([^/]++)/([^/]++)/([^/]++)/([^/]++)(*:4159)|pdf_print/([^/]++)/([^/]++)/([^/]++)/([^/]++)(*:4213))|/(?|delete/([^/]++)(?|(*:4245)|/([^/]++)(*:4263))|invoice/([^/]++)(*:4289)))|fee_manager(?|_(?|create/([^/]++)(*:4333)|list/([^/]++)(*:4355))|/([^/]++)(?|(*:4377)|(*:4386)))|expense(?|s/(?|([^/]++)(?|(*:4423))|delete/([^/]++)(*:4448))|_category/(?|([^/]++)(?|(*:4482))|delete/([^/]++)(*:4507)))|noticeboard/([^/]++)(*:4538)|password/([^/]++)(*:4564)))|/teacher/(?|offline_exam/export/([^/]++)(*:4615)|exam_list_by_class/([^/]++)(*:4651)|gradebook/subjec_marks/([^/]++)(*:4691)|syllabus/delete/([^/]++)(*:4724)|noticeboard/([^/]++)(*:4753)|password/([^/]++)(*:4779))|/class/section/([^/]++)(*:4812)|/grade/get/([^/]++)(*:4840)|/user/([^/]++)(*:4863)|/librarian/(?|book(?|/(?|([^/]++)(?|(*:4908))|delete/([^/]++)(*:4933))|_issue/(?|([^/]++)(?|(*:4964))|return/([^/]++)(*:4989)|delete/([^/]++)(*:5013)))|noticeboard/([^/]++)(*:5044)|password/([^/]++)(*:5070))|/install/step4/([^/]++)(*:5103))/?$}sDu',
+      0 => '{^(?|(?:(?:[^./]*+\\.)++)(?|/tenancy/assets(?:/((?:.*)))?(*:58))|(?i:prefectpro\\.test)\\.(?|/password/reset/([^/]++)(*:116)|/su(?|peradmin/(?|s(?|chool/(?|edit/([^/]++)(*:168)|/update/([^/]++)(*:192)|status_update/([^/]++)/([^/]++)(*:231)|admin_list/([^/]++)(*:258))|ubscription/(?|([^/]++)/([^/]++)(*:299)|delete/([^/]++)(*:322))|ettings/(?|faq(?|_(?|edit/([^/]++)(*:365)|update/([^/]++)(*:388))|/delete/([^/]++)(*:413))|language(?|(?:/([^/]++))?(*:447)|/add(*:459)|(?:/([^/]++))?(*:481)|/delete/([^/]++)(*:505)))|ave_valid_purchase_code(?:/([^/]++))?(*:552))|pa(?|ckage/(?|([^/]++)(?|(*:586))|delete/([^/]++)(*:610))|ssword/([^/]++)(*:634))|addon/(?|status/([^/]++)(*:667)|delete/([^/]++)(*:690)))|bscription/paytm\\-callback/([^/]++)/([^/]++)/([^/]++)(*:753))|/admin/subscription/paystack/(?|([^/]++)(*:802)|callback(*:818)))|(?:(?:[^./]*+\\.)++)(?|/pa(?|ssword/reset/([^/]++)(*:877)|rent/(?|student(?|/id_card/([^/]++)(*:920)|_fee/(?|invoice/([^/]++)(*:952)|offline_payment/([^/]++)(*:984)))|fee_manager/(?|payment/([^/]++)(*:1025)|export/([^/]++)/([^/]++)/([^/]++)(*:1067))|pa(?|yment/(?|success/([^/]++)/([^/]++)(*:1116)|fail/([^/]++)/([^/]++)(*:1147))|ssword/([^/]++)(*:1172))|noticeboard/([^/]++)(*:1202)))|/a(?|dmin/(?|s(?|e(?|ction/([^/]++)(*:1248)|ssion_manager/(?|active_session/([^/]++)(*:1297)|([^/]++)(?|(*:1317))|delete/([^/]++)(*:1342)))|ub(?|ject(?|s/([^/]++)(*:1375)|/(?|([^/]++)(?|(*:1399))|delete/([^/]++)(*:1424)))|scription/(?|payment/(?|success/([^/]++)/([^/]++)(*:1484)|fail/([^/]++)/([^/]++)(*:1515)|([^/]++)(*:1532))|offline(?|/payment/([^/]++)(*:1569)|_payment/([^/]++)(*:1595))))|tudent(?|s/([^/]++)(*:1626)|/(?|id_card/([^/]++)(*:1655)|edit/([^/]++)(*:1677)|([^/]++)(*:1694)|delete/([^/]++)(*:1718)|student_profile/([^/]++)(*:1751))|_fee(?|/(?|delete/([^/]++)(?|/([^/]++)(*:1799)|(*:1808))|invoice/([^/]++)(*:1834))|_manager/(?|export/([^/]++)/([^/]++)/([^/]++)/([^/]++)(*:1898)|pdf_print/([^/]++)/([^/]++)/([^/]++)/([^/]++)(*:1952))))|yllabus/(?|edit/([^/]++)(*:1988)|([^/]++)(*:2005)|delete/([^/]++)(*:2029)))|a(?|dmin/(?|edit_modal/([^/]++)(*:2071)|([^/]++)(*:2088)|delete/([^/]++)(*:2112)|admin_profile/([^/]++)(*:2143))|ccountant/(?|edit/([^/]++)(*:2179)|([^/]++)(*:2196)|delete/([^/]++)(*:2220)|accountant_profile/([^/]++)(*:2256)))|teacher/(?|edit/([^/]++)(*:2291)|([^/]++)(*:2308)|delete/([^/]++)(*:2332)|teacher_profile/([^/]++)(*:2365)|permission_update(*:2391))|librarian/(?|edit/([^/]++)(*:2427)|([^/]++)(*:2444)|delete/([^/]++)(*:2468)|librarian_profile/([^/]++)(*:2503))|p(?|a(?|rent/(?|edit/([^/]++)(*:2542)|([^/]++)(*:2559)|delete/([^/]++)(*:2583)|parent_profile/([^/]++)(*:2615))|ssword/([^/]++)(*:2640))|ermission/list/([^/]++)(*:2673)|romote/([^/]++)(*:2697))|offline_(?|admission/(?|([^/]++)(*:2739)|bulk(*:2752)|excel(*:2766))|exam/(?|export/([^/]++)(*:2799)|([^/]++)(?|(*:2819))|delete/([^/]++)(*:2844)))|e(?|x(?|am_(?|category/(?|([^/]++)(?|(*:2892))|delete/([^/]++)(*:2917))|list_by_class/([^/]++)(*:2949))|pense(?|s/(?|([^/]++)(?|(*:2983))|delete/([^/]++)(*:3008))|_category/(?|([^/]++)(?|(*:3042))|delete/([^/]++)(*:3067))))|vents/(?|([^/]++)(?|(*:3099))|delete/([^/]++)(*:3124)))|routine/(?|edit/([^/]++)(*:3159)|([^/]++)(*:3176)|delete/([^/]++)(*:3200))|grade(?|book/subjec_marks/([^/]++)(*:3244)|/(?|([^/]++)(?|(*:3268))|delete/([^/]++)(*:3293)))|department/(?|([^/]++)(?|(*:3329))|delete/([^/]++)(*:3354))|class(?|_room/(?|([^/]++)(?|(*:3392))|delete/([^/]++)(*:3417))|/(?|([^/]++)(?|(*:3442))|section(?|/([^/]++)(*:3471)|s/([^/]++)(*:3490))|delete/([^/]++)(*:3515)))|fee_manager(?|_(?|create/([^/]++)(*:3559)|list/([^/]++)(*:3581))|/([^/]++)(?|(*:3603)|(*:3612)))|book(?|/(?|([^/]++)(?|(*:3645))|delete/([^/]++)(*:3670))|_issue/(?|([^/]++)(?|(*:3701))|return/([^/]++)(*:3726)|delete/([^/]++)(*:3750)))|noticeboard/(?|([^/]++)(?|(*:3787))|delete/([^/]++)(*:3812)))|ccountant/(?|student_fee(?|_manager/(?|export/([^/]++)/([^/]++)/([^/]++)/([^/]++)(*:3904)|pdf_print/([^/]++)/([^/]++)/([^/]++)/([^/]++)(*:3958))|/(?|delete/([^/]++)(?|(*:3990)|/([^/]++)(*:4008))|invoice/([^/]++)(*:4034)))|fee_manager(?|_(?|create/([^/]++)(*:4078)|list/([^/]++)(*:4100))|/([^/]++)(?|(*:4122)|(*:4131)))|expense(?|s/(?|([^/]++)(?|(*:4168))|delete/([^/]++)(*:4193))|_category/(?|([^/]++)(?|(*:4227))|delete/([^/]++)(*:4252)))|noticeboard/([^/]++)(*:4283)|password/([^/]++)(*:4309)))|/teacher/(?|offline_exam/export/([^/]++)(*:4360)|exam_list_by_class/([^/]++)(*:4396)|gradebook/subjec_marks/([^/]++)(*:4436)|syllabus/delete/([^/]++)(*:4469)|noticeboard/([^/]++)(*:4498)|password/([^/]++)(*:4524))|/s(?|tudent(?|/(?|noticeboard/([^/]++)(*:4572)|fee_manager/(?|export/([^/]++)/([^/]++)/([^/]++)(*:4629)|payment/([^/]++)(*:4654))|pa(?|yment/(?|success/([^/]++)/([^/]++)(*:4703)|fail/([^/]++)/([^/]++)(*:4734))|ssword/([^/]++)(*:4759))|s(?|tudent_fee/(?|offline_payment/([^/]++)(*:4811)|invoice/([^/]++)(*:4836))|chool_fee/paystack/([^/]++)(*:4873)))|s/([^/]++)(*:4894))|ection/([^/]++)(*:4919)|ubjects/([^/]++)(*:4944))|/class/section/([^/]++)(*:4977)|/grade/get/([^/]++)(*:5005)|/user/([^/]++)(*:5028)|/librarian/(?|book(?|/(?|([^/]++)(?|(*:5073))|delete/([^/]++)(*:5098))|_issue/(?|([^/]++)(?|(*:5129))|return/([^/]++)(*:5154)|delete/([^/]++)(*:5178)))|noticeboard/([^/]++)(*:5209)|password/([^/]++)(*:5235))))/?$}sDu',
     ),
     3 => 
     array (
-      34 => 
+      58 => 
+      array (
+        0 => 
+        array (
+          0 => 
+          array (
+            '_route' => 'stancl.tenancy.asset',
+            'path' => NULL,
+          ),
+          1 => 
+          array (
+            0 => 'path',
+          ),
+          2 => 
+          array (
+            'GET' => 0,
+            'HEAD' => 1,
+          ),
+          3 => NULL,
+          4 => false,
+          5 => true,
+          6 => NULL,
+        ),
+      ),
+      116 => 
       array (
         0 => 
         array (
@@ -5185,222 +5143,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      76 => 
-      array (
-        0 => 
-        array (
-          0 => 
-          array (
-            '_route' => 'parent.student.id_card',
-          ),
-          1 => 
-          array (
-            0 => 'id',
-          ),
-          2 => 
-          array (
-            'GET' => 0,
-            'HEAD' => 1,
-          ),
-          3 => NULL,
-          4 => false,
-          5 => true,
-          6 => NULL,
-        ),
-      ),
-      107 => 
-      array (
-        0 => 
-        array (
-          0 => 
-          array (
-            '_route' => 'parent.studentFeeinvoice',
-          ),
-          1 => 
-          array (
-            0 => 'id',
-          ),
-          2 => 
-          array (
-            'GET' => 0,
-            'HEAD' => 1,
-          ),
-          3 => NULL,
-          4 => false,
-          5 => true,
-          6 => NULL,
-        ),
-      ),
-      139 => 
-      array (
-        0 => 
-        array (
-          0 => 
-          array (
-            '_route' => 'parent.offline_payment',
-          ),
-          1 => 
-          array (
-            0 => 'id',
-          ),
-          2 => 
-          array (
-            'POST' => 0,
-          ),
-          3 => NULL,
-          4 => false,
-          5 => true,
-          6 => NULL,
-        ),
-      ),
-      180 => 
-      array (
-        0 => 
-        array (
-          0 => 
-          array (
-            '_route' => 'parent.FeePayment',
-          ),
-          1 => 
-          array (
-            0 => 'id',
-          ),
-          2 => 
-          array (
-            'GET' => 0,
-            'HEAD' => 1,
-          ),
-          3 => NULL,
-          4 => false,
-          5 => true,
-          6 => NULL,
-        ),
-      ),
-      221 => 
-      array (
-        0 => 
-        array (
-          0 => 
-          array (
-            '_route' => 'parent.fee_manager.export',
-          ),
-          1 => 
-          array (
-            0 => 'date_from',
-            1 => 'date_to',
-            2 => 'selected_status',
-          ),
-          2 => 
-          array (
-            'GET' => 0,
-            'HEAD' => 1,
-          ),
-          3 => NULL,
-          4 => false,
-          5 => true,
-          6 => NULL,
-        ),
-      ),
-      269 => 
-      array (
-        0 => 
-        array (
-          0 => 
-          array (
-            '_route' => 'parent.student_fee_success_payment',
-          ),
-          1 => 
-          array (
-            0 => 'user_data',
-            1 => 'response',
-          ),
-          2 => 
-          array (
-            'GET' => 0,
-            'HEAD' => 1,
-          ),
-          3 => NULL,
-          4 => false,
-          5 => true,
-          6 => NULL,
-        ),
-      ),
-      299 => 
-      array (
-        0 => 
-        array (
-          0 => 
-          array (
-            '_route' => 'parent.student_fee_fail_payment',
-          ),
-          1 => 
-          array (
-            0 => 'user_data',
-            1 => 'response',
-          ),
-          2 => 
-          array (
-            'GET' => 0,
-            'HEAD' => 1,
-          ),
-          3 => NULL,
-          4 => false,
-          5 => true,
-          6 => NULL,
-        ),
-      ),
-      323 => 
-      array (
-        0 => 
-        array (
-          0 => 
-          array (
-            '_route' => 'parent.password',
-          ),
-          1 => 
-          array (
-            0 => 'action_type',
-          ),
-          2 => 
-          array (
-            'GET' => 0,
-            'HEAD' => 1,
-            'POST' => 2,
-            'PUT' => 3,
-            'PATCH' => 4,
-            'DELETE' => 5,
-            'OPTIONS' => 6,
-          ),
-          3 => NULL,
-          4 => false,
-          5 => true,
-          6 => NULL,
-        ),
-      ),
-      352 => 
-      array (
-        0 => 
-        array (
-          0 => 
-          array (
-            '_route' => 'parent.edit.noticeboard',
-          ),
-          1 => 
-          array (
-            0 => 'id',
-          ),
-          2 => 
-          array (
-            'GET' => 0,
-            'HEAD' => 1,
-          ),
-          3 => NULL,
-          4 => false,
-          5 => true,
-          6 => NULL,
-        ),
-      ),
-      409 => 
+      168 => 
       array (
         0 => 
         array (
@@ -5423,7 +5166,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      433 => 
+      192 => 
       array (
         0 => 
         array (
@@ -5445,7 +5188,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      472 => 
+      231 => 
       array (
         0 => 
         array (
@@ -5469,7 +5212,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      499 => 
+      258 => 
       array (
         0 => 
         array (
@@ -5492,7 +5235,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      540 => 
+      299 => 
       array (
         0 => 
         array (
@@ -5516,7 +5259,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      563 => 
+      322 => 
       array (
         0 => 
         array (
@@ -5539,7 +5282,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      606 => 
+      365 => 
       array (
         0 => 
         array (
@@ -5562,7 +5305,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      629 => 
+      388 => 
       array (
         0 => 
         array (
@@ -5584,7 +5327,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      654 => 
+      413 => 
       array (
         0 => 
         array (
@@ -5607,7 +5350,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      688 => 
+      447 => 
       array (
         0 => 
         array (
@@ -5631,7 +5374,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      700 => 
+      459 => 
       array (
         0 => 
         array (
@@ -5652,7 +5395,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      722 => 
+      481 => 
       array (
         0 => 
         array (
@@ -5675,7 +5418,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      746 => 
+      505 => 
       array (
         0 => 
         array (
@@ -5698,7 +5441,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      793 => 
+      552 => 
       array (
         0 => 
         array (
@@ -5727,7 +5470,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      827 => 
+      586 => 
       array (
         0 => 
         array (
@@ -5769,7 +5512,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      851 => 
+      610 => 
       array (
         0 => 
         array (
@@ -5792,7 +5535,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      875 => 
+      634 => 
       array (
         0 => 
         array (
@@ -5820,7 +5563,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      908 => 
+      667 => 
       array (
         0 => 
         array (
@@ -5843,7 +5586,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      931 => 
+      690 => 
       array (
         0 => 
         array (
@@ -5866,7 +5609,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      997 => 
+      753 => 
       array (
         0 => 
         array (
@@ -5890,290 +5633,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      1019 => 
-      array (
-        0 => 
-        array (
-          0 => 
-          array (
-            '_route' => 'class_wise_subject',
-          ),
-          1 => 
-          array (
-            0 => 'id',
-          ),
-          2 => 
-          array (
-            'GET' => 0,
-            'HEAD' => 1,
-          ),
-          3 => NULL,
-          4 => false,
-          5 => true,
-          6 => NULL,
-        ),
-      ),
-      1063 => 
-      array (
-        0 => 
-        array (
-          0 => 
-          array (
-            '_route' => 'student.edit.noticeboard',
-          ),
-          1 => 
-          array (
-            0 => 'id',
-          ),
-          2 => 
-          array (
-            'GET' => 0,
-            'HEAD' => 1,
-          ),
-          3 => NULL,
-          4 => false,
-          5 => true,
-          6 => NULL,
-        ),
-      ),
-      1120 => 
-      array (
-        0 => 
-        array (
-          0 => 
-          array (
-            '_route' => 'student.fee_manager.export',
-          ),
-          1 => 
-          array (
-            0 => 'date_from',
-            1 => 'date_to',
-            2 => 'selected_status',
-          ),
-          2 => 
-          array (
-            'GET' => 0,
-            'HEAD' => 1,
-          ),
-          3 => NULL,
-          4 => false,
-          5 => true,
-          6 => NULL,
-        ),
-      ),
-      1145 => 
-      array (
-        0 => 
-        array (
-          0 => 
-          array (
-            '_route' => 'student.FeePayment',
-          ),
-          1 => 
-          array (
-            0 => 'id',
-          ),
-          2 => 
-          array (
-            'GET' => 0,
-            'HEAD' => 1,
-          ),
-          3 => NULL,
-          4 => false,
-          5 => true,
-          6 => NULL,
-        ),
-      ),
-      1194 => 
-      array (
-        0 => 
-        array (
-          0 => 
-          array (
-            '_route' => 'student.student_fee_success_payment_student',
-          ),
-          1 => 
-          array (
-            0 => 'user_data',
-            1 => 'response',
-          ),
-          2 => 
-          array (
-            'GET' => 0,
-            'HEAD' => 1,
-          ),
-          3 => NULL,
-          4 => false,
-          5 => true,
-          6 => NULL,
-        ),
-      ),
-      1225 => 
-      array (
-        0 => 
-        array (
-          0 => 
-          array (
-            '_route' => 'student.student_fee_fail_payment_student',
-          ),
-          1 => 
-          array (
-            0 => 'user_data',
-            1 => 'response',
-          ),
-          2 => 
-          array (
-            'GET' => 0,
-            'HEAD' => 1,
-          ),
-          3 => NULL,
-          4 => false,
-          5 => true,
-          6 => NULL,
-        ),
-      ),
-      1250 => 
-      array (
-        0 => 
-        array (
-          0 => 
-          array (
-            '_route' => 'student.password',
-          ),
-          1 => 
-          array (
-            0 => 'action_type',
-          ),
-          2 => 
-          array (
-            'GET' => 0,
-            'HEAD' => 1,
-            'POST' => 2,
-            'PUT' => 3,
-            'PATCH' => 4,
-            'DELETE' => 5,
-            'OPTIONS' => 6,
-          ),
-          3 => NULL,
-          4 => false,
-          5 => true,
-          6 => NULL,
-        ),
-      ),
-      1302 => 
-      array (
-        0 => 
-        array (
-          0 => 
-          array (
-            '_route' => 'student.offline_payment',
-          ),
-          1 => 
-          array (
-            0 => 'id',
-          ),
-          2 => 
-          array (
-            'POST' => 0,
-          ),
-          3 => NULL,
-          4 => false,
-          5 => true,
-          6 => NULL,
-        ),
-      ),
-      1327 => 
-      array (
-        0 => 
-        array (
-          0 => 
-          array (
-            '_route' => 'student.studentFeeinvoice',
-          ),
-          1 => 
-          array (
-            0 => 'id',
-          ),
-          2 => 
-          array (
-            'GET' => 0,
-            'HEAD' => 1,
-          ),
-          3 => NULL,
-          4 => false,
-          5 => true,
-          6 => NULL,
-        ),
-      ),
-      1364 => 
-      array (
-        0 => 
-        array (
-          0 => 
-          array (
-            '_route' => 'student.paystack.pay',
-          ),
-          1 => 
-          array (
-            0 => 'id',
-          ),
-          2 => 
-          array (
-            'POST' => 0,
-          ),
-          3 => NULL,
-          4 => false,
-          5 => true,
-          6 => NULL,
-        ),
-      ),
-      1385 => 
-      array (
-        0 => 
-        array (
-          0 => 
-          array (
-            '_route' => 'class_wise_student',
-          ),
-          1 => 
-          array (
-            0 => 'id',
-          ),
-          2 => 
-          array (
-            'GET' => 0,
-            'HEAD' => 1,
-          ),
-          3 => NULL,
-          4 => false,
-          5 => true,
-          6 => NULL,
-        ),
-      ),
-      1410 => 
-      array (
-        0 => 
-        array (
-          0 => 
-          array (
-            '_route' => 'class_wise_sections',
-          ),
-          1 => 
-          array (
-            0 => 'id',
-          ),
-          2 => 
-          array (
-            'GET' => 0,
-            'HEAD' => 1,
-          ),
-          3 => NULL,
-          4 => false,
-          5 => true,
-          6 => NULL,
-        ),
-      ),
-      1478 => 
+      802 => 
       array (
         0 => 
         array (
@@ -6195,7 +5655,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      1495 => 
+      818 => 
       array (
         0 => 
         array (
@@ -6217,13 +5677,152 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      1538 => 
+      877 => 
       array (
         0 => 
         array (
           0 => 
           array (
-            '_route' => 'admin_subscription_fee_success_payment',
+            '_route' => 'tenant.password.reset',
+          ),
+          1 => 
+          array (
+            0 => 'token',
+          ),
+          2 => 
+          array (
+            'GET' => 0,
+            'HEAD' => 1,
+          ),
+          3 => NULL,
+          4 => false,
+          5 => true,
+          6 => NULL,
+        ),
+      ),
+      920 => 
+      array (
+        0 => 
+        array (
+          0 => 
+          array (
+            '_route' => 'parent.student.id_card',
+          ),
+          1 => 
+          array (
+            0 => 'id',
+          ),
+          2 => 
+          array (
+            'GET' => 0,
+            'HEAD' => 1,
+          ),
+          3 => NULL,
+          4 => false,
+          5 => true,
+          6 => NULL,
+        ),
+      ),
+      952 => 
+      array (
+        0 => 
+        array (
+          0 => 
+          array (
+            '_route' => 'parent.studentFeeinvoice',
+          ),
+          1 => 
+          array (
+            0 => 'id',
+          ),
+          2 => 
+          array (
+            'GET' => 0,
+            'HEAD' => 1,
+          ),
+          3 => NULL,
+          4 => false,
+          5 => true,
+          6 => NULL,
+        ),
+      ),
+      984 => 
+      array (
+        0 => 
+        array (
+          0 => 
+          array (
+            '_route' => 'parent.offline_payment',
+          ),
+          1 => 
+          array (
+            0 => 'id',
+          ),
+          2 => 
+          array (
+            'POST' => 0,
+          ),
+          3 => NULL,
+          4 => false,
+          5 => true,
+          6 => NULL,
+        ),
+      ),
+      1025 => 
+      array (
+        0 => 
+        array (
+          0 => 
+          array (
+            '_route' => 'parent.FeePayment',
+          ),
+          1 => 
+          array (
+            0 => 'id',
+          ),
+          2 => 
+          array (
+            'GET' => 0,
+            'HEAD' => 1,
+          ),
+          3 => NULL,
+          4 => false,
+          5 => true,
+          6 => NULL,
+        ),
+      ),
+      1067 => 
+      array (
+        0 => 
+        array (
+          0 => 
+          array (
+            '_route' => 'parent.fee_manager.export',
+          ),
+          1 => 
+          array (
+            0 => 'date_from',
+            1 => 'date_to',
+            2 => 'selected_status',
+          ),
+          2 => 
+          array (
+            'GET' => 0,
+            'HEAD' => 1,
+          ),
+          3 => NULL,
+          4 => false,
+          5 => true,
+          6 => NULL,
+        ),
+      ),
+      1116 => 
+      array (
+        0 => 
+        array (
+          0 => 
+          array (
+            '_route' => 'parent.student_fee_success_payment',
           ),
           1 => 
           array (
@@ -6241,13 +5840,13 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      1569 => 
+      1147 => 
       array (
         0 => 
         array (
           0 => 
           array (
-            '_route' => 'admin_subscription_fee_fail_payment',
+            '_route' => 'parent.student_fee_fail_payment',
           ),
           1 => 
           array (
@@ -6265,22 +5864,27 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      1586 => 
+      1172 => 
       array (
         0 => 
         array (
           0 => 
           array (
-            '_route' => 'admin.subscription.payment',
+            '_route' => 'parent.password',
           ),
           1 => 
           array (
-            0 => 'package_id',
+            0 => 'action_type',
           ),
           2 => 
           array (
             'GET' => 0,
             'HEAD' => 1,
+            'POST' => 2,
+            'PUT' => 3,
+            'PATCH' => 4,
+            'DELETE' => 5,
+            'OPTIONS' => 6,
           ),
           3 => NULL,
           4 => false,
@@ -6288,57 +5892,13 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      1624 => 
+      1202 => 
       array (
         0 => 
         array (
           0 => 
           array (
-            '_route' => 'admin.admin_subscription_offline_payment',
-          ),
-          1 => 
-          array (
-            0 => 'id',
-          ),
-          2 => 
-          array (
-            'POST' => 0,
-          ),
-          3 => NULL,
-          4 => false,
-          5 => true,
-          6 => NULL,
-        ),
-      ),
-      1650 => 
-      array (
-        0 => 
-        array (
-          0 => 
-          array (
-            '_route' => 'admin.subscription.offline_payment',
-          ),
-          1 => 
-          array (
-            0 => 'id',
-          ),
-          2 => 
-          array (
-            'POST' => 0,
-          ),
-          3 => NULL,
-          4 => false,
-          5 => true,
-          6 => NULL,
-        ),
-      ),
-      1678 => 
-      array (
-        0 => 
-        array (
-          0 => 
-          array (
-            '_route' => 'admin.class_wise_subject',
+            '_route' => 'parent.edit.noticeboard',
           ),
           1 => 
           array (
@@ -6355,72 +5915,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      1702 => 
-      array (
-        0 => 
-        array (
-          0 => 
-          array (
-            '_route' => 'admin.edit.subject',
-          ),
-          1 => 
-          array (
-            0 => 'id',
-          ),
-          2 => 
-          array (
-            'GET' => 0,
-            'HEAD' => 1,
-          ),
-          3 => NULL,
-          4 => false,
-          5 => true,
-          6 => NULL,
-        ),
-        1 => 
-        array (
-          0 => 
-          array (
-            '_route' => 'admin.subject.update',
-          ),
-          1 => 
-          array (
-            0 => 'id',
-          ),
-          2 => 
-          array (
-            'POST' => 0,
-          ),
-          3 => NULL,
-          4 => false,
-          5 => true,
-          6 => NULL,
-        ),
-      ),
-      1727 => 
-      array (
-        0 => 
-        array (
-          0 => 
-          array (
-            '_route' => 'admin.subject.delete',
-          ),
-          1 => 
-          array (
-            0 => 'id',
-          ),
-          2 => 
-          array (
-            'GET' => 0,
-            'HEAD' => 1,
-          ),
-          3 => NULL,
-          4 => false,
-          5 => true,
-          6 => NULL,
-        ),
-      ),
-      1757 => 
+      1248 => 
       array (
         0 => 
         array (
@@ -6443,7 +5938,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      1806 => 
+      1297 => 
       array (
         0 => 
         array (
@@ -6466,7 +5961,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      1826 => 
+      1317 => 
       array (
         0 => 
         array (
@@ -6508,7 +6003,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      1851 => 
+      1342 => 
       array (
         0 => 
         array (
@@ -6531,7 +6026,210 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      1881 => 
+      1375 => 
+      array (
+        0 => 
+        array (
+          0 => 
+          array (
+            '_route' => 'admin.class_wise_subject',
+          ),
+          1 => 
+          array (
+            0 => 'id',
+          ),
+          2 => 
+          array (
+            'GET' => 0,
+            'HEAD' => 1,
+          ),
+          3 => NULL,
+          4 => false,
+          5 => true,
+          6 => NULL,
+        ),
+      ),
+      1399 => 
+      array (
+        0 => 
+        array (
+          0 => 
+          array (
+            '_route' => 'admin.edit.subject',
+          ),
+          1 => 
+          array (
+            0 => 'id',
+          ),
+          2 => 
+          array (
+            'GET' => 0,
+            'HEAD' => 1,
+          ),
+          3 => NULL,
+          4 => false,
+          5 => true,
+          6 => NULL,
+        ),
+        1 => 
+        array (
+          0 => 
+          array (
+            '_route' => 'admin.subject.update',
+          ),
+          1 => 
+          array (
+            0 => 'id',
+          ),
+          2 => 
+          array (
+            'POST' => 0,
+          ),
+          3 => NULL,
+          4 => false,
+          5 => true,
+          6 => NULL,
+        ),
+      ),
+      1424 => 
+      array (
+        0 => 
+        array (
+          0 => 
+          array (
+            '_route' => 'admin.subject.delete',
+          ),
+          1 => 
+          array (
+            0 => 'id',
+          ),
+          2 => 
+          array (
+            'GET' => 0,
+            'HEAD' => 1,
+          ),
+          3 => NULL,
+          4 => false,
+          5 => true,
+          6 => NULL,
+        ),
+      ),
+      1484 => 
+      array (
+        0 => 
+        array (
+          0 => 
+          array (
+            '_route' => 'admin_subscription_fee_success_payment',
+          ),
+          1 => 
+          array (
+            0 => 'user_data',
+            1 => 'response',
+          ),
+          2 => 
+          array (
+            'GET' => 0,
+            'HEAD' => 1,
+          ),
+          3 => NULL,
+          4 => false,
+          5 => true,
+          6 => NULL,
+        ),
+      ),
+      1515 => 
+      array (
+        0 => 
+        array (
+          0 => 
+          array (
+            '_route' => 'admin_subscription_fee_fail_payment',
+          ),
+          1 => 
+          array (
+            0 => 'user_data',
+            1 => 'response',
+          ),
+          2 => 
+          array (
+            'GET' => 0,
+            'HEAD' => 1,
+          ),
+          3 => NULL,
+          4 => false,
+          5 => true,
+          6 => NULL,
+        ),
+      ),
+      1532 => 
+      array (
+        0 => 
+        array (
+          0 => 
+          array (
+            '_route' => 'admin.subscription.payment',
+          ),
+          1 => 
+          array (
+            0 => 'package_id',
+          ),
+          2 => 
+          array (
+            'GET' => 0,
+            'HEAD' => 1,
+          ),
+          3 => NULL,
+          4 => false,
+          5 => true,
+          6 => NULL,
+        ),
+      ),
+      1569 => 
+      array (
+        0 => 
+        array (
+          0 => 
+          array (
+            '_route' => 'admin.admin_subscription_offline_payment',
+          ),
+          1 => 
+          array (
+            0 => 'id',
+          ),
+          2 => 
+          array (
+            'POST' => 0,
+          ),
+          3 => NULL,
+          4 => false,
+          5 => true,
+          6 => NULL,
+        ),
+      ),
+      1595 => 
+      array (
+        0 => 
+        array (
+          0 => 
+          array (
+            '_route' => 'admin.subscription.offline_payment',
+          ),
+          1 => 
+          array (
+            0 => 'id',
+          ),
+          2 => 
+          array (
+            'POST' => 0,
+          ),
+          3 => NULL,
+          4 => false,
+          5 => true,
+          6 => NULL,
+        ),
+      ),
+      1626 => 
       array (
         0 => 
         array (
@@ -6554,7 +6252,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      1910 => 
+      1655 => 
       array (
         0 => 
         array (
@@ -6577,7 +6275,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      1932 => 
+      1677 => 
       array (
         0 => 
         array (
@@ -6600,7 +6298,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      1949 => 
+      1694 => 
       array (
         0 => 
         array (
@@ -6622,7 +6320,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      1973 => 
+      1718 => 
       array (
         0 => 
         array (
@@ -6645,7 +6343,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      2006 => 
+      1751 => 
       array (
         0 => 
         array (
@@ -6668,7 +6366,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      2054 => 
+      1799 => 
       array (
         0 => 
         array (
@@ -6692,7 +6390,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      2063 => 
+      1808 => 
       array (
         0 => 
         array (
@@ -6715,7 +6413,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      2089 => 
+      1834 => 
       array (
         0 => 
         array (
@@ -6738,7 +6436,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      2153 => 
+      1898 => 
       array (
         0 => 
         array (
@@ -6764,7 +6462,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      2207 => 
+      1952 => 
       array (
         0 => 
         array (
@@ -6790,7 +6488,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      2243 => 
+      1988 => 
       array (
         0 => 
         array (
@@ -6813,7 +6511,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      2260 => 
+      2005 => 
       array (
         0 => 
         array (
@@ -6835,7 +6533,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      2284 => 
+      2029 => 
       array (
         0 => 
         array (
@@ -6858,7 +6556,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      2326 => 
+      2071 => 
       array (
         0 => 
         array (
@@ -6881,7 +6579,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      2343 => 
+      2088 => 
       array (
         0 => 
         array (
@@ -6903,7 +6601,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      2367 => 
+      2112 => 
       array (
         0 => 
         array (
@@ -6926,7 +6624,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      2398 => 
+      2143 => 
       array (
         0 => 
         array (
@@ -6949,7 +6647,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      2434 => 
+      2179 => 
       array (
         0 => 
         array (
@@ -6972,7 +6670,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      2451 => 
+      2196 => 
       array (
         0 => 
         array (
@@ -6994,7 +6692,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      2475 => 
+      2220 => 
       array (
         0 => 
         array (
@@ -7017,7 +6715,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      2511 => 
+      2256 => 
       array (
         0 => 
         array (
@@ -7040,7 +6738,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      2546 => 
+      2291 => 
       array (
         0 => 
         array (
@@ -7063,7 +6761,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      2563 => 
+      2308 => 
       array (
         0 => 
         array (
@@ -7085,7 +6783,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      2587 => 
+      2332 => 
       array (
         0 => 
         array (
@@ -7108,7 +6806,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      2620 => 
+      2365 => 
       array (
         0 => 
         array (
@@ -7131,7 +6829,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      2646 => 
+      2391 => 
       array (
         0 => 
         array (
@@ -7153,7 +6851,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      2682 => 
+      2427 => 
       array (
         0 => 
         array (
@@ -7176,7 +6874,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      2699 => 
+      2444 => 
       array (
         0 => 
         array (
@@ -7198,7 +6896,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      2723 => 
+      2468 => 
       array (
         0 => 
         array (
@@ -7221,7 +6919,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      2758 => 
+      2503 => 
       array (
         0 => 
         array (
@@ -7244,7 +6942,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      2797 => 
+      2542 => 
       array (
         0 => 
         array (
@@ -7267,7 +6965,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      2814 => 
+      2559 => 
       array (
         0 => 
         array (
@@ -7289,7 +6987,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      2838 => 
+      2583 => 
       array (
         0 => 
         array (
@@ -7312,7 +7010,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      2870 => 
+      2615 => 
       array (
         0 => 
         array (
@@ -7335,7 +7033,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      2895 => 
+      2640 => 
       array (
         0 => 
         array (
@@ -7363,7 +7061,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      2928 => 
+      2673 => 
       array (
         0 => 
         array (
@@ -7386,7 +7084,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      2952 => 
+      2697 => 
       array (
         0 => 
         array (
@@ -7409,7 +7107,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      2994 => 
+      2739 => 
       array (
         0 => 
         array (
@@ -7432,7 +7130,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      3007 => 
+      2752 => 
       array (
         0 => 
         array (
@@ -7453,7 +7151,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      3021 => 
+      2766 => 
       array (
         0 => 
         array (
@@ -7474,7 +7172,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      3054 => 
+      2799 => 
       array (
         0 => 
         array (
@@ -7497,7 +7195,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      3074 => 
+      2819 => 
       array (
         0 => 
         array (
@@ -7539,7 +7237,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      3099 => 
+      2844 => 
       array (
         0 => 
         array (
@@ -7562,7 +7260,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      3147 => 
+      2892 => 
       array (
         0 => 
         array (
@@ -7604,7 +7302,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      3172 => 
+      2917 => 
       array (
         0 => 
         array (
@@ -7627,7 +7325,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      3204 => 
+      2949 => 
       array (
         0 => 
         array (
@@ -7650,7 +7348,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      3238 => 
+      2983 => 
       array (
         0 => 
         array (
@@ -7692,7 +7390,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      3263 => 
+      3008 => 
       array (
         0 => 
         array (
@@ -7715,7 +7413,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      3297 => 
+      3042 => 
       array (
         0 => 
         array (
@@ -7757,7 +7455,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      3322 => 
+      3067 => 
       array (
         0 => 
         array (
@@ -7780,7 +7478,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      3354 => 
+      3099 => 
       array (
         0 => 
         array (
@@ -7822,7 +7520,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      3379 => 
+      3124 => 
       array (
         0 => 
         array (
@@ -7845,7 +7543,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      3414 => 
+      3159 => 
       array (
         0 => 
         array (
@@ -7868,7 +7566,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      3431 => 
+      3176 => 
       array (
         0 => 
         array (
@@ -7890,7 +7588,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      3455 => 
+      3200 => 
       array (
         0 => 
         array (
@@ -7913,7 +7611,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      3499 => 
+      3244 => 
       array (
         0 => 
         array (
@@ -7936,7 +7634,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      3523 => 
+      3268 => 
       array (
         0 => 
         array (
@@ -7978,7 +7676,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      3548 => 
+      3293 => 
       array (
         0 => 
         array (
@@ -8001,7 +7699,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      3584 => 
+      3329 => 
       array (
         0 => 
         array (
@@ -8043,7 +7741,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      3609 => 
+      3354 => 
       array (
         0 => 
         array (
@@ -8066,7 +7764,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      3647 => 
+      3392 => 
       array (
         0 => 
         array (
@@ -8108,7 +7806,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      3672 => 
+      3417 => 
       array (
         0 => 
         array (
@@ -8131,7 +7829,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      3697 => 
+      3442 => 
       array (
         0 => 
         array (
@@ -8173,7 +7871,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      3726 => 
+      3471 => 
       array (
         0 => 
         array (
@@ -8196,7 +7894,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      3745 => 
+      3490 => 
       array (
         0 => 
         array (
@@ -8218,7 +7916,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      3770 => 
+      3515 => 
       array (
         0 => 
         array (
@@ -8241,7 +7939,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      3814 => 
+      3559 => 
       array (
         0 => 
         array (
@@ -8264,7 +7962,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      3836 => 
+      3581 => 
       array (
         0 => 
         array (
@@ -8286,7 +7984,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      3858 => 
+      3603 => 
       array (
         0 => 
         array (
@@ -8308,7 +8006,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      3867 => 
+      3612 => 
       array (
         0 => 
         array (
@@ -8331,7 +8029,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      3900 => 
+      3645 => 
       array (
         0 => 
         array (
@@ -8373,7 +8071,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      3925 => 
+      3670 => 
       array (
         0 => 
         array (
@@ -8396,7 +8094,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      3956 => 
+      3701 => 
       array (
         0 => 
         array (
@@ -8438,7 +8136,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      3981 => 
+      3726 => 
       array (
         0 => 
         array (
@@ -8461,7 +8159,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      4005 => 
+      3750 => 
       array (
         0 => 
         array (
@@ -8484,7 +8182,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      4042 => 
+      3787 => 
       array (
         0 => 
         array (
@@ -8526,7 +8224,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      4067 => 
+      3812 => 
       array (
         0 => 
         array (
@@ -8549,7 +8247,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      4159 => 
+      3904 => 
       array (
         0 => 
         array (
@@ -8575,7 +8273,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      4213 => 
+      3958 => 
       array (
         0 => 
         array (
@@ -8601,7 +8299,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      4245 => 
+      3990 => 
       array (
         0 => 
         array (
@@ -8624,7 +8322,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      4263 => 
+      4008 => 
       array (
         0 => 
         array (
@@ -8648,7 +8346,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      4289 => 
+      4034 => 
       array (
         0 => 
         array (
@@ -8671,7 +8369,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      4333 => 
+      4078 => 
       array (
         0 => 
         array (
@@ -8694,7 +8392,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      4355 => 
+      4100 => 
       array (
         0 => 
         array (
@@ -8716,7 +8414,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      4377 => 
+      4122 => 
       array (
         0 => 
         array (
@@ -8738,7 +8436,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      4386 => 
+      4131 => 
       array (
         0 => 
         array (
@@ -8761,7 +8459,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      4423 => 
+      4168 => 
       array (
         0 => 
         array (
@@ -8803,7 +8501,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      4448 => 
+      4193 => 
       array (
         0 => 
         array (
@@ -8826,7 +8524,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      4482 => 
+      4227 => 
       array (
         0 => 
         array (
@@ -8868,7 +8566,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      4507 => 
+      4252 => 
       array (
         0 => 
         array (
@@ -8891,7 +8589,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      4538 => 
+      4283 => 
       array (
         0 => 
         array (
@@ -8914,7 +8612,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      4564 => 
+      4309 => 
       array (
         0 => 
         array (
@@ -8942,7 +8640,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      4615 => 
+      4360 => 
       array (
         0 => 
         array (
@@ -8965,7 +8663,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      4651 => 
+      4396 => 
       array (
         0 => 
         array (
@@ -8988,7 +8686,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      4691 => 
+      4436 => 
       array (
         0 => 
         array (
@@ -9011,7 +8709,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      4724 => 
+      4469 => 
       array (
         0 => 
         array (
@@ -9034,7 +8732,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      4753 => 
+      4498 => 
       array (
         0 => 
         array (
@@ -9057,7 +8755,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      4779 => 
+      4524 => 
       array (
         0 => 
         array (
@@ -9085,7 +8783,290 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      4812 => 
+      4572 => 
+      array (
+        0 => 
+        array (
+          0 => 
+          array (
+            '_route' => 'student.edit.noticeboard',
+          ),
+          1 => 
+          array (
+            0 => 'id',
+          ),
+          2 => 
+          array (
+            'GET' => 0,
+            'HEAD' => 1,
+          ),
+          3 => NULL,
+          4 => false,
+          5 => true,
+          6 => NULL,
+        ),
+      ),
+      4629 => 
+      array (
+        0 => 
+        array (
+          0 => 
+          array (
+            '_route' => 'student.fee_manager.export',
+          ),
+          1 => 
+          array (
+            0 => 'date_from',
+            1 => 'date_to',
+            2 => 'selected_status',
+          ),
+          2 => 
+          array (
+            'GET' => 0,
+            'HEAD' => 1,
+          ),
+          3 => NULL,
+          4 => false,
+          5 => true,
+          6 => NULL,
+        ),
+      ),
+      4654 => 
+      array (
+        0 => 
+        array (
+          0 => 
+          array (
+            '_route' => 'student.FeePayment',
+          ),
+          1 => 
+          array (
+            0 => 'id',
+          ),
+          2 => 
+          array (
+            'GET' => 0,
+            'HEAD' => 1,
+          ),
+          3 => NULL,
+          4 => false,
+          5 => true,
+          6 => NULL,
+        ),
+      ),
+      4703 => 
+      array (
+        0 => 
+        array (
+          0 => 
+          array (
+            '_route' => 'student.student_fee_success_payment_student',
+          ),
+          1 => 
+          array (
+            0 => 'user_data',
+            1 => 'response',
+          ),
+          2 => 
+          array (
+            'GET' => 0,
+            'HEAD' => 1,
+          ),
+          3 => NULL,
+          4 => false,
+          5 => true,
+          6 => NULL,
+        ),
+      ),
+      4734 => 
+      array (
+        0 => 
+        array (
+          0 => 
+          array (
+            '_route' => 'student.student_fee_fail_payment_student',
+          ),
+          1 => 
+          array (
+            0 => 'user_data',
+            1 => 'response',
+          ),
+          2 => 
+          array (
+            'GET' => 0,
+            'HEAD' => 1,
+          ),
+          3 => NULL,
+          4 => false,
+          5 => true,
+          6 => NULL,
+        ),
+      ),
+      4759 => 
+      array (
+        0 => 
+        array (
+          0 => 
+          array (
+            '_route' => 'student.password',
+          ),
+          1 => 
+          array (
+            0 => 'action_type',
+          ),
+          2 => 
+          array (
+            'GET' => 0,
+            'HEAD' => 1,
+            'POST' => 2,
+            'PUT' => 3,
+            'PATCH' => 4,
+            'DELETE' => 5,
+            'OPTIONS' => 6,
+          ),
+          3 => NULL,
+          4 => false,
+          5 => true,
+          6 => NULL,
+        ),
+      ),
+      4811 => 
+      array (
+        0 => 
+        array (
+          0 => 
+          array (
+            '_route' => 'student.offline_payment',
+          ),
+          1 => 
+          array (
+            0 => 'id',
+          ),
+          2 => 
+          array (
+            'POST' => 0,
+          ),
+          3 => NULL,
+          4 => false,
+          5 => true,
+          6 => NULL,
+        ),
+      ),
+      4836 => 
+      array (
+        0 => 
+        array (
+          0 => 
+          array (
+            '_route' => 'student.studentFeeinvoice',
+          ),
+          1 => 
+          array (
+            0 => 'id',
+          ),
+          2 => 
+          array (
+            'GET' => 0,
+            'HEAD' => 1,
+          ),
+          3 => NULL,
+          4 => false,
+          5 => true,
+          6 => NULL,
+        ),
+      ),
+      4873 => 
+      array (
+        0 => 
+        array (
+          0 => 
+          array (
+            '_route' => 'student.paystack.pay',
+          ),
+          1 => 
+          array (
+            0 => 'id',
+          ),
+          2 => 
+          array (
+            'POST' => 0,
+          ),
+          3 => NULL,
+          4 => false,
+          5 => true,
+          6 => NULL,
+        ),
+      ),
+      4894 => 
+      array (
+        0 => 
+        array (
+          0 => 
+          array (
+            '_route' => 'class_wise_student',
+          ),
+          1 => 
+          array (
+            0 => 'id',
+          ),
+          2 => 
+          array (
+            'GET' => 0,
+            'HEAD' => 1,
+          ),
+          3 => NULL,
+          4 => false,
+          5 => true,
+          6 => NULL,
+        ),
+      ),
+      4919 => 
+      array (
+        0 => 
+        array (
+          0 => 
+          array (
+            '_route' => 'class_wise_sections',
+          ),
+          1 => 
+          array (
+            0 => 'id',
+          ),
+          2 => 
+          array (
+            'GET' => 0,
+            'HEAD' => 1,
+          ),
+          3 => NULL,
+          4 => false,
+          5 => true,
+          6 => NULL,
+        ),
+      ),
+      4944 => 
+      array (
+        0 => 
+        array (
+          0 => 
+          array (
+            '_route' => 'class_wise_subject',
+          ),
+          1 => 
+          array (
+            0 => 'id',
+          ),
+          2 => 
+          array (
+            'GET' => 0,
+            'HEAD' => 1,
+          ),
+          3 => NULL,
+          4 => false,
+          5 => true,
+          6 => NULL,
+        ),
+      ),
+      4977 => 
       array (
         0 => 
         array (
@@ -9108,7 +9089,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      4840 => 
+      5005 => 
       array (
         0 => 
         array (
@@ -9131,7 +9112,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      4863 => 
+      5028 => 
       array (
         0 => 
         array (
@@ -9154,7 +9135,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      4908 => 
+      5073 => 
       array (
         0 => 
         array (
@@ -9196,7 +9177,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      4933 => 
+      5098 => 
       array (
         0 => 
         array (
@@ -9219,7 +9200,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      4964 => 
+      5129 => 
       array (
         0 => 
         array (
@@ -9261,7 +9242,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      4989 => 
+      5154 => 
       array (
         0 => 
         array (
@@ -9284,7 +9265,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      5013 => 
+      5178 => 
       array (
         0 => 
         array (
@@ -9307,7 +9288,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      5044 => 
+      5209 => 
       array (
         0 => 
         array (
@@ -9330,7 +9311,7 @@ app('router')->setCompiledRoutes(
           6 => NULL,
         ),
       ),
-      5070 => 
+      5235 => 
       array (
         0 => 
         array (
@@ -9357,29 +9338,6 @@ app('router')->setCompiledRoutes(
           5 => true,
           6 => NULL,
         ),
-      ),
-      5103 => 
-      array (
-        0 => 
-        array (
-          0 => 
-          array (
-            '_route' => 'step4.confirm_import',
-          ),
-          1 => 
-          array (
-            0 => 'confirm_import',
-          ),
-          2 => 
-          array (
-            'GET' => 0,
-            'HEAD' => 1,
-          ),
-          3 => NULL,
-          4 => false,
-          5 => true,
-          6 => NULL,
-        ),
         1 => 
         array (
           0 => NULL,
@@ -9396,7 +9354,7 @@ app('router')->setCompiledRoutes(
   ),
   'attributes' => 
   array (
-    'generated::QEKg7We1HpKuBPHr' => 
+    'generated::fdwm6hoe8wNwDhrz' => 
     array (
       'methods' => 
       array (
@@ -9417,7 +9375,7 @@ app('router')->setCompiledRoutes(
         array (
           0 => 'web',
         ),
-        'as' => 'generated::QEKg7We1HpKuBPHr',
+        'as' => 'generated::fdwm6hoe8wNwDhrz',
       ),
       'fallback' => false,
       'defaults' => 
@@ -9542,7 +9500,36 @@ app('router')->setCompiledRoutes(
       'waitSeconds' => NULL,
       'withTrashed' => false,
     ),
-    'generated::tBUVRbJzLsxTEp5O' => 
+    'stancl.tenancy.asset' => 
+    array (
+      'methods' => 
+      array (
+        0 => 'GET',
+        1 => 'HEAD',
+      ),
+      'uri' => 'tenancy/assets/{path?}',
+      'action' => 
+      array (
+        'uses' => 'Stancl\\Tenancy\\Controllers\\TenantAssetsController@asset',
+        'controller' => 'Stancl\\Tenancy\\Controllers\\TenantAssetsController@asset',
+        'as' => 'stancl.tenancy.asset',
+      ),
+      'fallback' => false,
+      'defaults' => 
+      array (
+      ),
+      'wheres' => 
+      array (
+        'path' => '(.*)',
+      ),
+      'bindingFields' => 
+      array (
+      ),
+      'lockSeconds' => NULL,
+      'waitSeconds' => NULL,
+      'withTrashed' => false,
+    ),
+    'generated::PhLb14TsglI6rAXL' => 
     array (
       'methods' => 
       array (
@@ -9559,13 +9546,13 @@ app('router')->setCompiledRoutes(
         ),
         'uses' => 'O:47:"Laravel\\SerializableClosure\\SerializableClosure":1:{s:12:"serializable";O:46:"Laravel\\SerializableClosure\\Serializers\\Signed":2:{s:12:"serializable";s:297:"O:46:"Laravel\\SerializableClosure\\Serializers\\Native":5:{s:3:"use";a:0:{}s:8:"function";s:79:"function (\\Illuminate\\Http\\Request $request) {
     return $request->user();
-}";s:5:"scope";s:37:"Illuminate\\Routing\\RouteFileRegistrar";s:4:"this";N;s:4:"self";s:32:"00000000000008bf0000000000000000";}";s:4:"hash";s:44:"5l9xBAPNOmseMLipQNqSP2xF1saYMSisXgteGLxRhiQ=";}}',
+}";s:5:"scope";s:37:"Illuminate\\Routing\\RouteFileRegistrar";s:4:"this";N;s:4:"self";s:32:"000000000000083e0000000000000000";}";s:4:"hash";s:44:"o/0pNcluVCcmdxSiCfKE6+BjBVAu+VYYbJj+ReSqkp8=";}}',
         'namespace' => NULL,
         'prefix' => 'api',
         'where' => 
         array (
         ),
-        'as' => 'generated::tBUVRbJzLsxTEp5O',
+        'as' => 'generated::PhLb14TsglI6rAXL',
       ),
       'fallback' => false,
       'defaults' => 
@@ -9581,7 +9568,7 @@ app('router')->setCompiledRoutes(
       'waitSeconds' => NULL,
       'withTrashed' => false,
     ),
-    'generated::URxhrBB1MYVnSQlg' => 
+    'generated::MFyS6TmN7p03L2oB' => 
     array (
       'methods' => 
       array (
@@ -9601,7 +9588,7 @@ app('router')->setCompiledRoutes(
         'where' => 
         array (
         ),
-        'as' => 'generated::URxhrBB1MYVnSQlg',
+        'as' => 'generated::MFyS6TmN7p03L2oB',
       ),
       'fallback' => false,
       'defaults' => 
@@ -9617,7 +9604,7 @@ app('router')->setCompiledRoutes(
       'waitSeconds' => NULL,
       'withTrashed' => false,
     ),
-    'generated::9SDvpnXLNocowMw3' => 
+    'generated::XihXk3IsZZr9VS3Z' => 
     array (
       'methods' => 
       array (
@@ -9642,7 +9629,7 @@ app('router')->setCompiledRoutes(
         'where' => 
         array (
         ),
-        'as' => 'generated::9SDvpnXLNocowMw3',
+        'as' => 'generated::XihXk3IsZZr9VS3Z',
       ),
       'fallback' => false,
       'defaults' => 
@@ -9658,7 +9645,7 @@ app('router')->setCompiledRoutes(
       'waitSeconds' => NULL,
       'withTrashed' => false,
     ),
-    'generated::FkyKioKoikg3E0BJ' => 
+    'generated::jTLmiMIn3xwCIkM6' => 
     array (
       'methods' => 
       array (
@@ -9683,7 +9670,7 @@ app('router')->setCompiledRoutes(
         'where' => 
         array (
         ),
-        'as' => 'generated::FkyKioKoikg3E0BJ',
+        'as' => 'generated::jTLmiMIn3xwCIkM6',
       ),
       'fallback' => false,
       'defaults' => 
@@ -9699,7 +9686,7 @@ app('router')->setCompiledRoutes(
       'waitSeconds' => NULL,
       'withTrashed' => false,
     ),
-    'generated::r5EEqb5gHC1cGjP0' => 
+    'generated::vEOnktHEaYQyAH5m' => 
     array (
       'methods' => 
       array (
@@ -9724,7 +9711,7 @@ app('router')->setCompiledRoutes(
         'where' => 
         array (
         ),
-        'as' => 'generated::r5EEqb5gHC1cGjP0',
+        'as' => 'generated::vEOnktHEaYQyAH5m',
       ),
       'fallback' => false,
       'defaults' => 
@@ -9740,7 +9727,7 @@ app('router')->setCompiledRoutes(
       'waitSeconds' => NULL,
       'withTrashed' => false,
     ),
-    'generated::LTL6L0BF8lyAAsCa' => 
+    'generated::oJf9cpCB3hl8SkiV' => 
     array (
       'methods' => 
       array (
@@ -9765,7 +9752,7 @@ app('router')->setCompiledRoutes(
         'where' => 
         array (
         ),
-        'as' => 'generated::LTL6L0BF8lyAAsCa',
+        'as' => 'generated::oJf9cpCB3hl8SkiV',
       ),
       'fallback' => false,
       'defaults' => 
@@ -9781,7 +9768,7 @@ app('router')->setCompiledRoutes(
       'waitSeconds' => NULL,
       'withTrashed' => false,
     ),
-    'generated::T4zmcpoCIgysKI04' => 
+    'generated::tpNVQaFQrortW0T1' => 
     array (
       'methods' => 
       array (
@@ -9806,7 +9793,7 @@ app('router')->setCompiledRoutes(
         'where' => 
         array (
         ),
-        'as' => 'generated::T4zmcpoCIgysKI04',
+        'as' => 'generated::tpNVQaFQrortW0T1',
       ),
       'fallback' => false,
       'defaults' => 
@@ -9822,7 +9809,7 @@ app('router')->setCompiledRoutes(
       'waitSeconds' => NULL,
       'withTrashed' => false,
     ),
-    'generated::r0fxrnMZ2KFz77Ho' => 
+    'generated::fi5xw22x5JGsd1ZF' => 
     array (
       'methods' => 
       array (
@@ -9847,7 +9834,7 @@ app('router')->setCompiledRoutes(
         'where' => 
         array (
         ),
-        'as' => 'generated::r0fxrnMZ2KFz77Ho',
+        'as' => 'generated::fi5xw22x5JGsd1ZF',
       ),
       'fallback' => false,
       'defaults' => 
@@ -9863,7 +9850,7 @@ app('router')->setCompiledRoutes(
       'waitSeconds' => NULL,
       'withTrashed' => false,
     ),
-    'generated::f03kIwa5VA7encqO' => 
+    'generated::xd0CtKhLlwosu7Iq' => 
     array (
       'methods' => 
       array (
@@ -9888,7 +9875,7 @@ app('router')->setCompiledRoutes(
         'where' => 
         array (
         ),
-        'as' => 'generated::f03kIwa5VA7encqO',
+        'as' => 'generated::xd0CtKhLlwosu7Iq',
       ),
       'fallback' => false,
       'defaults' => 
@@ -9904,7 +9891,7 @@ app('router')->setCompiledRoutes(
       'waitSeconds' => NULL,
       'withTrashed' => false,
     ),
-    'generated::6zD0zT5GZEuj3ZPM' => 
+    'generated::qp6VnibbuQW1jIu8' => 
     array (
       'methods' => 
       array (
@@ -9929,7 +9916,7 @@ app('router')->setCompiledRoutes(
         'where' => 
         array (
         ),
-        'as' => 'generated::6zD0zT5GZEuj3ZPM',
+        'as' => 'generated::qp6VnibbuQW1jIu8',
       ),
       'fallback' => false,
       'defaults' => 
@@ -9945,7 +9932,7 @@ app('router')->setCompiledRoutes(
       'waitSeconds' => NULL,
       'withTrashed' => false,
     ),
-    'generated::l32EKXANa9kbvYyC' => 
+    'generated::oT31AwHBzrvJbEzq' => 
     array (
       'methods' => 
       array (
@@ -9970,7 +9957,7 @@ app('router')->setCompiledRoutes(
         'where' => 
         array (
         ),
-        'as' => 'generated::l32EKXANa9kbvYyC',
+        'as' => 'generated::oT31AwHBzrvJbEzq',
       ),
       'fallback' => false,
       'defaults' => 
@@ -9986,7 +9973,7 @@ app('router')->setCompiledRoutes(
       'waitSeconds' => NULL,
       'withTrashed' => false,
     ),
-    'generated::cIfgXBfAsdz7Km9W' => 
+    'generated::DExzxuVTEf8PkyQH' => 
     array (
       'methods' => 
       array (
@@ -10011,7 +9998,7 @@ app('router')->setCompiledRoutes(
         'where' => 
         array (
         ),
-        'as' => 'generated::cIfgXBfAsdz7Km9W',
+        'as' => 'generated::DExzxuVTEf8PkyQH',
       ),
       'fallback' => false,
       'defaults' => 
@@ -10027,7 +10014,7 @@ app('router')->setCompiledRoutes(
       'waitSeconds' => NULL,
       'withTrashed' => false,
     ),
-    'generated::ZwPMFVXIiH1iVVtg' => 
+    'generated::gpaakpiuPV8JB1ax' => 
     array (
       'methods' => 
       array (
@@ -10052,7 +10039,7 @@ app('router')->setCompiledRoutes(
         'where' => 
         array (
         ),
-        'as' => 'generated::ZwPMFVXIiH1iVVtg',
+        'as' => 'generated::gpaakpiuPV8JB1ax',
       ),
       'fallback' => false,
       'defaults' => 
@@ -10068,7 +10055,7 @@ app('router')->setCompiledRoutes(
       'waitSeconds' => NULL,
       'withTrashed' => false,
     ),
-    'generated::YI6MPBL8JkrIipTP' => 
+    'generated::Mhx46CFQ3gE3vxx2' => 
     array (
       'methods' => 
       array (
@@ -10093,7 +10080,7 @@ app('router')->setCompiledRoutes(
         'where' => 
         array (
         ),
-        'as' => 'generated::YI6MPBL8JkrIipTP',
+        'as' => 'generated::Mhx46CFQ3gE3vxx2',
       ),
       'fallback' => false,
       'defaults' => 
@@ -10109,7 +10096,7 @@ app('router')->setCompiledRoutes(
       'waitSeconds' => NULL,
       'withTrashed' => false,
     ),
-    'generated::6L8aZvQsB951dXb0' => 
+    'generated::YJzgok9LduaMfoli' => 
     array (
       'methods' => 
       array (
@@ -10134,7 +10121,7 @@ app('router')->setCompiledRoutes(
         'where' => 
         array (
         ),
-        'as' => 'generated::6L8aZvQsB951dXb0',
+        'as' => 'generated::YJzgok9LduaMfoli',
       ),
       'fallback' => false,
       'defaults' => 
@@ -10150,7 +10137,7 @@ app('router')->setCompiledRoutes(
       'waitSeconds' => NULL,
       'withTrashed' => false,
     ),
-    'generated::8pqwfBTv65qpQcGK' => 
+    'generated::iLkhqjzDAU6DQL5i' => 
     array (
       'methods' => 
       array (
@@ -10175,7 +10162,7 @@ app('router')->setCompiledRoutes(
         'where' => 
         array (
         ),
-        'as' => 'generated::8pqwfBTv65qpQcGK',
+        'as' => 'generated::iLkhqjzDAU6DQL5i',
       ),
       'fallback' => false,
       'defaults' => 
@@ -10191,7 +10178,7 @@ app('router')->setCompiledRoutes(
       'waitSeconds' => NULL,
       'withTrashed' => false,
     ),
-    'generated::ygPCBViMOBme6uaX' => 
+    'generated::Tdoah3KlXNP2ygPz' => 
     array (
       'methods' => 
       array (
@@ -10216,55 +10203,7 @@ app('router')->setCompiledRoutes(
         'where' => 
         array (
         ),
-        'as' => 'generated::ygPCBViMOBme6uaX',
-      ),
-      'fallback' => false,
-      'defaults' => 
-      array (
-      ),
-      'wheres' => 
-      array (
-      ),
-      'bindingFields' => 
-      array (
-      ),
-      'lockSeconds' => NULL,
-      'waitSeconds' => NULL,
-      'withTrashed' => false,
-    ),
-    'clear.cache' => 
-    array (
-      'methods' => 
-      array (
-        0 => 'GET',
-        1 => 'HEAD',
-      ),
-      'uri' => 'clear-cache',
-      'action' => 
-      array (
-        'middleware' => 
-        array (
-          0 => 'web',
-        ),
-        'uses' => 'O:47:"Laravel\\SerializableClosure\\SerializableClosure":1:{s:12:"serializable";O:46:"Laravel\\SerializableClosure\\Serializers\\Signed":2:{s:12:"serializable";s:443:"O:46:"Laravel\\SerializableClosure\\Serializers\\Native":5:{s:3:"use";a:0:{}s:8:"function";s:224:"function() {
-    \\Artisan::call(\'cache:clear\');
-
-    \\Artisan::call(\'route:cache\');
-
-    \\Artisan::call(\'config:cache\');
-
-    \\Artisan::call(\'view:clear\');
-
-    \\Artisan::call(\'optimize:clear\');
-
-    return \'Cache cleard\';
-}";s:5:"scope";s:37:"Illuminate\\Routing\\RouteFileRegistrar";s:4:"this";N;s:4:"self";s:32:"00000000000008d10000000000000000";}";s:4:"hash";s:44:"QwJxgD6yB6+TehdeNNCEo99nOrNy9leGSS6AmhRkV9U=";}}',
-        'namespace' => NULL,
-        'prefix' => '',
-        'where' => 
-        array (
-        ),
-        'as' => 'clear.cache',
+        'as' => 'generated::Tdoah3KlXNP2ygPz',
       ),
       'fallback' => false,
       'defaults' => 
@@ -10294,6 +10233,7 @@ app('router')->setCompiledRoutes(
         array (
           0 => 'web',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => '\\Illuminate\\Routing\\ViewController@__invoke',
         'controller' => '\\Illuminate\\Routing\\ViewController',
         'namespace' => NULL,
@@ -10339,6 +10279,7 @@ app('router')->setCompiledRoutes(
         array (
           0 => 'web',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\Auth\\LoginController@showLoginForm',
         'controller' => 'App\\Http\\Controllers\\Auth\\LoginController@showLoginForm',
         'namespace' => 'App\\Http\\Controllers',
@@ -10362,7 +10303,7 @@ app('router')->setCompiledRoutes(
       'waitSeconds' => NULL,
       'withTrashed' => false,
     ),
-    'generated::cEjWgAmORKzaEpVL' => 
+    'generated::ZZdLaXq3PliWPQrg' => 
     array (
       'methods' => 
       array (
@@ -10375,6 +10316,7 @@ app('router')->setCompiledRoutes(
         array (
           0 => 'web',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\Auth\\LoginController@login',
         'controller' => 'App\\Http\\Controllers\\Auth\\LoginController@login',
         'namespace' => 'App\\Http\\Controllers',
@@ -10382,7 +10324,7 @@ app('router')->setCompiledRoutes(
         'where' => 
         array (
         ),
-        'as' => 'generated::cEjWgAmORKzaEpVL',
+        'as' => 'generated::ZZdLaXq3PliWPQrg',
       ),
       'fallback' => false,
       'defaults' => 
@@ -10411,6 +10353,7 @@ app('router')->setCompiledRoutes(
         array (
           0 => 'web',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\Auth\\LoginController@logout',
         'controller' => 'App\\Http\\Controllers\\Auth\\LoginController@logout',
         'namespace' => 'App\\Http\\Controllers',
@@ -10448,6 +10391,7 @@ app('router')->setCompiledRoutes(
         array (
           0 => 'web',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\Auth\\RegisterController@showRegistrationForm',
         'controller' => 'App\\Http\\Controllers\\Auth\\RegisterController@showRegistrationForm',
         'namespace' => 'App\\Http\\Controllers',
@@ -10471,7 +10415,7 @@ app('router')->setCompiledRoutes(
       'waitSeconds' => NULL,
       'withTrashed' => false,
     ),
-    'generated::L9694LJPKX8TsySc' => 
+    'generated::kpzvfUYtMTv2TKQA' => 
     array (
       'methods' => 
       array (
@@ -10484,6 +10428,7 @@ app('router')->setCompiledRoutes(
         array (
           0 => 'web',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\Auth\\RegisterController@register',
         'controller' => 'App\\Http\\Controllers\\Auth\\RegisterController@register',
         'namespace' => 'App\\Http\\Controllers',
@@ -10491,7 +10436,7 @@ app('router')->setCompiledRoutes(
         'where' => 
         array (
         ),
-        'as' => 'generated::L9694LJPKX8TsySc',
+        'as' => 'generated::kpzvfUYtMTv2TKQA',
       ),
       'fallback' => false,
       'defaults' => 
@@ -10521,6 +10466,7 @@ app('router')->setCompiledRoutes(
         array (
           0 => 'web',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\Auth\\ForgotPasswordController@showLinkRequestForm',
         'controller' => 'App\\Http\\Controllers\\Auth\\ForgotPasswordController@showLinkRequestForm',
         'namespace' => 'App\\Http\\Controllers',
@@ -10557,6 +10503,7 @@ app('router')->setCompiledRoutes(
         array (
           0 => 'web',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\Auth\\ForgotPasswordController@sendResetLinkEmail',
         'controller' => 'App\\Http\\Controllers\\Auth\\ForgotPasswordController@sendResetLinkEmail',
         'namespace' => 'App\\Http\\Controllers',
@@ -10594,6 +10541,7 @@ app('router')->setCompiledRoutes(
         array (
           0 => 'web',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\Auth\\ResetPasswordController@showResetForm',
         'controller' => 'App\\Http\\Controllers\\Auth\\ResetPasswordController@showResetForm',
         'namespace' => 'App\\Http\\Controllers',
@@ -10630,6 +10578,7 @@ app('router')->setCompiledRoutes(
         array (
           0 => 'web',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\Auth\\ResetPasswordController@reset',
         'controller' => 'App\\Http\\Controllers\\Auth\\ResetPasswordController@reset',
         'namespace' => 'App\\Http\\Controllers',
@@ -10667,6 +10616,7 @@ app('router')->setCompiledRoutes(
         array (
           0 => 'web',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\Auth\\ConfirmPasswordController@showConfirmForm',
         'controller' => 'App\\Http\\Controllers\\Auth\\ConfirmPasswordController@showConfirmForm',
         'namespace' => 'App\\Http\\Controllers',
@@ -10690,7 +10640,7 @@ app('router')->setCompiledRoutes(
       'waitSeconds' => NULL,
       'withTrashed' => false,
     ),
-    'generated::YsBfFlyWrKNCS4al' => 
+    'generated::C7brFrvIr18vKYzi' => 
     array (
       'methods' => 
       array (
@@ -10703,6 +10653,7 @@ app('router')->setCompiledRoutes(
         array (
           0 => 'web',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\Auth\\ConfirmPasswordController@confirm',
         'controller' => 'App\\Http\\Controllers\\Auth\\ConfirmPasswordController@confirm',
         'namespace' => 'App\\Http\\Controllers',
@@ -10710,7 +10661,7 @@ app('router')->setCompiledRoutes(
         'where' => 
         array (
         ),
-        'as' => 'generated::YsBfFlyWrKNCS4al',
+        'as' => 'generated::C7brFrvIr18vKYzi',
       ),
       'fallback' => false,
       'defaults' => 
@@ -10739,6 +10690,7 @@ app('router')->setCompiledRoutes(
         array (
           0 => 'web',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\HomeController@schoolCreate',
         'controller' => 'App\\Http\\Controllers\\HomeController@schoolCreate',
         'namespace' => NULL,
@@ -10779,6 +10731,7 @@ app('router')->setCompiledRoutes(
           2 => 'superAdmin',
           3 => 'role_id',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@superadminDashboard',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@superadminDashboard',
         'namespace' => NULL,
@@ -10818,6 +10771,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@schoolList',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@schoolList',
         'namespace' => NULL,
@@ -10857,6 +10811,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@editSchool',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@editSchool',
         'namespace' => NULL,
@@ -10895,6 +10850,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@schoolUpdate',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@schoolUpdate',
         'namespace' => NULL,
@@ -10934,6 +10890,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@schoolAdd',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@schoolAdd',
         'namespace' => NULL,
@@ -10972,6 +10929,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@createSchool',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@createSchool',
         'namespace' => NULL,
@@ -11011,6 +10969,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@schoolStatusUpdate',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@schoolStatusUpdate',
         'namespace' => NULL,
@@ -11050,6 +11009,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@adminList',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@adminList',
         'namespace' => NULL,
@@ -11089,6 +11049,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@superadminPackage',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@superadminPackage',
         'namespace' => NULL,
@@ -11128,6 +11089,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@createPackage',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@createPackage',
         'namespace' => NULL,
@@ -11166,6 +11128,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@packageCreate',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@packageCreate',
         'namespace' => NULL,
@@ -11205,6 +11168,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@editPackage',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@editPackage',
         'namespace' => NULL,
@@ -11243,6 +11207,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@packageUpdate',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@packageUpdate',
         'namespace' => NULL,
@@ -11282,6 +11247,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@packageDelete',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@packageDelete',
         'namespace' => NULL,
@@ -11321,6 +11287,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@subscriptionReport',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@subscriptionReport',
         'namespace' => NULL,
@@ -11359,6 +11326,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@subscriptionFilterReport',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@subscriptionFilterReport',
         'namespace' => NULL,
@@ -11398,6 +11366,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@subscriptionPendingPayment',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@subscriptionPendingPayment',
         'namespace' => NULL,
@@ -11436,6 +11405,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@subscriptionFilterPendingPayment',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@subscriptionFilterPendingPayment',
         'namespace' => NULL,
@@ -11475,6 +11445,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@subscriptionPaymentStatus',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@subscriptionPaymentStatus',
         'namespace' => NULL,
@@ -11514,6 +11485,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@subscriptionPaymentDelete',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@subscriptionPaymentDelete',
         'namespace' => NULL,
@@ -11553,6 +11525,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@subscriptionExpired',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@subscriptionExpired',
         'namespace' => NULL,
@@ -11592,6 +11565,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@addonList',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@addonList',
         'namespace' => NULL,
@@ -11631,6 +11605,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@addonInstall',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@addonInstall',
         'namespace' => NULL,
@@ -11670,6 +11645,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@addonStatus',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@addonStatus',
         'namespace' => NULL,
@@ -11709,6 +11685,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@addonDelete',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@addonDelete',
         'namespace' => NULL,
@@ -11748,6 +11725,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@systemSettings',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@systemSettings',
         'namespace' => NULL,
@@ -11786,6 +11764,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@systemUpdate',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@systemUpdate',
         'namespace' => NULL,
@@ -11825,6 +11804,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@websiteSettings',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@websiteSettings',
         'namespace' => NULL,
@@ -11864,6 +11844,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@faqViews',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@faqViews',
         'namespace' => NULL,
@@ -11903,6 +11884,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@faqAdd',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@faqAdd',
         'namespace' => NULL,
@@ -11941,6 +11923,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@faqCreate',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@faqCreate',
         'namespace' => NULL,
@@ -11980,6 +11963,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@faqEdit',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@faqEdit',
         'namespace' => NULL,
@@ -12018,6 +12002,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@faqUpdate',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@faqUpdate',
         'namespace' => NULL,
@@ -12057,6 +12042,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@faqDelete',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@faqDelete',
         'namespace' => NULL,
@@ -12096,6 +12082,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@manageLanguage',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@manageLanguage',
         'namespace' => NULL,
@@ -12134,6 +12121,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@addLanguage',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@addLanguage',
         'namespace' => NULL,
@@ -12172,6 +12160,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@updatedPhrase',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@updatedPhrase',
         'namespace' => NULL,
@@ -12211,6 +12200,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@deleteLanguage',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@deleteLanguage',
         'namespace' => NULL,
@@ -12250,6 +12240,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@smtpSettings',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@smtpSettings',
         'namespace' => NULL,
@@ -12288,6 +12279,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@smtpUpdate',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@smtpUpdate',
         'namespace' => NULL,
@@ -12327,6 +12319,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@about',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@about',
         'namespace' => NULL,
@@ -12371,6 +12364,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@save_valid_purchase_code',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@save_valid_purchase_code',
         'namespace' => NULL,
@@ -12410,6 +12404,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@payment_settings',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@payment_settings',
         'namespace' => NULL,
@@ -12448,6 +12443,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@update_payment_settings',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@update_payment_settings',
         'namespace' => NULL,
@@ -12486,6 +12482,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@payWithPaypal_ForSubscription',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@payWithPaypal_ForSubscription',
         'namespace' => NULL,
@@ -12524,6 +12521,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@PayWithStripe_ForSubscription',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@PayWithStripe_ForSubscription',
         'namespace' => NULL,
@@ -12562,6 +12560,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@PayWithRazorpay_ForSubscription',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@PayWithRazorpay_ForSubscription',
         'namespace' => NULL,
@@ -12600,6 +12599,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@PayWithPaytm_ForSubscription',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@PayWithPaytm_ForSubscription',
         'namespace' => NULL,
@@ -12638,6 +12638,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@Subcription_PaytmCallback',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@Subcription_PaytmCallback',
         'namespace' => NULL,
@@ -12677,6 +12678,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@profile',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@profile',
         'namespace' => NULL,
@@ -12715,6 +12717,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@profile_update',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@profile_update',
         'namespace' => NULL,
@@ -12759,6 +12762,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@password',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@password',
         'namespace' => NULL,
@@ -12797,6 +12801,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'superAdmin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\SuperAdminController@update_logo',
         'controller' => 'App\\Http\\Controllers\\SuperAdminController@update_logo',
         'namespace' => NULL,
@@ -12835,6 +12840,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'admin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\PaystackController@initializePaystack',
         'controller' => 'App\\Http\\Controllers\\PaystackController@initializePaystack',
         'namespace' => NULL,
@@ -12874,6 +12880,7 @@ app('router')->setCompiledRoutes(
           1 => 'auth',
           2 => 'admin',
         ),
+        'domain' => 'prefectpro.test',
         'uses' => 'App\\Http\\Controllers\\PaystackController@authorizePaystack',
         'controller' => 'App\\Http\\Controllers\\PaystackController@authorizePaystack',
         'namespace' => NULL,
@@ -12882,6 +12889,555 @@ app('router')->setCompiledRoutes(
         array (
         ),
         'as' => 'admin.subscription.paystack.authorize',
+      ),
+      'fallback' => false,
+      'defaults' => 
+      array (
+      ),
+      'wheres' => 
+      array (
+      ),
+      'bindingFields' => 
+      array (
+      ),
+      'lockSeconds' => NULL,
+      'waitSeconds' => NULL,
+      'withTrashed' => false,
+    ),
+    'superadmin.product.update' => 
+    array (
+      'methods' => 
+      array (
+        0 => 'POST',
+      ),
+      'uri' => 'superadmin/product/update',
+      'action' => 
+      array (
+        'middleware' => 
+        array (
+          0 => 'web',
+          1 => 'superAdmin',
+          2 => 'auth',
+        ),
+        'domain' => 'prefectpro.test',
+        'uses' => 'App\\Http\\Controllers\\Updater@update',
+        'controller' => 'App\\Http\\Controllers\\Updater@update',
+        'namespace' => NULL,
+        'prefix' => '',
+        'where' => 
+        array (
+        ),
+        'as' => 'superadmin.product.update',
+      ),
+      'fallback' => false,
+      'defaults' => 
+      array (
+      ),
+      'wheres' => 
+      array (
+      ),
+      'bindingFields' => 
+      array (
+      ),
+      'lockSeconds' => NULL,
+      'waitSeconds' => NULL,
+      'withTrashed' => false,
+    ),
+    'generated::XyuAm9sAyrieONUt' => 
+    array (
+      'methods' => 
+      array (
+        0 => 'GET',
+        1 => 'HEAD',
+      ),
+      'uri' => '/',
+      'action' => 
+      array (
+        'middleware' => 
+        array (
+          0 => 'web',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+        ),
+        'uses' => '\\Illuminate\\Routing\\ViewController@__invoke',
+        'controller' => '\\Illuminate\\Routing\\ViewController',
+        'namespace' => '',
+        'prefix' => '',
+        'where' => 
+        array (
+        ),
+        'as' => 'generated::XyuAm9sAyrieONUt',
+      ),
+      'fallback' => false,
+      'defaults' => 
+      array (
+        'view' => 'auth.login',
+        'data' => 
+        array (
+        ),
+        'status' => 200,
+        'headers' => 
+        array (
+        ),
+      ),
+      'wheres' => 
+      array (
+      ),
+      'bindingFields' => 
+      array (
+      ),
+      'lockSeconds' => NULL,
+      'waitSeconds' => NULL,
+      'withTrashed' => false,
+    ),
+    'generated::KUoxMKjjTNVppDm8' => 
+    array (
+      'methods' => 
+      array (
+        0 => 'GET',
+        1 => 'HEAD',
+      ),
+      'uri' => 'test',
+      'action' => 
+      array (
+        'middleware' => 
+        array (
+          0 => 'web',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+        ),
+        'uses' => 'O:47:"Laravel\\SerializableClosure\\SerializableClosure":1:{s:12:"serializable";O:46:"Laravel\\SerializableClosure\\Serializers\\Signed":2:{s:12:"serializable";s:278:"O:46:"Laravel\\SerializableClosure\\Serializers\\Native":5:{s:3:"use";a:0:{}s:8:"function";s:60:"function () {
+            return \\view(\'welcome\');
+        }";s:5:"scope";s:37:"Illuminate\\Routing\\RouteFileRegistrar";s:4:"this";N;s:4:"self";s:32:"00000000000008a60000000000000000";}";s:4:"hash";s:44:"xGO62bXTWizTU+gVCRX2HGKiXrGM9Uuyx0n1ahXDo88=";}}',
+        'namespace' => '',
+        'prefix' => '',
+        'where' => 
+        array (
+        ),
+        'as' => 'generated::KUoxMKjjTNVppDm8',
+      ),
+      'fallback' => false,
+      'defaults' => 
+      array (
+      ),
+      'wheres' => 
+      array (
+      ),
+      'bindingFields' => 
+      array (
+      ),
+      'lockSeconds' => NULL,
+      'waitSeconds' => NULL,
+      'withTrashed' => false,
+    ),
+    'tenant.' => 
+    array (
+      'methods' => 
+      array (
+        0 => 'POST',
+      ),
+      'uri' => 'login',
+      'action' => 
+      array (
+        'middleware' => 
+        array (
+          0 => 'web',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+        ),
+        'uses' => '\\App\\Http\\Controllers\\Auth\\LoginController@login',
+        'controller' => '\\App\\Http\\Controllers\\Auth\\LoginController@login',
+        'as' => 'tenant.',
+        'namespace' => '\\App\\Http\\Controllers',
+        'prefix' => '',
+        'where' => 
+        array (
+        ),
+      ),
+      'fallback' => false,
+      'defaults' => 
+      array (
+      ),
+      'wheres' => 
+      array (
+      ),
+      'bindingFields' => 
+      array (
+      ),
+      'lockSeconds' => NULL,
+      'waitSeconds' => NULL,
+      'withTrashed' => false,
+    ),
+    'tenant.login' => 
+    array (
+      'methods' => 
+      array (
+        0 => 'GET',
+        1 => 'HEAD',
+      ),
+      'uri' => 'login',
+      'action' => 
+      array (
+        'middleware' => 
+        array (
+          0 => 'web',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+        ),
+        'uses' => '\\App\\Http\\Controllers\\Auth\\LoginController@showLoginForm',
+        'controller' => '\\App\\Http\\Controllers\\Auth\\LoginController@showLoginForm',
+        'as' => 'tenant.login',
+        'namespace' => '\\App\\Http\\Controllers',
+        'prefix' => '',
+        'where' => 
+        array (
+        ),
+      ),
+      'fallback' => false,
+      'defaults' => 
+      array (
+      ),
+      'wheres' => 
+      array (
+      ),
+      'bindingFields' => 
+      array (
+      ),
+      'lockSeconds' => NULL,
+      'waitSeconds' => NULL,
+      'withTrashed' => false,
+    ),
+    'tenant.logout' => 
+    array (
+      'methods' => 
+      array (
+        0 => 'POST',
+      ),
+      'uri' => 'logout',
+      'action' => 
+      array (
+        'middleware' => 
+        array (
+          0 => 'web',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+        ),
+        'uses' => '\\App\\Http\\Controllers\\Auth\\LoginController@logout',
+        'controller' => '\\App\\Http\\Controllers\\Auth\\LoginController@logout',
+        'as' => 'tenant.logout',
+        'namespace' => '\\App\\Http\\Controllers',
+        'prefix' => '',
+        'where' => 
+        array (
+        ),
+      ),
+      'fallback' => false,
+      'defaults' => 
+      array (
+      ),
+      'wheres' => 
+      array (
+      ),
+      'bindingFields' => 
+      array (
+      ),
+      'lockSeconds' => NULL,
+      'waitSeconds' => NULL,
+      'withTrashed' => false,
+    ),
+    'tenant.register' => 
+    array (
+      'methods' => 
+      array (
+        0 => 'GET',
+        1 => 'HEAD',
+      ),
+      'uri' => 'register',
+      'action' => 
+      array (
+        'middleware' => 
+        array (
+          0 => 'web',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+        ),
+        'uses' => '\\App\\Http\\Controllers\\Auth\\RegisterController@showRegistrationForm',
+        'controller' => '\\App\\Http\\Controllers\\Auth\\RegisterController@showRegistrationForm',
+        'as' => 'tenant.register',
+        'namespace' => '\\App\\Http\\Controllers',
+        'prefix' => '',
+        'where' => 
+        array (
+        ),
+      ),
+      'fallback' => false,
+      'defaults' => 
+      array (
+      ),
+      'wheres' => 
+      array (
+      ),
+      'bindingFields' => 
+      array (
+      ),
+      'lockSeconds' => NULL,
+      'waitSeconds' => NULL,
+      'withTrashed' => false,
+    ),
+    'tenant.generated::imjH6vnJvrYAJDXE' => 
+    array (
+      'methods' => 
+      array (
+        0 => 'POST',
+      ),
+      'uri' => 'register',
+      'action' => 
+      array (
+        'middleware' => 
+        array (
+          0 => 'web',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+        ),
+        'uses' => '\\App\\Http\\Controllers\\Auth\\RegisterController@register',
+        'controller' => '\\App\\Http\\Controllers\\Auth\\RegisterController@register',
+        'as' => 'tenant.generated::imjH6vnJvrYAJDXE',
+        'namespace' => '\\App\\Http\\Controllers',
+        'prefix' => '',
+        'where' => 
+        array (
+        ),
+      ),
+      'fallback' => false,
+      'defaults' => 
+      array (
+      ),
+      'wheres' => 
+      array (
+      ),
+      'bindingFields' => 
+      array (
+      ),
+      'lockSeconds' => NULL,
+      'waitSeconds' => NULL,
+      'withTrashed' => false,
+    ),
+    'tenant.password.request' => 
+    array (
+      'methods' => 
+      array (
+        0 => 'GET',
+        1 => 'HEAD',
+      ),
+      'uri' => 'password/reset',
+      'action' => 
+      array (
+        'middleware' => 
+        array (
+          0 => 'web',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+        ),
+        'uses' => '\\App\\Http\\Controllers\\Auth\\ForgotPasswordController@showLinkRequestForm',
+        'controller' => '\\App\\Http\\Controllers\\Auth\\ForgotPasswordController@showLinkRequestForm',
+        'as' => 'tenant.password.request',
+        'namespace' => '\\App\\Http\\Controllers',
+        'prefix' => '',
+        'where' => 
+        array (
+        ),
+      ),
+      'fallback' => false,
+      'defaults' => 
+      array (
+      ),
+      'wheres' => 
+      array (
+      ),
+      'bindingFields' => 
+      array (
+      ),
+      'lockSeconds' => NULL,
+      'waitSeconds' => NULL,
+      'withTrashed' => false,
+    ),
+    'tenant.password.email' => 
+    array (
+      'methods' => 
+      array (
+        0 => 'POST',
+      ),
+      'uri' => 'password/email',
+      'action' => 
+      array (
+        'middleware' => 
+        array (
+          0 => 'web',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+        ),
+        'uses' => '\\App\\Http\\Controllers\\Auth\\ForgotPasswordController@sendResetLinkEmail',
+        'controller' => '\\App\\Http\\Controllers\\Auth\\ForgotPasswordController@sendResetLinkEmail',
+        'as' => 'tenant.password.email',
+        'namespace' => '\\App\\Http\\Controllers',
+        'prefix' => '',
+        'where' => 
+        array (
+        ),
+      ),
+      'fallback' => false,
+      'defaults' => 
+      array (
+      ),
+      'wheres' => 
+      array (
+      ),
+      'bindingFields' => 
+      array (
+      ),
+      'lockSeconds' => NULL,
+      'waitSeconds' => NULL,
+      'withTrashed' => false,
+    ),
+    'tenant.password.reset' => 
+    array (
+      'methods' => 
+      array (
+        0 => 'GET',
+        1 => 'HEAD',
+      ),
+      'uri' => 'password/reset/{token}',
+      'action' => 
+      array (
+        'middleware' => 
+        array (
+          0 => 'web',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+        ),
+        'uses' => '\\App\\Http\\Controllers\\Auth\\ResetPasswordController@showResetForm',
+        'controller' => '\\App\\Http\\Controllers\\Auth\\ResetPasswordController@showResetForm',
+        'as' => 'tenant.password.reset',
+        'namespace' => '\\App\\Http\\Controllers',
+        'prefix' => '',
+        'where' => 
+        array (
+        ),
+      ),
+      'fallback' => false,
+      'defaults' => 
+      array (
+      ),
+      'wheres' => 
+      array (
+      ),
+      'bindingFields' => 
+      array (
+      ),
+      'lockSeconds' => NULL,
+      'waitSeconds' => NULL,
+      'withTrashed' => false,
+    ),
+    'tenant.password.update' => 
+    array (
+      'methods' => 
+      array (
+        0 => 'POST',
+      ),
+      'uri' => 'password/reset',
+      'action' => 
+      array (
+        'middleware' => 
+        array (
+          0 => 'web',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+        ),
+        'uses' => '\\App\\Http\\Controllers\\Auth\\ResetPasswordController@reset',
+        'controller' => '\\App\\Http\\Controllers\\Auth\\ResetPasswordController@reset',
+        'as' => 'tenant.password.update',
+        'namespace' => '\\App\\Http\\Controllers',
+        'prefix' => '',
+        'where' => 
+        array (
+        ),
+      ),
+      'fallback' => false,
+      'defaults' => 
+      array (
+      ),
+      'wheres' => 
+      array (
+      ),
+      'bindingFields' => 
+      array (
+      ),
+      'lockSeconds' => NULL,
+      'waitSeconds' => NULL,
+      'withTrashed' => false,
+    ),
+    'tenant.password.confirm' => 
+    array (
+      'methods' => 
+      array (
+        0 => 'GET',
+        1 => 'HEAD',
+      ),
+      'uri' => 'password/confirm',
+      'action' => 
+      array (
+        'middleware' => 
+        array (
+          0 => 'web',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+        ),
+        'uses' => '\\App\\Http\\Controllers\\Auth\\ConfirmPasswordController@showConfirmForm',
+        'controller' => '\\App\\Http\\Controllers\\Auth\\ConfirmPasswordController@showConfirmForm',
+        'as' => 'tenant.password.confirm',
+        'namespace' => '\\App\\Http\\Controllers',
+        'prefix' => '',
+        'where' => 
+        array (
+        ),
+      ),
+      'fallback' => false,
+      'defaults' => 
+      array (
+      ),
+      'wheres' => 
+      array (
+      ),
+      'bindingFields' => 
+      array (
+      ),
+      'lockSeconds' => NULL,
+      'waitSeconds' => NULL,
+      'withTrashed' => false,
+    ),
+    'tenant.generated::FfbSzHymloaEhG6D' => 
+    array (
+      'methods' => 
+      array (
+        0 => 'POST',
+      ),
+      'uri' => 'password/confirm',
+      'action' => 
+      array (
+        'middleware' => 
+        array (
+          0 => 'web',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+        ),
+        'uses' => '\\App\\Http\\Controllers\\Auth\\ConfirmPasswordController@confirm',
+        'controller' => '\\App\\Http\\Controllers\\Auth\\ConfirmPasswordController@confirm',
+        'as' => 'tenant.generated::FfbSzHymloaEhG6D',
+        'namespace' => '\\App\\Http\\Controllers',
+        'prefix' => '',
+        'where' => 
+        array (
+        ),
       ),
       'fallback' => false,
       'defaults' => 
@@ -12910,13 +13466,15 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
-          3 => 'role_id',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
+          5 => 'role_id',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@adminDashboard',
         'controller' => 'App\\Http\\Controllers\\AdminController@adminDashboard',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -12950,12 +13508,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@classWiseSections',
         'controller' => 'App\\Http\\Controllers\\AdminController@classWiseSections',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -12989,12 +13549,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@classWiseSubject',
         'controller' => 'App\\Http\\Controllers\\AdminController@classWiseSubject',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -13028,12 +13590,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@classWiseStudents',
         'controller' => 'App\\Http\\Controllers\\AdminController@classWiseStudents',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -13067,12 +13631,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@adminList',
         'controller' => 'App\\Http\\Controllers\\AdminController@adminList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -13106,12 +13672,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@createModal',
         'controller' => 'App\\Http\\Controllers\\AdminController@createModal',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -13144,12 +13712,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@adminCreate',
         'controller' => 'App\\Http\\Controllers\\AdminController@adminCreate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -13183,12 +13753,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@editModal',
         'controller' => 'App\\Http\\Controllers\\AdminController@editModal',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -13221,12 +13793,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@adminUpdate',
         'controller' => 'App\\Http\\Controllers\\AdminController@adminUpdate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -13260,12 +13834,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@adminDelete',
         'controller' => 'App\\Http\\Controllers\\AdminController@adminDelete',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -13299,12 +13875,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@adminProfile',
         'controller' => 'App\\Http\\Controllers\\AdminController@adminProfile',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -13338,12 +13916,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@teacherList',
         'controller' => 'App\\Http\\Controllers\\AdminController@teacherList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -13377,12 +13957,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@createTeacherModal',
         'controller' => 'App\\Http\\Controllers\\AdminController@createTeacherModal',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -13415,12 +13997,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@adminTeacherCreate',
         'controller' => 'App\\Http\\Controllers\\AdminController@adminTeacherCreate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -13454,12 +14038,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@teacherEditModal',
         'controller' => 'App\\Http\\Controllers\\AdminController@teacherEditModal',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -13492,12 +14078,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@teacherUpdate',
         'controller' => 'App\\Http\\Controllers\\AdminController@teacherUpdate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -13531,12 +14119,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@teacherDelete',
         'controller' => 'App\\Http\\Controllers\\AdminController@teacherDelete',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -13570,12 +14160,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@teacherProfile',
         'controller' => 'App\\Http\\Controllers\\AdminController@teacherProfile',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -13609,12 +14201,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@accountantList',
         'controller' => 'App\\Http\\Controllers\\AdminController@accountantList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -13648,12 +14242,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@createAccountantModal',
         'controller' => 'App\\Http\\Controllers\\AdminController@createAccountantModal',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -13686,12 +14282,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@accountantCreate',
         'controller' => 'App\\Http\\Controllers\\AdminController@accountantCreate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -13725,12 +14323,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@accountantEditModal',
         'controller' => 'App\\Http\\Controllers\\AdminController@accountantEditModal',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -13763,12 +14363,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@accountantUpdate',
         'controller' => 'App\\Http\\Controllers\\AdminController@accountantUpdate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -13802,12 +14404,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@accountantDelete',
         'controller' => 'App\\Http\\Controllers\\AdminController@accountantDelete',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -13841,12 +14445,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@accountantProfile',
         'controller' => 'App\\Http\\Controllers\\AdminController@accountantProfile',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -13880,12 +14486,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@librarianList',
         'controller' => 'App\\Http\\Controllers\\AdminController@librarianList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -13919,12 +14527,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@createLibrarianModal',
         'controller' => 'App\\Http\\Controllers\\AdminController@createLibrarianModal',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -13957,12 +14567,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@librarianCreate',
         'controller' => 'App\\Http\\Controllers\\AdminController@librarianCreate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -13996,12 +14608,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@librarianEditModal',
         'controller' => 'App\\Http\\Controllers\\AdminController@librarianEditModal',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -14034,12 +14648,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@librarianUpdate',
         'controller' => 'App\\Http\\Controllers\\AdminController@librarianUpdate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -14073,12 +14689,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@librarianDelete',
         'controller' => 'App\\Http\\Controllers\\AdminController@librarianDelete',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -14112,12 +14730,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@librarianProfile',
         'controller' => 'App\\Http\\Controllers\\AdminController@librarianProfile',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -14151,12 +14771,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@parentList',
         'controller' => 'App\\Http\\Controllers\\AdminController@parentList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -14189,12 +14811,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@parentCreate',
         'controller' => 'App\\Http\\Controllers\\AdminController@parentCreate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -14228,12 +14852,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@createParent',
         'controller' => 'App\\Http\\Controllers\\AdminController@createParent',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -14267,12 +14893,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@parentEditModal',
         'controller' => 'App\\Http\\Controllers\\AdminController@parentEditModal',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -14305,12 +14933,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@parentUpdate',
         'controller' => 'App\\Http\\Controllers\\AdminController@parentUpdate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -14344,12 +14974,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@parentDelete',
         'controller' => 'App\\Http\\Controllers\\AdminController@parentDelete',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -14383,12 +15015,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@parentProfile',
         'controller' => 'App\\Http\\Controllers\\AdminController@parentProfile',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -14422,12 +15056,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@studentList',
         'controller' => 'App\\Http\\Controllers\\AdminController@studentList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -14461,12 +15097,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@createStudentModal',
         'controller' => 'App\\Http\\Controllers\\AdminController@createStudentModal',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -14499,12 +15137,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@studentCreate',
         'controller' => 'App\\Http\\Controllers\\AdminController@studentCreate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -14538,12 +15178,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@studentIdCardGenerate',
         'controller' => 'App\\Http\\Controllers\\AdminController@studentIdCardGenerate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -14577,12 +15219,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@studentEditModal',
         'controller' => 'App\\Http\\Controllers\\AdminController@studentEditModal',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -14615,12 +15259,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@studentUpdate',
         'controller' => 'App\\Http\\Controllers\\AdminController@studentUpdate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -14654,12 +15300,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@studentDelete',
         'controller' => 'App\\Http\\Controllers\\AdminController@studentDelete',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -14693,12 +15341,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@studentProfile',
         'controller' => 'App\\Http\\Controllers\\AdminController@studentProfile',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -14732,12 +15382,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@teacherPermission',
         'controller' => 'App\\Http\\Controllers\\AdminController@teacherPermission',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -14771,12 +15423,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@teacherPermissionList',
         'controller' => 'App\\Http\\Controllers\\AdminController@teacherPermissionList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -14810,12 +15464,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@teacherPermissionUpdate',
         'controller' => 'App\\Http\\Controllers\\AdminController@teacherPermissionUpdate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -14849,12 +15505,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@offlineAdmissionForm',
         'controller' => 'App\\Http\\Controllers\\AdminController@offlineAdmissionForm',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -14887,12 +15545,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@offlineAdmissionCreate',
         'controller' => 'App\\Http\\Controllers\\AdminController@offlineAdmissionCreate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -14925,12 +15585,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@offlineAdmissionBulkCreate',
         'controller' => 'App\\Http\\Controllers\\AdminController@offlineAdmissionBulkCreate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -14963,12 +15625,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@offlineAdmissionExcelCreate',
         'controller' => 'App\\Http\\Controllers\\AdminController@offlineAdmissionExcelCreate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -15002,14 +15666,16 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'controller' => 'App\\Http\\Controllers\\AdminController',
-        'uses' => 'O:47:"Laravel\\SerializableClosure\\SerializableClosure":1:{s:12:"serializable";O:46:"Laravel\\SerializableClosure\\Serializers\\Signed":2:{s:12:"serializable";s:298:"O:46:"Laravel\\SerializableClosure\\Serializers\\Native":5:{s:3:"use";a:0:{}s:8:"function";s:80:"function () {
-        return \\view(\'admin.offline_admission.csv_preview\');
-    }";s:5:"scope";s:37:"Illuminate\\Routing\\RouteFileRegistrar";s:4:"this";N;s:4:"self";s:32:"000000000000094f0000000000000000";}";s:4:"hash";s:44:"B+tzhnfP+XMlJLMSh5jgmbnAzK2D47W8zel2Gbze1Hg=";}}',
-        'namespace' => NULL,
+        'uses' => 'O:47:"Laravel\\SerializableClosure\\SerializableClosure":1:{s:12:"serializable";O:46:"Laravel\\SerializableClosure\\Serializers\\Signed":2:{s:12:"serializable";s:314:"O:46:"Laravel\\SerializableClosure\\Serializers\\Native":5:{s:3:"use";a:0:{}s:8:"function";s:96:"function () {
+                return \\view(\'admin.offline_admission.csv_preview\');
+            }";s:5:"scope";s:37:"Illuminate\\Routing\\RouteFileRegistrar";s:4:"this";N;s:4:"self";s:32:"00000000000008eb0000000000000000";}";s:4:"hash";s:44:"zpArM6jWVsyaGXtRqdMtJisQ/jzLkPOBWYTwmCxfo8k=";}}',
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -15043,12 +15709,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@examCategoryList',
         'controller' => 'App\\Http\\Controllers\\AdminController@examCategoryList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -15082,12 +15750,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@createExamCategory',
         'controller' => 'App\\Http\\Controllers\\AdminController@createExamCategory',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -15120,12 +15790,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@examCategoryCreate',
         'controller' => 'App\\Http\\Controllers\\AdminController@examCategoryCreate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -15159,12 +15831,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@editExamCategory',
         'controller' => 'App\\Http\\Controllers\\AdminController@editExamCategory',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -15197,12 +15871,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@examCategoryUpdate',
         'controller' => 'App\\Http\\Controllers\\AdminController@examCategoryUpdate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -15236,12 +15912,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@examCategoryDelete',
         'controller' => 'App\\Http\\Controllers\\AdminController@examCategoryDelete',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -15275,12 +15953,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@offlineExamList',
         'controller' => 'App\\Http\\Controllers\\AdminController@offlineExamList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -15314,12 +15994,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@offlineExamExport',
         'controller' => 'App\\Http\\Controllers\\AdminController@offlineExamExport',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -15353,12 +16035,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@createOfflineExam',
         'controller' => 'App\\Http\\Controllers\\AdminController@createOfflineExam',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -15391,12 +16075,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@offlineExamCreate',
         'controller' => 'App\\Http\\Controllers\\AdminController@offlineExamCreate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -15430,12 +16116,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@editOfflineExam',
         'controller' => 'App\\Http\\Controllers\\AdminController@editOfflineExam',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -15468,12 +16156,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@offlineExamUpdate',
         'controller' => 'App\\Http\\Controllers\\AdminController@offlineExamUpdate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -15507,12 +16197,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@offlineExamDelete',
         'controller' => 'App\\Http\\Controllers\\AdminController@offlineExamDelete',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -15546,12 +16238,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@classWiseOfflineExam',
         'controller' => 'App\\Http\\Controllers\\AdminController@classWiseOfflineExam',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -15585,12 +16279,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@dailyAttendance',
         'controller' => 'App\\Http\\Controllers\\AdminController@dailyAttendance',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -15624,12 +16320,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@takeAttendance',
         'controller' => 'App\\Http\\Controllers\\AdminController@takeAttendance',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -15662,12 +16360,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@attendanceTake',
         'controller' => 'App\\Http\\Controllers\\AdminController@attendanceTake',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -15701,12 +16401,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@studentListAttendance',
         'controller' => 'App\\Http\\Controllers\\AdminController@studentListAttendance',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -15740,12 +16442,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@dailyAttendanceFilter',
         'controller' => 'App\\Http\\Controllers\\AdminController@dailyAttendanceFilter',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -15779,12 +16483,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@dailyAttendanceFilter_csv',
         'controller' => 'App\\Http\\Controllers\\AdminController@dailyAttendanceFilter_csv',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -15818,12 +16524,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@routine',
         'controller' => 'App\\Http\\Controllers\\AdminController@routine',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -15857,12 +16565,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@addRoutine',
         'controller' => 'App\\Http\\Controllers\\AdminController@addRoutine',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -15895,12 +16605,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@routineAdd',
         'controller' => 'App\\Http\\Controllers\\AdminController@routineAdd',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -15934,12 +16646,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@routineList',
         'controller' => 'App\\Http\\Controllers\\AdminController@routineList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -15973,12 +16687,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@routineEditModal',
         'controller' => 'App\\Http\\Controllers\\AdminController@routineEditModal',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -16011,12 +16727,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@routineUpdate',
         'controller' => 'App\\Http\\Controllers\\AdminController@routineUpdate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -16050,12 +16768,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@routineDelete',
         'controller' => 'App\\Http\\Controllers\\AdminController@routineDelete',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -16089,12 +16809,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@syllabus',
         'controller' => 'App\\Http\\Controllers\\AdminController@syllabus',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -16128,12 +16850,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@addSyllabus',
         'controller' => 'App\\Http\\Controllers\\AdminController@addSyllabus',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -16166,12 +16890,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@syllabusAdd',
         'controller' => 'App\\Http\\Controllers\\AdminController@syllabusAdd',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -16205,12 +16931,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@syllabusList',
         'controller' => 'App\\Http\\Controllers\\AdminController@syllabusList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -16244,12 +16972,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@syllabusEditModal',
         'controller' => 'App\\Http\\Controllers\\AdminController@syllabusEditModal',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -16282,12 +17012,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@syllabusUpdate',
         'controller' => 'App\\Http\\Controllers\\AdminController@syllabusUpdate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -16321,12 +17053,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@syllabusDelete',
         'controller' => 'App\\Http\\Controllers\\AdminController@syllabusDelete',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -16360,12 +17094,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@gradebook',
         'controller' => 'App\\Http\\Controllers\\AdminController@gradebook',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -16399,12 +17135,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@gradebookList',
         'controller' => 'App\\Http\\Controllers\\AdminController@gradebookList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -16438,12 +17176,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@subjectWiseMarks',
         'controller' => 'App\\Http\\Controllers\\AdminController@subjectWiseMarks',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -16477,12 +17217,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@addmark',
         'controller' => 'App\\Http\\Controllers\\AdminController@addmark',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -16515,12 +17257,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@markAdd',
         'controller' => 'App\\Http\\Controllers\\AdminController@markAdd',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -16554,12 +17298,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@marks',
         'controller' => 'App\\Http\\Controllers\\AdminController@marks',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -16593,12 +17339,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@marksFilter',
         'controller' => 'App\\Http\\Controllers\\AdminController@marksFilter',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -16632,12 +17380,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@gradeList',
         'controller' => 'App\\Http\\Controllers\\AdminController@gradeList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -16671,12 +17421,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@createGrade',
         'controller' => 'App\\Http\\Controllers\\AdminController@createGrade',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -16709,12 +17461,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@gradeCreate',
         'controller' => 'App\\Http\\Controllers\\AdminController@gradeCreate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -16748,12 +17502,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@editGrade',
         'controller' => 'App\\Http\\Controllers\\AdminController@editGrade',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -16786,12 +17542,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@gradeUpdate',
         'controller' => 'App\\Http\\Controllers\\AdminController@gradeUpdate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -16825,12 +17583,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@gradeDelete',
         'controller' => 'App\\Http\\Controllers\\AdminController@gradeDelete',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -16864,12 +17624,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@promotionFilter',
         'controller' => 'App\\Http\\Controllers\\AdminController@promotionFilter',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -16903,12 +17665,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@promotionList',
         'controller' => 'App\\Http\\Controllers\\AdminController@promotionList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -16942,12 +17706,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@promote',
         'controller' => 'App\\Http\\Controllers\\AdminController@promote',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -16981,12 +17747,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@subjectList',
         'controller' => 'App\\Http\\Controllers\\AdminController@subjectList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -17020,12 +17788,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@createSubject',
         'controller' => 'App\\Http\\Controllers\\AdminController@createSubject',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -17058,12 +17828,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@subjectCreate',
         'controller' => 'App\\Http\\Controllers\\AdminController@subjectCreate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -17097,12 +17869,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@editSubject',
         'controller' => 'App\\Http\\Controllers\\AdminController@editSubject',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -17135,12 +17909,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@subjectUpdate',
         'controller' => 'App\\Http\\Controllers\\AdminController@subjectUpdate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -17174,12 +17950,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@subjectDelete',
         'controller' => 'App\\Http\\Controllers\\AdminController@subjectDelete',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -17213,12 +17991,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@departmentList',
         'controller' => 'App\\Http\\Controllers\\AdminController@departmentList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -17252,12 +18032,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@createDepartment',
         'controller' => 'App\\Http\\Controllers\\AdminController@createDepartment',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -17290,12 +18072,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@departmentCreate',
         'controller' => 'App\\Http\\Controllers\\AdminController@departmentCreate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -17329,12 +18113,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@editDepartment',
         'controller' => 'App\\Http\\Controllers\\AdminController@editDepartment',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -17367,12 +18153,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@departmentUpdate',
         'controller' => 'App\\Http\\Controllers\\AdminController@departmentUpdate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -17406,12 +18194,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@departmentDelete',
         'controller' => 'App\\Http\\Controllers\\AdminController@departmentDelete',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -17445,12 +18235,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@classRoomList',
         'controller' => 'App\\Http\\Controllers\\AdminController@classRoomList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -17484,12 +18276,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@createClassRoom',
         'controller' => 'App\\Http\\Controllers\\AdminController@createClassRoom',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -17522,12 +18316,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@classRoomCreate',
         'controller' => 'App\\Http\\Controllers\\AdminController@classRoomCreate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -17561,12 +18357,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@editClassRoom',
         'controller' => 'App\\Http\\Controllers\\AdminController@editClassRoom',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -17599,12 +18397,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@classRoomUpdate',
         'controller' => 'App\\Http\\Controllers\\AdminController@classRoomUpdate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -17638,12 +18438,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@classRoomDelete',
         'controller' => 'App\\Http\\Controllers\\AdminController@classRoomDelete',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -17677,12 +18479,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@classList',
         'controller' => 'App\\Http\\Controllers\\AdminController@classList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -17716,12 +18520,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@createClass',
         'controller' => 'App\\Http\\Controllers\\AdminController@createClass',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -17754,12 +18560,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@classCreate',
         'controller' => 'App\\Http\\Controllers\\AdminController@classCreate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -17793,12 +18601,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@editClass',
         'controller' => 'App\\Http\\Controllers\\AdminController@editClass',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -17831,12 +18641,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@classUpdate',
         'controller' => 'App\\Http\\Controllers\\AdminController@classUpdate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -17870,12 +18682,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@editSection',
         'controller' => 'App\\Http\\Controllers\\AdminController@editSection',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -17908,12 +18722,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@sectionUpdate',
         'controller' => 'App\\Http\\Controllers\\AdminController@sectionUpdate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -17947,12 +18763,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@classDelete',
         'controller' => 'App\\Http\\Controllers\\AdminController@classDelete',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -17986,12 +18804,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@update_offline_payment',
         'controller' => 'App\\Http\\Controllers\\AdminController@update_offline_payment',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -18025,12 +18845,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@admin_subscription_fee_success_payment',
         'controller' => 'App\\Http\\Controllers\\AdminController@admin_subscription_fee_success_payment',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -18064,12 +18886,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@admin_subscription_fee_fail_payment',
         'controller' => 'App\\Http\\Controllers\\AdminController@admin_subscription_fee_fail_payment',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -18103,12 +18927,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@admin_free_subcription',
         'controller' => 'App\\Http\\Controllers\\AdminController@admin_free_subcription',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -18141,12 +18967,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@admin_subscription_offline_payment',
         'controller' => 'App\\Http\\Controllers\\AdminController@admin_subscription_offline_payment',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -18180,12 +19008,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@studentFeeManagerList',
         'controller' => 'App\\Http\\Controllers\\AdminController@studentFeeManagerList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -18219,12 +19049,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@feeManagerExport',
         'controller' => 'App\\Http\\Controllers\\AdminController@feeManagerExport',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -18258,12 +19090,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@feeManagerExportPdfPrint',
         'controller' => 'App\\Http\\Controllers\\AdminController@feeManagerExportPdfPrint',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -18297,12 +19131,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@createFeeManager',
         'controller' => 'App\\Http\\Controllers\\AdminController@createFeeManager',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -18335,12 +19171,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@feeManagerCreate',
         'controller' => 'App\\Http\\Controllers\\AdminController@feeManagerCreate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -18374,12 +19212,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@editFeeManager',
         'controller' => 'App\\Http\\Controllers\\AdminController@editFeeManager',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -18412,12 +19252,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@feeManagerUpdate',
         'controller' => 'App\\Http\\Controllers\\AdminController@feeManagerUpdate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -18451,12 +19293,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@studentFeeDelete',
         'controller' => 'App\\Http\\Controllers\\AdminController@studentFeeDelete',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -18490,12 +19334,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@studentFeeinvoice',
         'controller' => 'App\\Http\\Controllers\\AdminController@studentFeeinvoice',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -18529,12 +19375,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@offline_payment_pending',
         'controller' => 'App\\Http\\Controllers\\AdminController@offline_payment_pending',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -18568,12 +19416,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@expenseList',
         'controller' => 'App\\Http\\Controllers\\AdminController@expenseList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -18607,12 +19457,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@createExpense',
         'controller' => 'App\\Http\\Controllers\\AdminController@createExpense',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -18645,12 +19497,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@expenseCreate',
         'controller' => 'App\\Http\\Controllers\\AdminController@expenseCreate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -18684,12 +19538,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@editExpense',
         'controller' => 'App\\Http\\Controllers\\AdminController@editExpense',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -18722,12 +19578,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@expenseUpdate',
         'controller' => 'App\\Http\\Controllers\\AdminController@expenseUpdate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -18761,12 +19619,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@expenseDelete',
         'controller' => 'App\\Http\\Controllers\\AdminController@expenseDelete',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -18800,12 +19660,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@expenseCategoryList',
         'controller' => 'App\\Http\\Controllers\\AdminController@expenseCategoryList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -18839,12 +19701,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@createExpenseCategory',
         'controller' => 'App\\Http\\Controllers\\AdminController@createExpenseCategory',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -18877,12 +19741,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@expenseCategoryCreate',
         'controller' => 'App\\Http\\Controllers\\AdminController@expenseCategoryCreate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -18916,12 +19782,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@editExpenseCategory',
         'controller' => 'App\\Http\\Controllers\\AdminController@editExpenseCategory',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -18954,12 +19822,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@expenseCategoryUpdate',
         'controller' => 'App\\Http\\Controllers\\AdminController@expenseCategoryUpdate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -18993,12 +19863,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@expenseCategoryDelete',
         'controller' => 'App\\Http\\Controllers\\AdminController@expenseCategoryDelete',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -19032,12 +19904,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@bookList',
         'controller' => 'App\\Http\\Controllers\\AdminController@bookList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -19071,12 +19945,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@createBook',
         'controller' => 'App\\Http\\Controllers\\AdminController@createBook',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -19109,12 +19985,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@bookCreate',
         'controller' => 'App\\Http\\Controllers\\AdminController@bookCreate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -19148,12 +20026,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@editBook',
         'controller' => 'App\\Http\\Controllers\\AdminController@editBook',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -19186,12 +20066,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@bookUpdate',
         'controller' => 'App\\Http\\Controllers\\AdminController@bookUpdate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -19225,12 +20107,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@bookDelete',
         'controller' => 'App\\Http\\Controllers\\AdminController@bookDelete',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -19264,12 +20148,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@bookIssueList',
         'controller' => 'App\\Http\\Controllers\\AdminController@bookIssueList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -19303,12 +20189,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@createBookIssue',
         'controller' => 'App\\Http\\Controllers\\AdminController@createBookIssue',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -19341,12 +20229,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@bookIssueCreate',
         'controller' => 'App\\Http\\Controllers\\AdminController@bookIssueCreate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -19380,12 +20270,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@editBookIssue',
         'controller' => 'App\\Http\\Controllers\\AdminController@editBookIssue',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -19418,12 +20310,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@bookIssueUpdate',
         'controller' => 'App\\Http\\Controllers\\AdminController@bookIssueUpdate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -19457,12 +20351,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@bookIssueReturn',
         'controller' => 'App\\Http\\Controllers\\AdminController@bookIssueReturn',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -19496,12 +20392,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@bookIssueDelete',
         'controller' => 'App\\Http\\Controllers\\AdminController@bookIssueDelete',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -19535,12 +20433,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@noticeboardList',
         'controller' => 'App\\Http\\Controllers\\AdminController@noticeboardList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -19574,12 +20474,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@createNoticeboard',
         'controller' => 'App\\Http\\Controllers\\AdminController@createNoticeboard',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -19612,12 +20514,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@noticeboardCreate',
         'controller' => 'App\\Http\\Controllers\\AdminController@noticeboardCreate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -19651,12 +20555,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@editNoticeboard',
         'controller' => 'App\\Http\\Controllers\\AdminController@editNoticeboard',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -19689,12 +20595,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@noticeboardUpdate',
         'controller' => 'App\\Http\\Controllers\\AdminController@noticeboardUpdate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -19728,12 +20636,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@noticeboardDelete',
         'controller' => 'App\\Http\\Controllers\\AdminController@noticeboardDelete',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -19767,12 +20677,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@subscription',
         'controller' => 'App\\Http\\Controllers\\AdminController@subscription',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -19806,12 +20718,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@subscriptionPurchase',
         'controller' => 'App\\Http\\Controllers\\AdminController@subscriptionPurchase',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -19845,12 +20759,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@subscriptionPayment',
         'controller' => 'App\\Http\\Controllers\\AdminController@subscriptionPayment',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -19883,12 +20799,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@offlinePayment',
         'controller' => 'App\\Http\\Controllers\\AdminController@offlinePayment',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -19922,12 +20840,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@eventList',
         'controller' => 'App\\Http\\Controllers\\AdminController@eventList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -19961,12 +20881,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@createEvent',
         'controller' => 'App\\Http\\Controllers\\AdminController@createEvent',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -19999,12 +20921,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@eventCreate',
         'controller' => 'App\\Http\\Controllers\\AdminController@eventCreate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -20038,12 +20962,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@editEvent',
         'controller' => 'App\\Http\\Controllers\\AdminController@editEvent',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -20076,12 +21002,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@eventUpdate',
         'controller' => 'App\\Http\\Controllers\\AdminController@eventUpdate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -20115,12 +21043,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@eventDelete',
         'controller' => 'App\\Http\\Controllers\\AdminController@eventDelete',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -20154,12 +21084,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@paymentSettings',
         'controller' => 'App\\Http\\Controllers\\AdminController@paymentSettings',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -20192,12 +21124,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@paymentSettings_post',
         'controller' => 'App\\Http\\Controllers\\AdminController@paymentSettings_post',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -20231,12 +21165,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@schoolSettings',
         'controller' => 'App\\Http\\Controllers\\AdminController@schoolSettings',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -20269,12 +21205,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@schoolUpdate',
         'controller' => 'App\\Http\\Controllers\\AdminController@schoolUpdate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -20308,12 +21246,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@sessionManager',
         'controller' => 'App\\Http\\Controllers\\AdminController@sessionManager',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -20347,12 +21287,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@activeSession',
         'controller' => 'App\\Http\\Controllers\\AdminController@activeSession',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -20386,12 +21328,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@createSession',
         'controller' => 'App\\Http\\Controllers\\AdminController@createSession',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -20424,12 +21368,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@sessionCreate',
         'controller' => 'App\\Http\\Controllers\\AdminController@sessionCreate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -20463,12 +21409,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@editSession',
         'controller' => 'App\\Http\\Controllers\\AdminController@editSession',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -20501,12 +21449,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@sessionUpdate',
         'controller' => 'App\\Http\\Controllers\\AdminController@sessionUpdate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -20540,12 +21490,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@sessionDelete',
         'controller' => 'App\\Http\\Controllers\\AdminController@sessionDelete',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -20579,12 +21531,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@profile',
         'controller' => 'App\\Http\\Controllers\\AdminController@profile',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -20617,12 +21571,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@profile_update',
         'controller' => 'App\\Http\\Controllers\\AdminController@profile_update',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -20661,12 +21617,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'admin',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'admin',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AdminController@password',
         'controller' => 'App\\Http\\Controllers\\AdminController@password',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -20700,13 +21658,15 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'teacher',
-          2 => 'auth',
-          3 => 'role_id',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'teacher',
+          4 => 'auth',
+          5 => 'role_id',
         ),
         'uses' => 'App\\Http\\Controllers\\TeacherController@teacherDashboard',
         'controller' => 'App\\Http\\Controllers\\TeacherController@teacherDashboard',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -20740,12 +21700,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'teacher',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'teacher',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\TeacherController@dailyAttendance',
         'controller' => 'App\\Http\\Controllers\\TeacherController@dailyAttendance',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -20779,12 +21741,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'teacher',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'teacher',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\TeacherController@takeAttendance',
         'controller' => 'App\\Http\\Controllers\\TeacherController@takeAttendance',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -20817,12 +21781,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'teacher',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'teacher',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\TeacherController@attendanceTake',
         'controller' => 'App\\Http\\Controllers\\TeacherController@attendanceTake',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -20856,12 +21822,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'teacher',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'teacher',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\TeacherController@studentListAttendance',
         'controller' => 'App\\Http\\Controllers\\TeacherController@studentListAttendance',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -20895,12 +21863,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'teacher',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'teacher',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\TeacherController@dailyAttendanceFilter',
         'controller' => 'App\\Http\\Controllers\\TeacherController@dailyAttendanceFilter',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -20934,12 +21904,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'teacher',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'teacher',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\TeacherController@dailyAttendanceFilter_csv',
         'controller' => 'App\\Http\\Controllers\\TeacherController@dailyAttendanceFilter_csv',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -20973,12 +21945,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'teacher',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'teacher',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\TeacherController@marks',
         'controller' => 'App\\Http\\Controllers\\TeacherController@marks',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -21012,12 +21986,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'teacher',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'teacher',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\TeacherController@marksFilter',
         'controller' => 'App\\Http\\Controllers\\TeacherController@marksFilter',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -21051,12 +22027,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'teacher',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'teacher',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\TeacherController@offlineExamList',
         'controller' => 'App\\Http\\Controllers\\TeacherController@offlineExamList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -21090,12 +22068,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'teacher',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'teacher',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\TeacherController@offlineExamExport',
         'controller' => 'App\\Http\\Controllers\\TeacherController@offlineExamExport',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -21129,12 +22109,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'teacher',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'teacher',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\TeacherController@classWiseOfflineExam',
         'controller' => 'App\\Http\\Controllers\\TeacherController@classWiseOfflineExam',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -21168,12 +22150,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'teacher',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'teacher',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\TeacherController@routine',
         'controller' => 'App\\Http\\Controllers\\TeacherController@routine',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -21207,12 +22191,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'teacher',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'teacher',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\TeacherController@routineList',
         'controller' => 'App\\Http\\Controllers\\TeacherController@routineList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -21246,12 +22232,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'teacher',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'teacher',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\TeacherController@subjectList',
         'controller' => 'App\\Http\\Controllers\\TeacherController@subjectList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -21285,12 +22273,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'teacher',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'teacher',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\TeacherController@gradebook',
         'controller' => 'App\\Http\\Controllers\\TeacherController@gradebook',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -21324,12 +22314,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'teacher',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'teacher',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\TeacherController@gradebookList',
         'controller' => 'App\\Http\\Controllers\\TeacherController@gradebookList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -21363,12 +22355,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'teacher',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'teacher',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\TeacherController@subjectWiseMarks',
         'controller' => 'App\\Http\\Controllers\\TeacherController@subjectWiseMarks',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -21402,12 +22396,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'teacher',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'teacher',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\TeacherController@list_of_syllabus',
         'controller' => 'App\\Http\\Controllers\\TeacherController@list_of_syllabus',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -21441,12 +22437,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'teacher',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'teacher',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\TeacherController@class_wise_section_for_syllabus',
         'controller' => 'App\\Http\\Controllers\\TeacherController@class_wise_section_for_syllabus',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -21480,12 +22478,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'teacher',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'teacher',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\TeacherController@syllabus_details',
         'controller' => 'App\\Http\\Controllers\\TeacherController@syllabus_details',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -21519,12 +22519,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'teacher',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'teacher',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\TeacherController@show_syllabus_modal',
         'controller' => 'App\\Http\\Controllers\\TeacherController@show_syllabus_modal',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -21557,12 +22559,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'teacher',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'teacher',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\TeacherController@show_syllabus_modal_post',
         'controller' => 'App\\Http\\Controllers\\TeacherController@show_syllabus_modal_post',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -21596,12 +22600,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'teacher',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'teacher',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\TeacherController@syllabusDelete',
         'controller' => 'App\\Http\\Controllers\\TeacherController@syllabusDelete',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -21635,12 +22641,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'teacher',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'teacher',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\TeacherController@noticeboardList',
         'controller' => 'App\\Http\\Controllers\\TeacherController@noticeboardList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -21674,12 +22682,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'teacher',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'teacher',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\TeacherController@editNoticeboard',
         'controller' => 'App\\Http\\Controllers\\TeacherController@editNoticeboard',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -21713,12 +22723,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'teacher',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'teacher',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\TeacherController@eventList',
         'controller' => 'App\\Http\\Controllers\\TeacherController@eventList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -21752,12 +22764,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'teacher',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'teacher',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\TeacherController@profile',
         'controller' => 'App\\Http\\Controllers\\TeacherController@profile',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -21790,12 +22804,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'teacher',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'teacher',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\TeacherController@profile_update',
         'controller' => 'App\\Http\\Controllers\\TeacherController@profile_update',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -21834,12 +22850,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'teacher',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'teacher',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\TeacherController@password',
         'controller' => 'App\\Http\\Controllers\\TeacherController@password',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -21873,13 +22891,15 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'parent',
-          2 => 'auth',
-          3 => 'role_id',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'parent',
+          4 => 'auth',
+          5 => 'role_id',
         ),
         'uses' => 'App\\Http\\Controllers\\ParentController@parentDashboard',
         'controller' => 'App\\Http\\Controllers\\ParentController@parentDashboard',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -21913,12 +22933,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'parent',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'parent',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\ParentController@teacherList',
         'controller' => 'App\\Http\\Controllers\\ParentController@teacherList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -21952,12 +22974,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'parent',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'parent',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\ParentController@childList',
         'controller' => 'App\\Http\\Controllers\\ParentController@childList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -21991,12 +23015,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'parent',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'parent',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\ParentController@studentIdCardGenerate',
         'controller' => 'App\\Http\\Controllers\\ParentController@studentIdCardGenerate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -22030,12 +23056,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'parent',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'parent',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\ParentController@FeeManagerList',
         'controller' => 'App\\Http\\Controllers\\ParentController@FeeManagerList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -22069,12 +23097,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'parent',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'parent',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\ParentController@FeePayment',
         'controller' => 'App\\Http\\Controllers\\ParentController@FeePayment',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -22108,12 +23138,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'parent',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'parent',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\ParentController@feeManagerExport',
         'controller' => 'App\\Http\\Controllers\\ParentController@feeManagerExport',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -22147,12 +23179,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'parent',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'parent',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\ParentController@studentFeeinvoice',
         'controller' => 'App\\Http\\Controllers\\ParentController@studentFeeinvoice',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -22186,12 +23220,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'parent',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'parent',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\ParentController@gradeList',
         'controller' => 'App\\Http\\Controllers\\ParentController@gradeList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -22225,12 +23261,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'parent',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'parent',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\ParentController@subjectList',
         'controller' => 'App\\Http\\Controllers\\ParentController@subjectList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -22264,12 +23302,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'parent',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'parent',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\ParentController@subjectList_by_student_name',
         'controller' => 'App\\Http\\Controllers\\ParentController@subjectList_by_student_name',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -22303,12 +23343,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'parent',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'parent',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\ParentController@syllabusList',
         'controller' => 'App\\Http\\Controllers\\ParentController@syllabusList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -22342,12 +23384,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'parent',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'parent',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\ParentController@syllabusList_by_student_name',
         'controller' => 'App\\Http\\Controllers\\ParentController@syllabusList_by_student_name',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -22381,12 +23425,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'parent',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'parent',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\ParentController@student_fee_success_payment',
         'controller' => 'App\\Http\\Controllers\\ParentController@student_fee_success_payment',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -22420,12 +23466,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'parent',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'parent',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\ParentController@student_fee_fail_payment',
         'controller' => 'App\\Http\\Controllers\\ParentController@student_fee_fail_payment',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -22458,12 +23506,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'parent',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'parent',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\ParentController@offlinePayment',
         'controller' => 'App\\Http\\Controllers\\ParentController@offlinePayment',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -22497,12 +23547,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'parent',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'parent',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\ParentController@routine',
         'controller' => 'App\\Http\\Controllers\\ParentController@routine',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -22536,12 +23588,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'parent',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'parent',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\ParentController@routineList',
         'controller' => 'App\\Http\\Controllers\\ParentController@routineList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -22575,12 +23629,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'parent',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'parent',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\ParentController@list_of_attendence',
         'controller' => 'App\\Http\\Controllers\\ParentController@list_of_attendence',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -22614,12 +23670,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'parent',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'parent',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\ParentController@list_of_attendence',
         'controller' => 'App\\Http\\Controllers\\ParentController@list_of_attendence',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -22653,12 +23711,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'parent',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'parent',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\ParentController@dailyAttendanceFilter_csv',
         'controller' => 'App\\Http\\Controllers\\ParentController@dailyAttendanceFilter_csv',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -22692,12 +23752,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'parent',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'parent',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\ParentController@marks',
         'controller' => 'App\\Http\\Controllers\\ParentController@marks',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -22731,12 +23793,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'parent',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'parent',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\ParentController@marks_list',
         'controller' => 'App\\Http\\Controllers\\ParentController@marks_list',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -22770,12 +23834,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'parent',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'parent',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\ParentController@noticeboardList',
         'controller' => 'App\\Http\\Controllers\\ParentController@noticeboardList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -22809,12 +23875,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'parent',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'parent',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\ParentController@editNoticeboard',
         'controller' => 'App\\Http\\Controllers\\ParentController@editNoticeboard',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -22848,12 +23916,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'parent',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'parent',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\ParentController@eventList',
         'controller' => 'App\\Http\\Controllers\\ParentController@eventList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -22887,12 +23957,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'parent',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'parent',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\ParentController@profile',
         'controller' => 'App\\Http\\Controllers\\ParentController@profile',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -22925,12 +23997,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'parent',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'parent',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\ParentController@profile_update',
         'controller' => 'App\\Http\\Controllers\\ParentController@profile_update',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -22969,12 +24043,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'parent',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'parent',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\ParentController@password',
         'controller' => 'App\\Http\\Controllers\\ParentController@password',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -23008,13 +24084,15 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'student',
-          2 => 'auth',
-          3 => 'role_id',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'student',
+          4 => 'auth',
+          5 => 'role_id',
         ),
         'uses' => 'App\\Http\\Controllers\\StudentController@studentDashboard',
         'controller' => 'App\\Http\\Controllers\\StudentController@studentDashboard',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -23048,12 +24126,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'student',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'student',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\StudentController@teacherList',
         'controller' => 'App\\Http\\Controllers\\StudentController@teacherList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -23087,12 +24167,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'student',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'student',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\StudentController@dailyAttendance',
         'controller' => 'App\\Http\\Controllers\\StudentController@dailyAttendance',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -23126,12 +24208,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'student',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'student',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\StudentController@dailyAttendance',
         'controller' => 'App\\Http\\Controllers\\StudentController@dailyAttendance',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -23165,12 +24249,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'student',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'student',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\StudentController@dailyAttendanceFilter_csv',
         'controller' => 'App\\Http\\Controllers\\StudentController@dailyAttendanceFilter_csv',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -23204,12 +24290,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'student',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'student',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\StudentController@routine',
         'controller' => 'App\\Http\\Controllers\\StudentController@routine',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -23243,12 +24331,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'student',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'student',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\StudentController@subjectList',
         'controller' => 'App\\Http\\Controllers\\StudentController@subjectList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -23282,12 +24372,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'student',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'student',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\StudentController@syllabus',
         'controller' => 'App\\Http\\Controllers\\StudentController@syllabus',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -23321,12 +24413,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'student',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'student',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\StudentController@gradeList',
         'controller' => 'App\\Http\\Controllers\\StudentController@gradeList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -23360,12 +24454,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'student',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'student',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\StudentController@bookList',
         'controller' => 'App\\Http\\Controllers\\StudentController@bookList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -23399,12 +24495,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'student',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'student',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\StudentController@bookIssueList',
         'controller' => 'App\\Http\\Controllers\\StudentController@bookIssueList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -23438,12 +24536,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'student',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'student',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\StudentController@marks',
         'controller' => 'App\\Http\\Controllers\\StudentController@marks',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -23477,12 +24577,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'student',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'student',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\StudentController@noticeboardList',
         'controller' => 'App\\Http\\Controllers\\StudentController@noticeboardList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -23516,12 +24618,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'student',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'student',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\StudentController@editNoticeboard',
         'controller' => 'App\\Http\\Controllers\\StudentController@editNoticeboard',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -23555,12 +24659,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'student',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'student',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\StudentController@eventList',
         'controller' => 'App\\Http\\Controllers\\StudentController@eventList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -23594,12 +24700,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'student',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'student',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\StudentController@FeeManagerList',
         'controller' => 'App\\Http\\Controllers\\StudentController@FeeManagerList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -23633,12 +24741,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'student',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'student',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\StudentController@feeManagerExport',
         'controller' => 'App\\Http\\Controllers\\StudentController@feeManagerExport',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -23672,12 +24782,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'student',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'student',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\StudentController@student_fee_success_payment_student',
         'controller' => 'App\\Http\\Controllers\\StudentController@student_fee_success_payment_student',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -23711,12 +24823,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'student',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'student',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\StudentController@student_fee_fail_payment_student',
         'controller' => 'App\\Http\\Controllers\\StudentController@student_fee_fail_payment_student',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -23750,12 +24864,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'student',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'student',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\StudentController@FeePayment',
         'controller' => 'App\\Http\\Controllers\\StudentController@FeePayment',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -23788,12 +24904,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'student',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'student',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\StudentController@offlinePaymentStudent',
         'controller' => 'App\\Http\\Controllers\\StudentController@offlinePaymentStudent',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -23827,12 +24945,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'student',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'student',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\StudentController@studentFeeinvoice',
         'controller' => 'App\\Http\\Controllers\\StudentController@studentFeeinvoice',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -23866,12 +24986,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'student',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'student',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\StudentController@profile',
         'controller' => 'App\\Http\\Controllers\\StudentController@profile',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -23904,12 +25026,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'student',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'student',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\StudentController@profile_update',
         'controller' => 'App\\Http\\Controllers\\StudentController@profile_update',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -23948,12 +25072,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'student',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'student',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\StudentController@password',
         'controller' => 'App\\Http\\Controllers\\StudentController@password',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -23986,12 +25112,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'student',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'student',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\SchoolPaystackController@initializePaystack',
         'controller' => 'App\\Http\\Controllers\\SchoolPaystackController@initializePaystack',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -24025,12 +25153,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'student',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'student',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\SchoolPaystackController@authorizePaystack',
         'controller' => 'App\\Http\\Controllers\\SchoolPaystackController@authorizePaystack',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -24064,11 +25194,13 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\CommonController@classWiseSections',
         'controller' => 'App\\Http\\Controllers\\CommonController@classWiseSections',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -24102,11 +25234,13 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\CommonController@classWiseSubject',
         'controller' => 'App\\Http\\Controllers\\CommonController@classWiseSubject',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -24140,11 +25274,13 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\CommonController@classWiseStudents',
         'controller' => 'App\\Http\\Controllers\\CommonController@classWiseStudents',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -24178,11 +25314,13 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\CommonController@sectionWiseStudents',
         'controller' => 'App\\Http\\Controllers\\CommonController@sectionWiseStudents',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -24216,11 +25354,13 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\CommonController@getGrade',
         'controller' => 'App\\Http\\Controllers\\CommonController@getGrade',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -24254,11 +25394,13 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\CommonController@markUpdate',
         'controller' => 'App\\Http\\Controllers\\CommonController@markUpdate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -24292,11 +25434,13 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\CommonController@idWiseUserName',
         'controller' => 'App\\Http\\Controllers\\CommonController@idWiseUserName',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -24330,13 +25474,15 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'accountant',
-          2 => 'auth',
-          3 => 'role_id',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'accountant',
+          4 => 'auth',
+          5 => 'role_id',
         ),
         'uses' => 'App\\Http\\Controllers\\AccountantController@accountantDashboard',
         'controller' => 'App\\Http\\Controllers\\AccountantController@accountantDashboard',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -24370,12 +25516,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'accountant',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'accountant',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AccountantController@studentFeeManagerList',
         'controller' => 'App\\Http\\Controllers\\AccountantController@studentFeeManagerList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -24409,12 +25557,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'accountant',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'accountant',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AccountantController@feeManagerExport',
         'controller' => 'App\\Http\\Controllers\\AccountantController@feeManagerExport',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -24448,12 +25598,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'accountant',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'accountant',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AccountantController@feeManagerExportPdfPrint',
         'controller' => 'App\\Http\\Controllers\\AccountantController@feeManagerExportPdfPrint',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -24487,12 +25639,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'accountant',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'accountant',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AccountantController@createFeeManager',
         'controller' => 'App\\Http\\Controllers\\AccountantController@createFeeManager',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -24525,12 +25679,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'accountant',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'accountant',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AccountantController@feeManagerCreate',
         'controller' => 'App\\Http\\Controllers\\AccountantController@feeManagerCreate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -24564,12 +25720,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'accountant',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'accountant',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AccountantController@editFeeManager',
         'controller' => 'App\\Http\\Controllers\\AccountantController@editFeeManager',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -24602,12 +25760,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'accountant',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'accountant',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AccountantController@feeManagerUpdate',
         'controller' => 'App\\Http\\Controllers\\AccountantController@feeManagerUpdate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -24641,12 +25801,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'accountant',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'accountant',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AccountantController@studentFeeDelete',
         'controller' => 'App\\Http\\Controllers\\AccountantController@studentFeeDelete',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -24680,12 +25842,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'accountant',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'accountant',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AccountantController@studentFeeinvoice',
         'controller' => 'App\\Http\\Controllers\\AccountantController@studentFeeinvoice',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -24719,12 +25883,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'accountant',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'accountant',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AccountantController@offline_payment_pending',
         'controller' => 'App\\Http\\Controllers\\AccountantController@offline_payment_pending',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -24758,12 +25924,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'accountant',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'accountant',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AccountantController@update_offline_payment',
         'controller' => 'App\\Http\\Controllers\\AccountantController@update_offline_payment',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -24797,12 +25965,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'accountant',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'accountant',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AccountantController@expenseList',
         'controller' => 'App\\Http\\Controllers\\AccountantController@expenseList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -24836,12 +26006,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'accountant',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'accountant',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AccountantController@createExpense',
         'controller' => 'App\\Http\\Controllers\\AccountantController@createExpense',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -24874,12 +26046,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'accountant',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'accountant',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AccountantController@expenseCreate',
         'controller' => 'App\\Http\\Controllers\\AccountantController@expenseCreate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -24913,12 +26087,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'accountant',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'accountant',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AccountantController@editExpense',
         'controller' => 'App\\Http\\Controllers\\AccountantController@editExpense',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -24951,12 +26127,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'accountant',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'accountant',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AccountantController@expenseUpdate',
         'controller' => 'App\\Http\\Controllers\\AccountantController@expenseUpdate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -24990,12 +26168,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'accountant',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'accountant',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AccountantController@expenseDelete',
         'controller' => 'App\\Http\\Controllers\\AccountantController@expenseDelete',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -25029,12 +26209,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'accountant',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'accountant',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AccountantController@expenseCategoryList',
         'controller' => 'App\\Http\\Controllers\\AccountantController@expenseCategoryList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -25068,12 +26250,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'accountant',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'accountant',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AccountantController@createExpenseCategory',
         'controller' => 'App\\Http\\Controllers\\AccountantController@createExpenseCategory',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -25106,12 +26290,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'accountant',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'accountant',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AccountantController@expenseCategoryCreate',
         'controller' => 'App\\Http\\Controllers\\AccountantController@expenseCategoryCreate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -25145,12 +26331,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'accountant',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'accountant',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AccountantController@editExpenseCategory',
         'controller' => 'App\\Http\\Controllers\\AccountantController@editExpenseCategory',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -25183,12 +26371,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'accountant',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'accountant',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AccountantController@expenseCategoryUpdate',
         'controller' => 'App\\Http\\Controllers\\AccountantController@expenseCategoryUpdate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -25222,12 +26412,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'accountant',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'accountant',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AccountantController@expenseCategoryDelete',
         'controller' => 'App\\Http\\Controllers\\AccountantController@expenseCategoryDelete',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -25261,12 +26453,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'accountant',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'accountant',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AccountantController@noticeboardList',
         'controller' => 'App\\Http\\Controllers\\AccountantController@noticeboardList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -25300,12 +26494,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'accountant',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'accountant',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AccountantController@editNoticeboard',
         'controller' => 'App\\Http\\Controllers\\AccountantController@editNoticeboard',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -25339,12 +26535,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'accountant',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'accountant',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AccountantController@eventList',
         'controller' => 'App\\Http\\Controllers\\AccountantController@eventList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -25378,12 +26576,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'accountant',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'accountant',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AccountantController@profile',
         'controller' => 'App\\Http\\Controllers\\AccountantController@profile',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -25416,12 +26616,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'accountant',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'accountant',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AccountantController@profile_update',
         'controller' => 'App\\Http\\Controllers\\AccountantController@profile_update',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -25460,12 +26662,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'accountant',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'accountant',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\AccountantController@password',
         'controller' => 'App\\Http\\Controllers\\AccountantController@password',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -25499,13 +26703,15 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'librarian',
-          2 => 'auth',
-          3 => 'role_id',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'librarian',
+          4 => 'auth',
+          5 => 'role_id',
         ),
         'uses' => 'App\\Http\\Controllers\\LibrarianController@librarianDashboard',
         'controller' => 'App\\Http\\Controllers\\LibrarianController@librarianDashboard',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -25539,12 +26745,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'librarian',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'librarian',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\LibrarianController@bookList',
         'controller' => 'App\\Http\\Controllers\\LibrarianController@bookList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -25578,12 +26786,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'librarian',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'librarian',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\LibrarianController@createBook',
         'controller' => 'App\\Http\\Controllers\\LibrarianController@createBook',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -25616,12 +26826,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'librarian',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'librarian',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\LibrarianController@bookCreate',
         'controller' => 'App\\Http\\Controllers\\LibrarianController@bookCreate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -25655,12 +26867,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'librarian',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'librarian',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\LibrarianController@editBook',
         'controller' => 'App\\Http\\Controllers\\LibrarianController@editBook',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -25693,12 +26907,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'librarian',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'librarian',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\LibrarianController@bookUpdate',
         'controller' => 'App\\Http\\Controllers\\LibrarianController@bookUpdate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -25732,12 +26948,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'librarian',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'librarian',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\LibrarianController@bookDelete',
         'controller' => 'App\\Http\\Controllers\\LibrarianController@bookDelete',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -25771,12 +26989,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'librarian',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'librarian',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\LibrarianController@bookIssueList',
         'controller' => 'App\\Http\\Controllers\\LibrarianController@bookIssueList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -25810,12 +27030,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'librarian',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'librarian',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\LibrarianController@createBookIssue',
         'controller' => 'App\\Http\\Controllers\\LibrarianController@createBookIssue',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -25848,12 +27070,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'librarian',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'librarian',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\LibrarianController@bookIssueCreate',
         'controller' => 'App\\Http\\Controllers\\LibrarianController@bookIssueCreate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -25887,12 +27111,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'librarian',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'librarian',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\LibrarianController@editBookIssue',
         'controller' => 'App\\Http\\Controllers\\LibrarianController@editBookIssue',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -25925,12 +27151,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'librarian',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'librarian',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\LibrarianController@bookIssueUpdate',
         'controller' => 'App\\Http\\Controllers\\LibrarianController@bookIssueUpdate',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -25964,12 +27192,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'librarian',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'librarian',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\LibrarianController@bookIssueReturn',
         'controller' => 'App\\Http\\Controllers\\LibrarianController@bookIssueReturn',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -26003,12 +27233,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'librarian',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'librarian',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\LibrarianController@bookIssueDelete',
         'controller' => 'App\\Http\\Controllers\\LibrarianController@bookIssueDelete',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -26042,12 +27274,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'librarian',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'librarian',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\LibrarianController@noticeboardList',
         'controller' => 'App\\Http\\Controllers\\LibrarianController@noticeboardList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -26081,12 +27315,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'librarian',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'librarian',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\LibrarianController@editNoticeboard',
         'controller' => 'App\\Http\\Controllers\\LibrarianController@editNoticeboard',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -26120,12 +27356,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'librarian',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'librarian',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\LibrarianController@eventList',
         'controller' => 'App\\Http\\Controllers\\LibrarianController@eventList',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -26159,12 +27397,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'librarian',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'librarian',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\LibrarianController@profile',
         'controller' => 'App\\Http\\Controllers\\LibrarianController@profile',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -26197,12 +27437,14 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'librarian',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'librarian',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\LibrarianController@profile_update',
         'controller' => 'App\\Http\\Controllers\\LibrarianController@profile_update',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
@@ -26241,547 +27483,19 @@ app('router')->setCompiledRoutes(
         'middleware' => 
         array (
           0 => 'web',
-          1 => 'librarian',
-          2 => 'auth',
+          1 => 'Stancl\\Tenancy\\Middleware\\InitializeTenancyByDomain',
+          2 => 'Stancl\\Tenancy\\Middleware\\PreventAccessFromCentralDomains',
+          3 => 'librarian',
+          4 => 'auth',
         ),
         'uses' => 'App\\Http\\Controllers\\LibrarianController@password',
         'controller' => 'App\\Http\\Controllers\\LibrarianController@password',
-        'namespace' => NULL,
+        'namespace' => '',
         'prefix' => '',
         'where' => 
         array (
         ),
         'as' => 'librarian.password',
-      ),
-      'fallback' => false,
-      'defaults' => 
-      array (
-      ),
-      'wheres' => 
-      array (
-      ),
-      'bindingFields' => 
-      array (
-      ),
-      'lockSeconds' => NULL,
-      'waitSeconds' => NULL,
-      'withTrashed' => false,
-    ),
-    'superadmin.addon.create' => 
-    array (
-      'methods' => 
-      array (
-        0 => 'POST',
-      ),
-      'uri' => 'superadmin/addon/create',
-      'action' => 
-      array (
-        'middleware' => 
-        array (
-          0 => 'web',
-          1 => 'superAdmin',
-          2 => 'auth',
-        ),
-        'uses' => 'App\\Http\\Controllers\\Updater@update',
-        'controller' => 'App\\Http\\Controllers\\Updater@update',
-        'namespace' => NULL,
-        'prefix' => '',
-        'where' => 
-        array (
-        ),
-        'as' => 'superadmin.addon.create',
-      ),
-      'fallback' => false,
-      'defaults' => 
-      array (
-      ),
-      'wheres' => 
-      array (
-      ),
-      'bindingFields' => 
-      array (
-      ),
-      'lockSeconds' => NULL,
-      'waitSeconds' => NULL,
-      'withTrashed' => false,
-    ),
-    'superadmin.addon.update' => 
-    array (
-      'methods' => 
-      array (
-        0 => 'POST',
-      ),
-      'uri' => 'superadmin/addon/update',
-      'action' => 
-      array (
-        'middleware' => 
-        array (
-          0 => 'web',
-          1 => 'superAdmin',
-          2 => 'auth',
-        ),
-        'uses' => 'App\\Http\\Controllers\\Updater@update',
-        'controller' => 'App\\Http\\Controllers\\Updater@update',
-        'namespace' => NULL,
-        'prefix' => '',
-        'where' => 
-        array (
-        ),
-        'as' => 'superadmin.addon.update',
-      ),
-      'fallback' => false,
-      'defaults' => 
-      array (
-      ),
-      'wheres' => 
-      array (
-      ),
-      'bindingFields' => 
-      array (
-      ),
-      'lockSeconds' => NULL,
-      'waitSeconds' => NULL,
-      'withTrashed' => false,
-    ),
-    'superadmin.product.update' => 
-    array (
-      'methods' => 
-      array (
-        0 => 'POST',
-      ),
-      'uri' => 'superadmin/product/update',
-      'action' => 
-      array (
-        'middleware' => 
-        array (
-          0 => 'web',
-          1 => 'superAdmin',
-          2 => 'auth',
-        ),
-        'uses' => 'App\\Http\\Controllers\\Updater@update',
-        'controller' => 'App\\Http\\Controllers\\Updater@update',
-        'namespace' => NULL,
-        'prefix' => '',
-        'where' => 
-        array (
-        ),
-        'as' => 'superadmin.product.update',
-      ),
-      'fallback' => false,
-      'defaults' => 
-      array (
-      ),
-      'wheres' => 
-      array (
-      ),
-      'bindingFields' => 
-      array (
-      ),
-      'lockSeconds' => NULL,
-      'waitSeconds' => NULL,
-      'withTrashed' => false,
-    ),
-    'generated::CojnuFL1q116yW3G' => 
-    array (
-      'methods' => 
-      array (
-        0 => 'GET',
-        1 => 'HEAD',
-      ),
-      'uri' => 'install_ended',
-      'action' => 
-      array (
-        'middleware' => 
-        array (
-          0 => 'web',
-        ),
-        'uses' => 'App\\Http\\Controllers\\InstallController@index',
-        'controller' => 'App\\Http\\Controllers\\InstallController@index',
-        'namespace' => NULL,
-        'prefix' => '',
-        'where' => 
-        array (
-        ),
-        'as' => 'generated::CojnuFL1q116yW3G',
-      ),
-      'fallback' => false,
-      'defaults' => 
-      array (
-      ),
-      'wheres' => 
-      array (
-      ),
-      'bindingFields' => 
-      array (
-      ),
-      'lockSeconds' => NULL,
-      'waitSeconds' => NULL,
-      'withTrashed' => false,
-    ),
-    'step0' => 
-    array (
-      'methods' => 
-      array (
-        0 => 'GET',
-        1 => 'HEAD',
-      ),
-      'uri' => 'install/step0',
-      'action' => 
-      array (
-        'middleware' => 
-        array (
-          0 => 'web',
-        ),
-        'uses' => 'App\\Http\\Controllers\\InstallController@step0',
-        'controller' => 'App\\Http\\Controllers\\InstallController@step0',
-        'namespace' => NULL,
-        'prefix' => '',
-        'where' => 
-        array (
-        ),
-        'as' => 'step0',
-      ),
-      'fallback' => false,
-      'defaults' => 
-      array (
-      ),
-      'wheres' => 
-      array (
-      ),
-      'bindingFields' => 
-      array (
-      ),
-      'lockSeconds' => NULL,
-      'waitSeconds' => NULL,
-      'withTrashed' => false,
-    ),
-    'step1' => 
-    array (
-      'methods' => 
-      array (
-        0 => 'GET',
-        1 => 'HEAD',
-      ),
-      'uri' => 'install/step1',
-      'action' => 
-      array (
-        'middleware' => 
-        array (
-          0 => 'web',
-        ),
-        'uses' => 'App\\Http\\Controllers\\InstallController@step1',
-        'controller' => 'App\\Http\\Controllers\\InstallController@step1',
-        'namespace' => NULL,
-        'prefix' => '',
-        'where' => 
-        array (
-        ),
-        'as' => 'step1',
-      ),
-      'fallback' => false,
-      'defaults' => 
-      array (
-      ),
-      'wheres' => 
-      array (
-      ),
-      'bindingFields' => 
-      array (
-      ),
-      'lockSeconds' => NULL,
-      'waitSeconds' => NULL,
-      'withTrashed' => false,
-    ),
-    'step2' => 
-    array (
-      'methods' => 
-      array (
-        0 => 'GET',
-        1 => 'HEAD',
-      ),
-      'uri' => 'install/step2',
-      'action' => 
-      array (
-        'middleware' => 
-        array (
-          0 => 'web',
-        ),
-        'uses' => 'App\\Http\\Controllers\\InstallController@step2',
-        'controller' => 'App\\Http\\Controllers\\InstallController@step2',
-        'namespace' => NULL,
-        'prefix' => '',
-        'where' => 
-        array (
-        ),
-        'as' => 'step2',
-      ),
-      'fallback' => false,
-      'defaults' => 
-      array (
-      ),
-      'wheres' => 
-      array (
-      ),
-      'bindingFields' => 
-      array (
-      ),
-      'lockSeconds' => NULL,
-      'waitSeconds' => NULL,
-      'withTrashed' => false,
-    ),
-    'step3' => 
-    array (
-      'methods' => 
-      array (
-        0 => 'GET',
-        1 => 'HEAD',
-        2 => 'POST',
-        3 => 'PUT',
-        4 => 'PATCH',
-        5 => 'DELETE',
-        6 => 'OPTIONS',
-      ),
-      'uri' => 'install/step3',
-      'action' => 
-      array (
-        'middleware' => 
-        array (
-          0 => 'web',
-        ),
-        'uses' => 'App\\Http\\Controllers\\InstallController@step3',
-        'controller' => 'App\\Http\\Controllers\\InstallController@step3',
-        'namespace' => NULL,
-        'prefix' => '',
-        'where' => 
-        array (
-        ),
-        'as' => 'step3',
-      ),
-      'fallback' => false,
-      'defaults' => 
-      array (
-      ),
-      'wheres' => 
-      array (
-      ),
-      'bindingFields' => 
-      array (
-      ),
-      'lockSeconds' => NULL,
-      'waitSeconds' => NULL,
-      'withTrashed' => false,
-    ),
-    'step4' => 
-    array (
-      'methods' => 
-      array (
-        0 => 'GET',
-        1 => 'HEAD',
-      ),
-      'uri' => 'install/step4',
-      'action' => 
-      array (
-        'middleware' => 
-        array (
-          0 => 'web',
-        ),
-        'uses' => 'App\\Http\\Controllers\\InstallController@step4',
-        'controller' => 'App\\Http\\Controllers\\InstallController@step4',
-        'namespace' => NULL,
-        'prefix' => '',
-        'where' => 
-        array (
-        ),
-        'as' => 'step4',
-      ),
-      'fallback' => false,
-      'defaults' => 
-      array (
-      ),
-      'wheres' => 
-      array (
-      ),
-      'bindingFields' => 
-      array (
-      ),
-      'lockSeconds' => NULL,
-      'waitSeconds' => NULL,
-      'withTrashed' => false,
-    ),
-    'step4.confirm_import' => 
-    array (
-      'methods' => 
-      array (
-        0 => 'GET',
-        1 => 'HEAD',
-      ),
-      'uri' => 'install/step4/{confirm_import}',
-      'action' => 
-      array (
-        'middleware' => 
-        array (
-          0 => 'web',
-        ),
-        'uses' => 'App\\Http\\Controllers\\InstallController@confirmImport',
-        'controller' => 'App\\Http\\Controllers\\InstallController@confirmImport',
-        'namespace' => NULL,
-        'prefix' => '',
-        'where' => 
-        array (
-        ),
-        'as' => 'step4.confirm_import',
-      ),
-      'fallback' => false,
-      'defaults' => 
-      array (
-      ),
-      'wheres' => 
-      array (
-      ),
-      'bindingFields' => 
-      array (
-      ),
-      'lockSeconds' => NULL,
-      'waitSeconds' => NULL,
-      'withTrashed' => false,
-    ),
-    'confirm_install' => 
-    array (
-      'methods' => 
-      array (
-        0 => 'GET',
-        1 => 'HEAD',
-      ),
-      'uri' => 'install/install',
-      'action' => 
-      array (
-        'middleware' => 
-        array (
-          0 => 'web',
-        ),
-        'uses' => 'App\\Http\\Controllers\\InstallController@confirmInstall',
-        'controller' => 'App\\Http\\Controllers\\InstallController@confirmInstall',
-        'namespace' => NULL,
-        'prefix' => '',
-        'where' => 
-        array (
-        ),
-        'as' => 'confirm_install',
-      ),
-      'fallback' => false,
-      'defaults' => 
-      array (
-      ),
-      'wheres' => 
-      array (
-      ),
-      'bindingFields' => 
-      array (
-      ),
-      'lockSeconds' => NULL,
-      'waitSeconds' => NULL,
-      'withTrashed' => false,
-    ),
-    'install.validate' => 
-    array (
-      'methods' => 
-      array (
-        0 => 'POST',
-      ),
-      'uri' => 'install/validate',
-      'action' => 
-      array (
-        'middleware' => 
-        array (
-          0 => 'web',
-        ),
-        'uses' => 'App\\Http\\Controllers\\InstallController@validatePurchaseCode',
-        'controller' => 'App\\Http\\Controllers\\InstallController@validatePurchaseCode',
-        'namespace' => NULL,
-        'prefix' => '',
-        'where' => 
-        array (
-        ),
-        'as' => 'install.validate',
-      ),
-      'fallback' => false,
-      'defaults' => 
-      array (
-      ),
-      'wheres' => 
-      array (
-      ),
-      'bindingFields' => 
-      array (
-      ),
-      'lockSeconds' => NULL,
-      'waitSeconds' => NULL,
-      'withTrashed' => false,
-    ),
-    'finalizing_setup' => 
-    array (
-      'methods' => 
-      array (
-        0 => 'GET',
-        1 => 'HEAD',
-        2 => 'POST',
-        3 => 'PUT',
-        4 => 'PATCH',
-        5 => 'DELETE',
-        6 => 'OPTIONS',
-      ),
-      'uri' => 'install/finalizing_setup',
-      'action' => 
-      array (
-        'middleware' => 
-        array (
-          0 => 'web',
-        ),
-        'uses' => 'App\\Http\\Controllers\\InstallController@finalizingSetup',
-        'controller' => 'App\\Http\\Controllers\\InstallController@finalizingSetup',
-        'namespace' => NULL,
-        'prefix' => '',
-        'where' => 
-        array (
-        ),
-        'as' => 'finalizing_setup',
-      ),
-      'fallback' => false,
-      'defaults' => 
-      array (
-      ),
-      'wheres' => 
-      array (
-      ),
-      'bindingFields' => 
-      array (
-      ),
-      'lockSeconds' => NULL,
-      'waitSeconds' => NULL,
-      'withTrashed' => false,
-    ),
-    'success' => 
-    array (
-      'methods' => 
-      array (
-        0 => 'GET',
-        1 => 'HEAD',
-      ),
-      'uri' => 'install/success',
-      'action' => 
-      array (
-        'middleware' => 
-        array (
-          0 => 'web',
-        ),
-        'uses' => 'App\\Http\\Controllers\\InstallController@success',
-        'controller' => 'App\\Http\\Controllers\\InstallController@success',
-        'namespace' => NULL,
-        'prefix' => '',
-        'where' => 
-        array (
-        ),
-        'as' => 'success',
       ),
       'fallback' => false,
       'defaults' => 

@@ -92,7 +92,7 @@ class LoginController extends Controller
 
                         session(['driver_login' => 8]);
                         return redirect()->route('driver.dashboard');
-                        
+
                     }   else if (auth()->user()->role_id == 9) {
 
                         session(['alumni_login' => 9]);
@@ -107,7 +107,7 @@ class LoginController extends Controller
                     ->with('error', 'Email-Address And Password Are Wrong.');
             }
         } else {
-            return redirect()->route('login')
+            return redirect()->back()
                     ->with('error', 'Your school is yet to be authorized to this service!');
         }
     }

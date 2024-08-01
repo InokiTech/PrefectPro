@@ -52,48 +52,48 @@ class AdminController extends Controller
      * @return \Illuminate\Contracts\Support\Renderable
      */
 
-    function __construct()
-    {
-        $this->middleware(function ($request, $next) {
-            $this->user = Auth()->user();
-            $this->check_subscription_status(Auth()->user()->school_id);
-            return $next($request);
-        });
-    }
+    // function __construct()
+    // {
+    //     $this->middleware(function ($request, $next) {
+    //         $this->user = Auth()->user();
+    //         $this->check_subscription_status(Auth()->user()->school_id);
+    //         return $next($request);
+    //     });
+    // }
 
-    function check_subscription_status($school_id = "")
-    {
-        $current_route = Route::currentRouteName();
-        $has_subscription = Subscription::where('school_id', $school_id)->where('status', 1)->get()->count();
-        $active_subscription = Subscription::where('school_id', $school_id)->where('active', 1)->first();
+    // function check_subscription_status($school_id = "")
+    // {
+    //     $current_route = Route::currentRouteName();
+    //     $has_subscription = Subscription::where('school_id', $school_id)->where('status', 1)->get()->count();
+    //     $active_subscription = Subscription::where('school_id', $school_id)->where('active', 1)->first();
 
-        $today = date("Y-m-d");
-        $today_time = strtotime($today);
+    //     $today = date("Y-m-d");
+    //     $today_time = strtotime($today);
 
-        if ($has_subscription != 0) {
+    //     if ($has_subscription != 0) {
 
-            $expiry_status = (int)$active_subscription['expire_date'] < $today_time;
+    //         $expiry_status = (int)$active_subscription['expire_date'] < $today_time;
 
-            if (
-                ($current_route != 'admin.subscription' && $expiry_status) &&
-                ($current_route != 'admin.subscription.purchase' && $expiry_status) &&
-                ($current_route != 'admin.subscription.payment' && $expiry_status) &&
-                ($current_route != 'admin.subscription.offline_payment' && $expiry_status)
-            ) {
-                redirect()->route('admin.subscription')->send();
-            }
-        } else {
+    //         if (
+    //             ($current_route != 'admin.subscription' && $expiry_status) &&
+    //             ($current_route != 'admin.subscription.purchase' && $expiry_status) &&
+    //             ($current_route != 'admin.subscription.payment' && $expiry_status) &&
+    //             ($current_route != 'admin.subscription.offline_payment' && $expiry_status)
+    //         ) {
+    //             redirect()->route('admin.subscription')->send();
+    //         }
+    //     } else {
 
-            if (
-                ($current_route != 'admin.subscription' && $has_subscription == 0) &&
-                ($current_route != 'admin.subscription.purchase' && $has_subscription == 0) &&
-                ($current_route != 'admin.subscription.payment' && $has_subscription == 0) &&
-                ($current_route != 'admin.subscription.offline_payment' && $has_subscription == 0)
-            ) {
-                redirect()->route('admin.subscription')->send();
-            }
-        }
-    }
+    //         if (
+    //             ($current_route != 'admin.subscription' && $has_subscription == 0) &&
+    //             ($current_route != 'admin.subscription.purchase' && $has_subscription == 0) &&
+    //             ($current_route != 'admin.subscription.payment' && $has_subscription == 0) &&
+    //             ($current_route != 'admin.subscription.offline_payment' && $has_subscription == 0)
+    //         ) {
+    //             redirect()->route('admin.subscription')->send();
+    //         }
+    //     }
+    // }
 
     /**
      * Show the admin dashboard.
@@ -101,24 +101,24 @@ class AdminController extends Controller
      * @return \Illuminate\Contracts\Support\Renderable
      */
 
-    public function check_admin_subscription($school_id)
-    {
-        $validity_of_current_package = Subscription::where('school_id', $school_id)->where('active', 1)->first();
-        if (!empty($validity_of_current_package)) {
-            $validity_of_current_package = $validity_of_current_package->toArray();
+    // public function check_admin_subscription($school_id)
+    // {
+    //     $validity_of_current_package = Subscription::where('school_id', $school_id)->where('active', 1)->first();
+    //     if (!empty($validity_of_current_package)) {
+    //         $validity_of_current_package = $validity_of_current_package->toArray();
 
 
-            $today = date("Y-m-d");
-            $today_time = strtotime($today);
+    //         $today = date("Y-m-d");
+    //         $today_time = strtotime($today);
 
-            if ((int)$validity_of_current_package['expire_date'] < $today_time) {
-            } else {
+    //         if ((int)$validity_of_current_package['expire_date'] < $today_time) {
+    //         } else {
 
-                $this->adminDashboard();
-            }
-        } else {
-        }
-    }
+    //             $this->adminDashboard();
+    //         }
+    //     } else {
+    //     }
+    // }
 
 
 
@@ -2497,19 +2497,19 @@ class AdminController extends Controller
     //     $subjects->map->delete();
     //     return redirect()->back()->with('message', 'You have successfully delete class.');
     // }
-    
+
     public function classDelete($id)
     {
         $class = Classes::find($id);
-    
+
         try {
             $sections = Section::where('class_id', $id)->get();
             $subjects = Subject::where('class_id', $id)->get();
-            
+
             if (!$sections->isEmpty() || !$subjects->isEmpty()) {
                 return redirect()->back()->with('error', 'Cannot delete because there are related sections or subjects.');
             }
-    
+
             $class->delete();
             return redirect()->back()->with('message', 'You have successfully deleted the class.');
         } catch (\Exception $e) {

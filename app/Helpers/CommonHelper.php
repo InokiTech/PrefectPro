@@ -3,6 +3,29 @@ use App\Models\PaymentMethods;
 use App\Models\GlobalSettings;
 use App\Models\User;
 //All common helper functions
+if (!function_exists('tenant_route')) {
+    function tenant_route($routeName, $parameters = [], $absolute = true)
+    {
+        if (isTenant()) {
+            return route('tenant.' . $routeName, $parameters, $absolute);
+        }
+
+        return route($routeName, $parameters, $absolute);
+    }
+}
+
+if (!function_exists('isTenant')) {
+    function isTenant()
+    {
+        // Example: Check for subdomain
+        $host = request()->getHost();
+        $parts = explode('.', $host);
+
+        return count($parts) > 2 && $parts[0] !== 'www';
+    }
+}
+
+
 if (! function_exists('get_user_image')) {
     function get_user_image($file_name_or_user_id = '') {
         if(is_numeric($file_name_or_user_id)){

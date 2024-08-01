@@ -3,7 +3,7 @@
         'name' => 'laravel/laravel',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '726bedd3fa29d17bcf4e8fc4f57936c89bed7d68',
+        'reference' => '376d9aa6e4de781447cefe2c8f13f09cb7b36a0c',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -136,6 +136,15 @@
             'reference' => 'ebaaf5be6c0286928352e054f2d5125608e5405e',
             'type' => 'library',
             'install_path' => __DIR__ . '/../egulias/email-validator',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'facade/ignition-contracts' => array(
+            'pretty_version' => '1.0.2',
+            'version' => '1.0.2.0',
+            'reference' => '3c921a1cdba35b68a7f0ccffc6dffc1995b18267',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../facade/ignition-contracts',
             'aliases' => array(),
             'dev_requirement' => false,
         ),
@@ -448,7 +457,7 @@
         'laravel/laravel' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '726bedd3fa29d17bcf4e8fc4f57936c89bed7d68',
+            'reference' => '376d9aa6e4de781447cefe2c8f13f09cb7b36a0c',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
@@ -715,15 +724,15 @@
         'php-http/async-client-implementation' => array(
             'dev_requirement' => false,
             'provided' => array(
-                0 => '1.0',
-                1 => '*',
+                0 => '*',
+                1 => '1.0',
             ),
         ),
         'php-http/client-implementation' => array(
             'dev_requirement' => false,
             'provided' => array(
-                0 => '1.0',
-                1 => '*',
+                0 => '*',
+                1 => '1.0',
             ),
         ),
         'php-http/discovery' => array(
@@ -922,8 +931,8 @@
         'psr/http-factory-implementation' => array(
             'dev_requirement' => false,
             'provided' => array(
-                0 => '*',
-                1 => '1.0',
+                0 => '1.0',
+                1 => '*',
             ),
         ),
         'psr/http-message' => array(
@@ -938,8 +947,8 @@
         'psr/http-message-implementation' => array(
             'dev_requirement' => false,
             'provided' => array(
-                0 => '*',
-                1 => '1.0',
+                0 => '1.0',
+                1 => '*',
             ),
         ),
         'psr/log' => array(
@@ -954,8 +963,8 @@
         'psr/log-implementation' => array(
             'dev_requirement' => false,
             'provided' => array(
-                0 => '1.0|2.0|3.0',
-                1 => '1.0.0 || 2.0.0 || 3.0.0',
+                0 => '1.0.0 || 2.0.0 || 3.0.0',
+                1 => '1.0|2.0|3.0',
             ),
         ),
         'psr/simple-cache' => array(
@@ -1221,6 +1230,33 @@
             'install_path' => __DIR__ . '/../spatie/laravel-ignition',
             'aliases' => array(),
             'dev_requirement' => true,
+        ),
+        'stancl/jobpipeline' => array(
+            'pretty_version' => 'v1.7.0',
+            'version' => '1.7.0.0',
+            'reference' => '36474ffd2180170856fd05f6003c946064959629',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../stancl/jobpipeline',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'stancl/tenancy' => array(
+            'pretty_version' => 'v3.8.4',
+            'version' => '3.8.4.0',
+            'reference' => '8f9c7efa4584007f41048448d0a11f572a1d3239',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../stancl/tenancy',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'stancl/virtualcolumn' => array(
+            'pretty_version' => 'v1.4.1',
+            'version' => '1.4.1.0',
+            'reference' => '65f90003282c231a19367edf9692bfb6b6f23fb8',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../stancl/virtualcolumn',
+            'aliases' => array(),
+            'dev_requirement' => false,
         ),
         'stripe/stripe-php' => array(
             'pretty_version' => 'v8.12.0',

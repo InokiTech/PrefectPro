@@ -49,7 +49,7 @@ foreach (config('tenancy.central_domains') as $domain) {
     Route::domain($domain)->group(function () {
         // your actual routes
 
-        Route::view('/', 'auth.login')->name('landingPage');
+        Route::view('/', 'frontend.home')->name('landingPage');
 
         //Auth routes are here
         Auth::routes();

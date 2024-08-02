@@ -310,7 +310,7 @@ class HomeController extends Controller
             DB::commit();
             tenancy()->end();
 
-            return redirect()->route('login')->with('message', 'School Created Successfully');
+            return redirect()->route('homepage')->with('message', 'School Created Successfully');
         } catch (\Exception $e) {
             DB::rollBack();
             return $e;
